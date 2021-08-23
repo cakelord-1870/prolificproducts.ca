@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/balaclava.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-07-13T15:38:31-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6819603153056</id>
+    <published>2021-07-13T15:38:31-05:00</published>
+    <updated>2021-07-13T15:38:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/eazy-breezy%E2%84%A2-disposable-balaclava-hood-500-cs"/>
+    <title>EAZY BREEZY™ Disposable Balaclava Hood (500/cs)</title>
+    <s:type>Disposable Balaclava</s:type>
+    <s:vendor>RONCO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-07-13at4.38.37PM.png?v=1626208732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RONCO<br>
+        <strong>Type: </strong>Disposable Balaclava<br>
+        <strong>Price: </strong>
+            258.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Made from non-woven Spun Polypropylene (SPP)</li>
+<li data-mce-fragment="1">Latex-Free</li>
+<li data-mce-fragment="1">Provide full-face coverage for maximum protection</li>
+<li data-mce-fragment="1">Soft, light, non-toxic and breathable</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.3502%;">Material</td>
+<td style="width: 53.5645%;">Polypropylene</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Colour</td>
+<td style="width: 53.5645%;">Blue</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Qty/case</td>
+<td style="width: 53.5645%;">50 x 10/pkg (500/cs)</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Sold/priced per</td>
+<td style="width: 53.5645%;">Case</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1880</s:tag>
+    <s:tag>1885</s:tag>
+    <s:tag>B-1880</s:tag>
+    <s:tag>B-1885</s:tag>
+    <s:tag>B-1895</s:tag>
+    <s:tag>balaclava</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>breezy</s:tag>
+    <s:tag>canadian</s:tag>
+    <s:tag>care</s:tag>
+    <s:tag>covid</s:tag>
+    <s:tag>eazy</s:tag>
+    <s:tag>non</s:tag>
+    <s:tag>polypropylene</s:tag>
+    <s:tag>pp</s:tag>
+    <s:tag>ppe</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>ronco</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woven</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6819603153056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">258.61</s:price>
+      <s:sku>B-1885</s:sku>
+      <s:grams>2994</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6819591815328</id>
+    <published>2021-07-13T15:25:57-05:00</published>
+    <updated>2021-07-13T15:25:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ronco-care%E2%84%A2-disposable-balaclava-hood-500-cs-1"/>
+    <title>RONCO CARE™ Disposable Balaclava Hood (500/cs)</title>
+    <s:type>Disposable Balaclava</s:type>
+    <s:vendor>RONCO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-07-13at4.26.18PM.png?v=1626207990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RONCO<br>
+        <strong>Type: </strong>Disposable Balaclava<br>
+        <strong>Price: </strong>
+            148.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Made from non-woven Spun Polypropylene (SPP)</li>
+<li data-mce-fragment="1">Latex-Free</li>
+<li data-mce-fragment="1">Provide full-face coverage for maximum protection</li>
+<li data-mce-fragment="1">Soft, light, non-toxic and breathable</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.3502%;">Material</td>
+<td style="width: 53.5645%;">Polypropylene</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Colour</td>
+<td style="width: 53.5645%;">Blue</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Qty/case</td>
+<td style="width: 53.5645%;">20 x 25/pkg (500/cs)</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Sold/priced per</td>
+<td style="width: 53.5645%;">Case</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1880</s:tag>
+    <s:tag>B-1880</s:tag>
+    <s:tag>B-1895</s:tag>
+    <s:tag>balaclava</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>canadian</s:tag>
+    <s:tag>care</s:tag>
+    <s:tag>covid</s:tag>
+    <s:tag>non</s:tag>
+    <s:tag>polypropylene</s:tag>
+    <s:tag>pp</s:tag>
+    <s:tag>ppe</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>ronco</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woven</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6819591815328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">148.71</s:price>
+      <s:sku>B-1895</s:sku>
+      <s:grams>3719</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6819591225504</id>
+    <published>2021-07-13T15:25:21-05:00</published>
+    <updated>2021-07-13T15:25:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ronco-care%E2%84%A2-disposable-balaclava-hood-500-cs"/>
+    <title>RONCO CARE™ Disposable Balaclava Hood (500/cs)</title>
+    <s:type>Disposable Balaclava</s:type>
+    <s:vendor>RONCO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-07-13at4.21.06PM.png?v=1626207921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RONCO<br>
+        <strong>Type: </strong>Disposable Balaclava<br>
+        <strong>Price: </strong>
+            191.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Made from non-woven Spun Polypropylene (SPP)</li>
+<li data-mce-fragment="1">Latex-Free</li>
+<li data-mce-fragment="1">Provide full-face coverage for maximum protection</li>
+<li data-mce-fragment="1">Soft, light, non-toxic and breathable</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.3502%;">Material</td>
+<td style="width: 53.5645%;">Polypropylene</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Colour</td>
+<td style="width: 53.5645%;"> White</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Qty/case</td>
+<td style="width: 53.5645%;">20 x 25/pkg (500/cs)</td>
+</tr>
+<tr>
+<td style="width: 43.3502%;">Sold/priced per</td>
+<td style="width: 53.5645%;">Case</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1880</s:tag>
+    <s:tag>B-1880</s:tag>
+    <s:tag>balaclava</s:tag>
+    <s:tag>canadian</s:tag>
+    <s:tag>care</s:tag>
+    <s:tag>covid</s:tag>
+    <s:tag>non</s:tag>
+    <s:tag>polypropylene</s:tag>
+    <s:tag>pp</s:tag>
+    <s:tag>ppe</s:tag>
+    <s:tag>products</s:tag>
+    <s:tag>ronco</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>woven</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6819591225504</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">191.50</s:price>
+      <s:sku>B-1880</s:sku>
+      <s:grams>3719</s:grams>
+    </s:variant>
+  </entry>
+</feed>

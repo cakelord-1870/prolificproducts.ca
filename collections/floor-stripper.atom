@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/floor-stripper.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2019-08-28T16:37:08-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732834517072</id>
+    <published>2019-08-28T16:37:08-05:00</published>
+    <updated>2019-08-28T16:37:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ep87-floor-stripper"/>
+    <title>EP87 Floor Stripper</title>
+    <s:type>Floor Stripper</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-28_at_5.39.48_PM.png?v=1567028527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Floor Stripper<br>
+        <strong>Price: </strong>
+            36.00 - 165.00
+            <a href="https://prolificproducts.ca/products/ep87-floor-stripper">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>EP87 is a high performance floor stripper. It has been designed to remove both conventional and environmentally preferable floor finishes. EP87 is a concentrated floor stripper that dissolves multiple coats of finish without the strong and unpleasant odour associated with conventional strippers. EP87 rinses quickly without leaving residual alkali to interfere with finish application.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-EP874</span></p>
+<p><span>AV-EP8720</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-EP87</s:tag>
+    <s:tag>AV-EP8720</s:tag>
+    <s:tag>AV-EP874</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>ep87</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>stripper</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732834517072</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>AV-EP874</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732834517072</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">165.00</s:price>
+      <s:sku>AV-EP8720</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732832780368</id>
+    <published>2019-08-28T16:32:57-05:00</published>
+    <updated>2019-08-28T16:32:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/exacta-floor-finish-stripper"/>
+    <title>Exacta Floor Finish Stripper</title>
+    <s:type>Floor Stripper</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-28_at_5.35.58_PM.png?v=1567028169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>Floor Stripper<br>
+        <strong>Price: </strong>
+            19.60 - 150.00
+            <a href="https://prolificproducts.ca/products/exacta-floor-finish-stripper">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Exacta floor stripper is specially formulated to obtain maximum efficiency with minimum labour requirements. Rinsing is easily accomplished, and hard water presents no problem. Excellent for use with a mop or automatic machines.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Use to remove floor finish on vinyl composition tile, ceramic tile, terrazzo and concrete.</li>
+<li class="d-flex align-items-center main-after">Extra heavy-duty stripper, quickly cuts through layers of floor finish.</li>
+<li class="d-flex align-items-center main-after">Low-suds formula.</li>
+<li class="d-flex align-items-center main-after">Also highly effective as a degreaser in industrial applications.</li>
+</ul>
+<p><strong>Product Code:</strong></p>
+<p><span>INS-EX4</span></p>
+<p><span>INS-EX20</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor</s:tag>
+    <s:tag>INS-EX20</s:tag>
+    <s:tag>INS-EX4</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>stripper</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732832780368</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">19.60</s:price>
+      <s:sku>INS-EX4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732832780368</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku>INS-EX20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3683474014288</id>
+    <published>2019-07-25T13:19:52-05:00</published>
+    <updated>2019-07-25T13:19:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-zip-strip-floor-stripper"/>
+    <title>Avmor ZIP-STRIP Floor Stripper</title>
+    <s:type>Floor Stripper</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/2125278001_zipstrip_l_web.jpg?v=1564079168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Floor Stripper<br>
+        <strong>Price: </strong>
+            21.00 - 89.95
+            <a href="https://prolificproducts.ca/products/avmor-zip-strip-floor-stripper">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A high gloss and high solids floor finish that is designed to give superior protection to floors. Responds well to a high frequency spray buff maintenance schedule in high traffic areas.</span></p>
+<p><strong>Product Codes:</strong></p>
+<p><span>FS-AV-2125334001</span></p>
+<p><span>FS-AV-</span>2125278001</p>
+<p> </p>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20L</s:tag>
+    <s:tag>2125278001</s:tag>
+    <s:tag>2125334001</s:tag>
+    <s:tag>4l</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>decaopant</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>FS-AV-2125278001</s:tag>
+    <s:tag>FS-AV-2125334001</s:tag>
+    <s:tag>gloss</s:tag>
+    <s:tag>high</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>strip</s:tag>
+    <s:tag>stripper</s:tag>
+    <s:tag>zip</s:tag>
+    <s:tag>zip-strip</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3683474014288</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>FS-AV-2125334001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3683474014288</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku>FS-AV-2125278001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

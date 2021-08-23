@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/bottles-sprayers.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-03-18T09:55:27-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6597152866464</id>
+    <published>2021-03-18T09:55:27-05:00</published>
+    <updated>2021-03-18T09:55:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/industrial-trigger-sprayer"/>
+    <title>Industrial Trigger Sprayer</title>
+    <s:type>Trigger Spray</s:type>
+    <s:vendor>M2 PROFESSIONAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.52.12AM_f41efd5e-2363-47cc-abb4-a70fe3e872ed.png?v=1616079329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>M2 PROFESSIONAL<br>
+        <strong>Type: </strong>Trigger Spray<br>
+        <strong>Price: </strong>
+            1.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<ul>
+<li>Dispenses 1.5cc per squeeze</li>
+<li>Bottle not included</li>
+<li>Ships assembled</li>
+</ul>
+</div>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.657%;">Dip Tube Length<br>
+</td>
+<td style="width: 58.4392%;">9.5"</td>
+</tr>
+<tr>
+<td style="width: 38.657%;">Neck Size</td>
+<td style="width: 58.4392%;">
+<meta charset="utf-8"> <span>28/400</span>
+</td>
+</tr>
+<tr>
+<td style="width: 38.657%;">Colour</td>
+<td style="width: 58.4392%;"> Red + White</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4&quot; L x 1.25&quot; W x 11.75&quot; H</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chemical</s:tag>
+    <s:tag>grade</s:tag>
+    <s:tag>industrial</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>resistant</s:tag>
+    <s:tag>spray-pro</s:tag>
+    <s:tag>trig</s:tag>
+    <s:tag>TRIG-902BW9</s:tag>
+    <s:tag>TRIG-TS5911RD</s:tag>
+    <s:tag>TRIG-TS5930R</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6597152866464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.66</s:price>
+      <s:sku>TRIG-TS5911RD</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6597140644000</id>
+    <published>2021-03-18T09:42:42-05:00</published>
+    <updated>2021-03-18T09:42:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/spray-bottle-with-trigger-24oz"/>
+    <title>Spray Bottle with Trigger (24oz)</title>
+    <s:type>Bottle</s:type>
+    <s:vendor>M2 PROFESSIONAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.42.28AM.png?v=1616078653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>M2 PROFESSIONAL<br>
+        <strong>Type: </strong>Bottle<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Ounces and millilitres graduation</li>
+<li>Dispense 1.5cc per squeeze</li>
+<li>Ships unassembled, must attach tube to sprayer</li>
+</ul>
+<ul></ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9144%;">Bottle Capacity</td>
+<td style="width: 56.0856%;"> 24oz</td>
+</tr>
+<tr>
+<td style="width: 39.9144%;">Neck Size</td>
+<td style="width: 56.0856%;">
+<meta charset="utf-8">
+<span>28/400</span>
+</td>
+</tr>
+<tr>
+<td style="width: 39.9144%;">Material</td>
+<td style="width: 56.0856%;">Plastic</td>
+</tr>
+<tr>
+<td style="width: 39.9144%;">Trigger Colour</td>
+<td style="width: 56.0856%;">Red/White</td>
+</tr>
+<tr>
+<td style="width: 39.9144%;">Tube Length</td>
+<td style="width: 56.0856%;">9"</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19</s:tag>
+    <s:tag>24oz</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>bouteille</s:tag>
+    <s:tag>corona</s:tag>
+    <s:tag>covid</s:tag>
+    <s:tag>PB-674</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:tag>vapo</s:tag>
+    <s:tag>virus</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6597140644000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>PB-674</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6597138153632</id>
+    <published>2021-03-18T09:39:41-05:00</published>
+    <updated>2021-03-18T09:39:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/round-plastic-bottle-with-whmis-label-24oz"/>
+    <title>Round Plastic Bottle with WHMIS Label (24oz)</title>
+    <s:type>plastic bottle</s:type>
+    <s:vendor>M2 PROFESSIONAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.39.12AM.png?v=1616078432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>M2 PROFESSIONAL<br>
+        <strong>Type: </strong>plastic bottle<br>
+        <strong>Price: </strong>
+            0.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round Plastic bottle.</p>
+<ul>
+<li>Trigger not included</li>
+<li>Ounces and millilitres graduation</li>
+<li>WHIMIS print</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.8385%;">Colour</td>
+<td style="width: 58.2577%;"> Clear/translucent</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Capacity</td>
+<td style="width: 58.2577%;">24oz</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Neck Size</td>
+<td style="width: 58.2577%;">
+<meta charset="utf-8">
+<span>28/400</span>
+</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Material</td>
+<td style="width: 58.2577%;">Plastic</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24oz</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>BT-24OZ</s:tag>
+    <s:tag>clear</s:tag>
+    <s:tag>empty</s:tag>
+    <s:tag>ounce</s:tag>
+    <s:tag>PB-TSB289W</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>translucent</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6597138153632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.96</s:price>
+      <s:sku>PB-TSB289W</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6597133336736</id>
+    <published>2021-03-18T09:35:01-05:00</published>
+    <updated>2021-03-18T09:35:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/round-plastic-bottle-24oz"/>
+    <title>Round Plastic Bottle (24oz)</title>
+    <s:type>Plastic Bottle</s:type>
+    <s:vendor>OEM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.35.06AM.png?v=1616078116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OEM<br>
+        <strong>Type: </strong>Plastic Bottle<br>
+        <strong>Price: </strong>
+            0.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Trigger not included</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.9201%;">Capacity</td>
+<td style="width: 53.176%;"> 24 oz.</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Colour</td>
+<td style="width: 53.176%;">Clear</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Neck Finish</td>
+<td style="width: 53.176%;">
+<meta charset="utf-8">
+<span>28 mm - 400 Thread</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Material</td>
+<td style="width: 53.176%;">Plastic</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Shape</td>
+<td style="width: 53.176%;">Round</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>24oz.</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>empty</s:tag>
+    <s:tag>PB-424</s:tag>
+    <s:tag>PB-580</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6597133336736</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.81</s:price>
+      <s:sku>PB-424</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6597129207968</id>
+    <published>2021-03-18T09:29:00-05:00</published>
+    <updated>2021-03-18T09:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/round-plastic-bottle-32oz"/>
+    <title>Round Plastic Bottle (32oz)</title>
+    <s:type>plastic bottle</s:type>
+    <s:vendor>M2 PROFESSIONAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.29.09AM.png?v=1616077762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>M2 PROFESSIONAL<br>
+        <strong>Type: </strong>plastic bottle<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round Plastic bottle.</p>
+<ul>
+<li>Trigger not included</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.8385%;">Colour</td>
+<td style="width: 58.2577%;"> Clear/translucent</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Capacity</td>
+<td style="width: 58.2577%;">32oz</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Material</td>
+<td style="width: 58.2577%;">Plastic</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24oz</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>32oz</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>BT-24OZ</s:tag>
+    <s:tag>clear</s:tag>
+    <s:tag>empty</s:tag>
+    <s:tag>ounce</s:tag>
+    <s:tag>oz</s:tag>
+    <s:tag>PB-TSB2902</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>translucent</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6597129207968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>PB-TSB2902</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6597126389920</id>
+    <published>2021-03-18T09:24:34-05:00</published>
+    <updated>2021-03-18T09:24:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/plastic-bottle-24oz"/>
+    <title>Plastic Bottle (24oz)</title>
+    <s:type>Plastic Bottle</s:type>
+    <s:vendor>OEM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.21.23AM.png?v=1616077473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OEM<br>
+        <strong>Type: </strong>Plastic Bottle<br>
+        <strong>Price: </strong>
+            1.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Trigger not included</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.9201%;">Capacity</td>
+<td style="width: 53.176%;"> 24 oz.</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Colour</td>
+<td style="width: 53.176%;">White</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Material</td>
+<td style="width: 53.176%;">Plastic</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Shape</td>
+<td style="width: 53.176%;">Round</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>24oz.</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>empty</s:tag>
+    <s:tag>PB-580</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>round</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6597126389920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.12</s:price>
+      <s:sku>PB-580</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5899658854560</id>
+    <published>2020-12-02T19:42:30-06:00</published>
+    <updated>2020-12-02T19:42:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/trigger-sprayer"/>
+    <title>Residential Trigger Sprayer</title>
+    <s:type>Trigger Spray</s:type>
+    <s:vendor>M2 PROFESSIONAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.52.12AM.png?v=1616079236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>M2 PROFESSIONAL<br>
+        <strong>Type: </strong>Trigger Spray<br>
+        <strong>Price: </strong>
+            1.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Heavy-duty chemical-resistant trigger sprayer with 1.3 cc output</li>
+<li>On/off spray or mist</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.657%;">Dip Tube Length<br>
+</td>
+<td style="width: 58.4392%;">8.5"</td>
+</tr>
+<tr>
+<td style="width: 38.657%;">Neck Size</td>
+<td style="width: 58.4392%;">
+<meta charset="utf-8">
+<span>28/400</span>
+</td>
+</tr>
+<tr>
+<td style="width: 38.657%;">Colour</td>
+<td style="width: 58.4392%;"> Red + White</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4&quot; L x 1.25&quot; W x 11.75&quot; H</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chemical</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>resistant</s:tag>
+    <s:tag>spray-pro</s:tag>
+    <s:tag>trig</s:tag>
+    <s:tag>TRIG-902BW9</s:tag>
+    <s:tag>TRIG-TS5930R</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5899658854560</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.18</s:price>
+      <s:sku>TRIG-TS5930R</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5808683483296</id>
+    <published>2020-10-28T08:02:19-05:00</published>
+    <updated>2020-10-28T08:02:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/janitorial-sanitation-sprayers"/>
+    <title>Janitorial/Sanitation Sprayers</title>
+    <s:type>Janitorial/Sanitation Sprayers</s:type>
+    <s:vendor>CHAPIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-28at8.57.12AM.png?v=1603890141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHAPIN<br>
+        <strong>Type: </strong>Janitorial/Sanitation Sprayers<br>
+        <strong>Price: </strong>
+            87.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Polyethylene tank</li>
+<li data-mce-fragment="1">42" reinforced hose</li>
+<li data-mce-fragment="1">12" polyethylene wand</li>
+<li data-mce-fragment="1">Adjustable polyethylene nozzle</li>
+<li data-mce-fragment="1">Viton<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>gaskets, seals and O-rings</li>
+<li data-mce-fragment="1">Chemical resistant</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.2904%;">Tank Capacity</td>
+<td style="width: 56.8058%;"> <meta charset="utf-8">
+<span data-mce-fragment="1">1 gal. (4 L)</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Tank Material</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>Plastic</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Hose Length</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>42"</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Wand Length</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>12"</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chapin</s:tag>
+    <s:tag>chemical resistant</s:tag>
+    <s:tag>gallon</s:tag>
+    <s:tag>janitorial</s:tag>
+    <s:tag>JS-2608E</s:tag>
+    <s:tag>machine</s:tag>
+    <s:tag>sanitation</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>sprayer</s:tag>
+    <s:tag>sprayers</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5808683483296</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">87.72</s:price>
+      <s:sku>JS-2608E</s:sku>
+      <s:grams>1399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5613307986080</id>
+    <published>2020-09-09T16:29:12-05:00</published>
+    <updated>2020-09-09T16:29:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/bottle-trigger"/>
+    <title>Trigger Sprayer</title>
+    <s:type>Trigger</s:type>
+    <s:vendor>OEM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.50.24AM.png?v=1616079037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OEM<br>
+        <strong>Type: </strong>Trigger<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li>Adjustable sprayer to provide fine mist to a steady stream</li>
+</ul>
+</div>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 41.1978%;">Dip Tube Length<br>
+</td>
+<td style="width: 55.8984%;">7"<br>
+</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Colour</td>
+<td style="width: 55.8984%;">White</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Material</td>
+<td style="width: 55.8984%;">Plastic</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24oz</s:tag>
+    <s:tag>32oz</s:tag>
+    <s:tag>accesorie</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>for</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>trig</s:tag>
+    <s:tag>TRIG-RW01</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:tag>twist</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5613307986080</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku>TRIG-RW01</s:sku>
+      <s:grams>345</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5611715592352</id>
+    <published>2020-09-09T07:00:35-05:00</published>
+    <updated>2020-09-09T07:00:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/empty-plastic-bottle-with-lotion-pump-500ml"/>
+    <title>Empty Plastic Bottle with Lotion Pump (500mL)</title>
+    <s:type>Plastic Bottle</s:type>
+    <s:vendor>OEM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/15748_detail.jpg?v=1599652836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OEM<br>
+        <strong>Type: </strong>Plastic Bottle<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic bottle with lotion pump.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.294%;">Size</td>
+<td style="width: 58.8022%;"> 3 1/8" Diameter</td>
+</tr>
+<tr>
+<td style="width: 38.294%;">Capacity</td>
+<td style="width: 58.8022%;">500mL</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500ml</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>BT-500ML</s:tag>
+    <s:tag>hand sanitizer</s:tag>
+    <s:tag>lotion</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>pump</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5611715592352</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>BT-500ML</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5611694129312</id>
+    <published>2020-09-09T06:52:40-05:00</published>
+    <updated>2020-09-09T06:52:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/translucent-plastic-bottle-24oz"/>
+    <title>Round Plastic Bottle (24oz)</title>
+    <s:type>plastic bottle</s:type>
+    <s:vendor>M2 PROFESSIONAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.27.12AM.png?v=1616077655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>M2 PROFESSIONAL<br>
+        <strong>Type: </strong>plastic bottle<br>
+        <strong>Price: </strong>
+            0.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round Plastic bottle.</p>
+<ul>
+<li>Trigger not included</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.8385%;">Colour</td>
+<td style="width: 58.2577%;"> Clear/translucent</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Capacity</td>
+<td style="width: 58.2577%;">24oz</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Material</td>
+<td style="width: 58.2577%;">Plastic</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24oz</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>BT-24OZ</s:tag>
+    <s:tag>clear</s:tag>
+    <s:tag>empty</s:tag>
+    <s:tag>ounce</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>translucent</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5611694129312</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.96</s:price>
+      <s:sku>BT-24OZ</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4756231651467</id>
+    <published>2020-04-06T09:38:03-05:00</published>
+    <updated>2020-04-06T09:38:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/24oz-spray-bottle-with-trigger"/>
+    <title>Spray Bottle with Trigger (24oz)</title>
+    <s:type>Bottle</s:type>
+    <s:vendor>OEM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-04-14at9.37.27AM.png?v=1586871496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OEM<br>
+        <strong>Type: </strong>Bottle<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spray Bottle with trigger included.</p>
+<ul>
+<li>24 oz. round bottle with graduations</li>
+<li>Adjustable sprayer to provide fine mist to a steady stream</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9144%;">Bottle Capacity</td>
+<td style="width: 56.0856%;"> 24oz</td>
+</tr>
+<tr>
+<td style="width: 39.9144%;">Trigger</td>
+<td style="width: 56.0856%;">9-1/4"</td>
+</tr>
+<tr>
+<td style="width: 39.9144%;">Material</td>
+<td style="width: 56.0856%;">Plastic</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>19</s:tag>
+    <s:tag>24oz</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>bouteille</s:tag>
+    <s:tag>corona</s:tag>
+    <s:tag>covid</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:tag>vapo</s:tag>
+    <s:tag>virus</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4756231651467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>TRIG-24OZ</s:sku>
+      <s:grams>76</s:grams>
+    </s:variant>
+  </entry>
+</feed>

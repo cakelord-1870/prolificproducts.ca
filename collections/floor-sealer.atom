@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/floor-sealer.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2019-08-28T16:27:31-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732830093392</id>
+    <published>2019-08-28T16:27:31-05:00</published>
+    <updated>2019-08-28T16:27:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/resistol-acrylic-floor-sealer"/>
+    <title>Resistol Acrylic Floor Sealer</title>
+    <s:type>Floor Sealer</s:type>
+    <s:vendor>SAFEBLEND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-28_at_5.30.41_PM.png?v=1567027852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SAFEBLEND<br>
+        <strong>Type: </strong>Floor Sealer<br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Acrylic floor sealer Revitalizes old and porous floors, seals pores and leaves a smooth level surface Excellent adhesion properties, ultra durable, slip resistant Reduces the quantity and cost of floor finish needed by using a Sealer first Low odour Old code: CCCFS19GW4</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>SB-R4</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acrylic</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>resistol</s:tag>
+    <s:tag>SB-R4</s:tag>
+    <s:tag>sealer</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732830093392</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku>SB-R4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732828323920</id>
+    <published>2019-08-28T16:21:33-05:00</published>
+    <updated>2019-08-28T16:21:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/acrylic-seal-for-stone-and-porous-surfaces"/>
+    <title>Acrylic seal for stone and porous surfaces</title>
+    <s:type>Floor Sealer</s:type>
+    <s:vendor>DIVERSEY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-28_at_5.26.15_PM.png?v=1567027590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIVERSEY<br>
+        <strong>Type: </strong>Floor Sealer<br>
+        <strong>Price: </strong>
+            49.90 - 138.94
+            <a href="https://prolificproducts.ca/products/acrylic-seal-for-stone-and-porous-surfaces">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Excellent leveling and adhesive characteristics, superior compatibility with a wide range of stone surfaces. Reduces scuffing and marking. Protects against soil penetration and staining. Strips easily.</span></p>
+<p><strong>Product Codes:</strong></p>
+<p><span>DIV-IS378</span></p>
+<p><span>DIV-IS189</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acrylic</s:tag>
+    <s:tag>adhesive</s:tag>
+    <s:tag>DIV-IS189</s:tag>
+    <s:tag>DIV-IS378</s:tag>
+    <s:tag>leveling</s:tag>
+    <s:tag>porous</s:tag>
+    <s:tag>seal</s:tag>
+    <s:tag>sealer</s:tag>
+    <s:tag>stone</s:tag>
+    <s:tag>surfaces</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732828323920</id>
+      <title>(3.78L)</title>
+      <s:price currency="CAD">49.90</s:price>
+      <s:sku>DIV-IS378</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732828323920</id>
+      <title>(18.9L)</title>
+      <s:price currency="CAD">138.94</s:price>
+      <s:sku>DIV-IS189</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732825636944</id>
+    <published>2019-08-28T16:16:42-05:00</published>
+    <updated>2019-08-28T16:16:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/tf700-instant-traction-conditioner-for-floors"/>
+    <title>TF700-Instant traction conditioner for floors</title>
+    <s:type>Floor Sealer</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-28_at_5.16.35_PM.png?v=1567027233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Floor Sealer<br>
+        <strong>Price: </strong>
+            53.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Micro abrasion treatment improving slip resistance. Used on ceramics (pool surround, showers, kitchens, concrete, pavers, etc.). A single application significantly increases slip resistance characteristics. Can be used periodically to clean and maintain a good resistance. Can be applied with a mop or using an autoscrubber. One gallon processes 250 sq.ft. Dilution: 1:1 and 1:60.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Improves slip resistance.</li>
+<li class="d-flex align-items-center main-after">Can be used periodically to clean and maintain good resistance.</li>
+</ul>
+<p><strong>Product Code:</strong></p>
+<p>AV-TF700378</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-TF700378</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>floors</s:tag>
+    <s:tag>for</s:tag>
+    <s:tag>instant</s:tag>
+    <s:tag>sealer</s:tag>
+    <s:tag>tf700</s:tag>
+    <s:tag>traction</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732825636944</id>
+      <title>(3.78L)</title>
+      <s:price currency="CAD">53.95</s:price>
+      <s:sku>AV-TF700378</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3723492851792</id>
+    <published>2019-08-21T08:45:43-05:00</published>
+    <updated>2019-08-21T08:45:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/sealplus-acrylic-floor-sealer"/>
+    <title>Sealplus Acrylic Floor Sealer</title>
+    <s:type>Floor Sealer</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-21_at_9.50.18_AM.png?v=1566395426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>Floor Sealer<br>
+        <strong>Price: </strong>
+            24.00 - 140.00
+            <a href="https://prolificproducts.ca/products/sealplus-acrylic-floor-sealer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>SealPlus acrylic sealer is specially formulated as an excellent base for all kinds of tiles including linoleum and terrazzo. SealPlus is water, detergent, powdering and slip resistant. SealPlus adds gloss to subsequent coats of floor finishes.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Excellent leveling and adhesive characteristics.</li>
+<li class="d-flex align-items-center main-after">Superior compatibility with a wide range of stone surfaces.</li>
+<li class="d-flex align-items-center main-after">Reduces scuffing and marking.</li>
+<li class="d-flex align-items-center main-after">Protects against soil penetration and staining.</li>
+<li class="d-flex align-items-center main-after">Strips easily.</li>
+</ul>
+<p><strong>Product Codes:</strong></p>
+<p>FS-SP4</p>
+<p>FS-SP20</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acrylic</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>FS-SP20</s:tag>
+    <s:tag>FS-SP4</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>sealer</s:tag>
+    <s:tag>sealplus</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3723492851792</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>FS-SP4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3723492851792</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>FS-SP20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3717741150288</id>
+    <published>2019-08-15T19:17:34-05:00</published>
+    <updated>2019-08-15T19:17:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-ep86-lokseal-floor-finish"/>
+    <title>Avmor EP86 Lokseal Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/2321278001_ep86_l_web-3.jpg?v=1565914976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            21.60 - 98.95
+            <a href="https://prolificproducts.ca/products/avmor-ep86-lokseal-floor-finish">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Designed with the newest in environmentally preferable polymer technology. Compatible with all Avmor floor finishes. It is highly recommended for sealing pores and leveling floor surfaces in preparation of floor finish application. Excellent for vinyl composition, linoleum, sheet vinyl, concrete, terrazzo, quarry, Mexican tile and most resilient type flooring.</span></p>
+<p><span><strong>Product Codes:</strong><br></span></p>
+<p><span>AV-EP864</span></p>
+<p><span>AV-EP8620</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>av</s:tag>
+    <s:tag>AV-EP8620</s:tag>
+    <s:tag>AV-EP864</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>ep86</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>lokseal</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3717741150288</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">21.60</s:price>
+      <s:sku>AV-EP864</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3717741150288</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">98.95</s:price>
+      <s:sku>AV-EP8620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

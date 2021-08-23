@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/carpet-maintenance.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-06-28T13:41:45-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6790097830048</id>
+    <published>2021-06-28T13:41:45-05:00</published>
+    <updated>2021-06-28T13:41:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/carpet-cleaner-deodorizer-stain-remover-low-foam-950ml"/>
+    <title>Carpet Cleaner, Deodorizer &amp; Stain Remover - Low Foam (950mL)</title>
+    <s:type>Carpet Cleaner</s:type>
+    <s:vendor>SAFEBLEND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SAFEBLEND<br>
+        <strong>Type: </strong>Carpet Cleaner<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Low foaming</li>
+<li data-mce-fragment="1">Ideal for extraction and bonnet cleaning</li>
+<li data-mce-fragment="1">Cleans and deodorizes heavily soiled carpets</li>
+<li data-mce-fragment="1">Pre-treat tough stains before shampooing</li>
+<li data-mce-fragment="1">Fragrance-free</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.7131%;">Container Size</td>
+<td style="width: 53.2016%;">4L</td>
+</tr>
+<tr>
+<td style="width: 43.7131%;">Container Type</td>
+<td style="width: 53.2016%;"> Jug</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>bonnet</s:tag>
+    <s:tag>carpet</s:tag>
+    <s:tag>carpeting</s:tag>
+    <s:tag>CC-RCXXG04</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cleaning</s:tag>
+    <s:tag>deoderizer</s:tag>
+    <s:tag>deoderizes</s:tag>
+    <s:tag>extraction</s:tag>
+    <s:tag>extractor</s:tag>
+    <s:tag>foam</s:tag>
+    <s:tag>foaming</s:tag>
+    <s:tag>for</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>gallon</s:tag>
+    <s:tag>heavily</s:tag>
+    <s:tag>jug</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>low</s:tag>
+    <s:tag>RCXXG04</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>safeblend</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>soiled</s:tag>
+    <s:tag>stain</s:tag>
+    <s:tag>stains</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6790097830048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku/>
+      <s:grams>4341</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6788264460448</id>
+    <published>2021-06-27T11:05:28-05:00</published>
+    <updated>2021-06-27T11:05:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/low-foaming-carpet-cleaner-4l"/>
+    <title>Carpet Cleaner, Deodorizer &amp; Stain Remover - Low Foam (4L)</title>
+    <s:type>Carpet Cleaner</s:type>
+    <s:vendor>SAFEBLEND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-06-27at12.02.31PM.png?v=1624809922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SAFEBLEND<br>
+        <strong>Type: </strong>Carpet Cleaner<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Low foaming</li>
+<li data-mce-fragment="1">Ideal for extraction and bonnet cleaning</li>
+<li data-mce-fragment="1">Cleans and deodorizes heavily soiled carpets</li>
+<li data-mce-fragment="1">Pre-treat tough stains before shampooing</li>
+<li data-mce-fragment="1">Fragrance-free</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.7131%;">Container Size</td>
+<td style="width: 53.2016%;">4L</td>
+</tr>
+<tr>
+<td style="width: 43.7131%;">Container Type</td>
+<td style="width: 53.2016%;"> Jug</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>bonnet</s:tag>
+    <s:tag>carpet</s:tag>
+    <s:tag>carpeting</s:tag>
+    <s:tag>CC-RCXXG04</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cleaning</s:tag>
+    <s:tag>deoderizer</s:tag>
+    <s:tag>deoderizes</s:tag>
+    <s:tag>extraction</s:tag>
+    <s:tag>extractor</s:tag>
+    <s:tag>foam</s:tag>
+    <s:tag>foaming</s:tag>
+    <s:tag>for</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>gallon</s:tag>
+    <s:tag>heavily</s:tag>
+    <s:tag>jug</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>low</s:tag>
+    <s:tag>RCXXG04</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>safeblend</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>soiled</s:tag>
+    <s:tag>stain</s:tag>
+    <s:tag>stains</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6788264460448</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.50</s:price>
+      <s:sku>CC-RCXXG04</s:sku>
+      <s:grams>4341</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6787375431840</id>
+    <published>2021-06-26T13:50:24-05:00</published>
+    <updated>2021-06-26T13:50:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/carpet-spot-remover-and-upholstery-cleaner-481g"/>
+    <title>Carpet Spot Remover and Upholstery Cleaner (481g)</title>
+    <s:type>Carpet Cleaner</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-06-26at2.45.39PM.png?v=1624733425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Carpet Cleaner<br>
+        <strong>Price: </strong>
+            9.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Spray directly on the spot - requires no rinsing</li>
+<li data-mce-fragment="1">Wipe or blot area with a clean absorbent cloth</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 45.4998%;">Container Size</td>
+<td style="width: 49.5002%;"> 17oz (481g)</td>
+</tr>
+<tr>
+<td style="width: 45.4998%;">Container Type</td>
+<td style="width: 49.5002%;">Aerosol Can</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>17oz</s:tag>
+    <s:tag>3m</s:tag>
+    <s:tag>481</s:tag>
+    <s:tag>481g</s:tag>
+    <s:tag>aerosol</s:tag>
+    <s:tag>C-08114-17OZ</s:tag>
+    <s:tag>carpet</s:tag>
+    <s:tag>CC-C-08114-17OZ</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cleaning</s:tag>
+    <s:tag>gard</s:tag>
+    <s:tag>maintenance</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>scotch</s:tag>
+    <s:tag>spot</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>stain</s:tag>
+    <s:tag>upholstry</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6787375431840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.10</s:price>
+      <s:sku>CC-C-08114-17OZ</s:sku>
+      <s:grams>626</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3736825593936</id>
+    <published>2019-08-31T10:31:54-05:00</published>
+    <updated>2019-08-31T10:31:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/nu-biocal-calcium-remover"/>
+    <title>Concrobium® Calcium, Lime &amp; Rust Remover (946mL)</title>
+    <s:type>calcium remover</s:type>
+    <s:vendor>CONCROBIUM®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at11.57.01AM.png?v=1601827036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CONCROBIUM®<br>
+        <strong>Type: </strong>calcium remover<br>
+        <strong>Price: </strong>
+            6.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Non-corrosive</li>
+<li>No VOCs</li>
+<li>Biodegradable</li>
+<li>Septic safe</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.3557%;">Size</td>
+<td style="width: 55.6443%;"> 946mL</td>
+</tr>
+<tr>
+<td style="width: 40.3557%;">Container Type</td>
+<td style="width: 55.6443%;">Trigger Bottle</td>
+</tr>
+<tr>
+<td style="width: 40.3557%;">Manufacture Code</td>
+<td style="width: 55.6443%;">
+<meta charset="utf-8">
+<span>628257</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>628257</s:tag>
+    <s:tag>946</s:tag>
+    <s:tag>cal</s:tag>
+    <s:tag>calcium</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>concrobium</s:tag>
+    <s:tag>CR-628257</s:tag>
+    <s:tag>general</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>rust</s:tag>
+    <s:tag>salt</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3736825593936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.32</s:price>
+      <s:sku>CR-628257</s:sku>
+      <s:grams>1060</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3733798977616</id>
+    <published>2019-08-29T12:28:14-05:00</published>
+    <updated>2019-08-29T12:28:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/safeblend-stain-remover-and-deodorizer"/>
+    <title>Safeblend Stain Remover and Deodorizer</title>
+    <s:type>Carpet Cleaner</s:type>
+    <s:vendor>SAFEBLEND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-29_at_1.29.47_PM.png?v=1567099871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SAFEBLEND<br>
+        <strong>Type: </strong>Carpet Cleaner<br>
+        <strong>Price: </strong>
+            120.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Safeblend Oxy-blend Spray Away Stain Remover and Deodorizer uses hydrogen peroxide power to safely and effectively remove organic stains from carpets and upholstery. No, scrubbing, rubbing, blotting or rinsing required. Effective on blood, juices, urine, vomit, animal stains, feces, coffee, tea, tomato, ketchup, and sauces.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Stain remover &amp; deodorizer for carpet and upholstery</li>
+<li class="d-flex align-items-center main-after">No scrubbing, rubbing, blotting or rinsing required</li>
+<li class="d-flex align-items-center main-after">Hydrogen Peroxide Cleaning Power Cleans &amp; Deodorizes</li>
+<li class="d-flex align-items-center main-after">Quickly and easily breaks down odours and organic stains</li>
+<li class="d-flex align-items-center main-after">Effective on protein-based stains like blood, juices, urine, vomit, animal stains, feces</li>
+<li class="d-flex align-items-center main-after">Effective on tannin-based stains like wine, coffee, tea, tomato, ketchup, mustard, sauces</li>
+<li class="d-flex align-items-center main-after">Fragrance free</li>
+</ul>
+<p><strong>Product Codes:</strong></p>
+<p>SB-XRXX12950</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>and</s:tag>
+    <s:tag>carpet</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>deoderizer</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>safeblend</s:tag>
+    <s:tag>SB-XRXX12950</s:tag>
+    <s:tag>stain</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3733798977616</id>
+      <title>(12 x 950mL)</title>
+      <s:price currency="CAD">120.99</s:price>
+      <s:sku>SB-XRXX12950</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3619888627792</id>
+    <published>2019-06-12T15:14:25-05:00</published>
+    <updated>2019-06-12T15:14:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/protek-carpet-and-tissue-protector-4l"/>
+    <title>Protek Carpet &amp; Tissue Protector (4L)</title>
+    <s:type>Carpet Protector</s:type>
+    <s:vendor>PARALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/plprot004_ralik_protek_protecteur_pour_tissu_4l_protek_carpet_protector_4l_4_litres_pl__parall_pl.jpg?v=1560370693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PARALL<br>
+        <strong>Type: </strong>Carpet Protector<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Carpet Science" Stain remover and carpet protector.</p>
+<p> </p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 35.3902%;">Container Type</td>
+<td style="width: 61.706%;"> Jug</td>
+</tr>
+<tr>
+<td style="width: 35.3902%;">Container Size</td>
+<td style="width: 61.706%;">4L</td>
+</tr>
+</tbody>
+</table>
+<blockquote><strong></strong></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>carpet</s:tag>
+    <s:tag>CC-PROTEK4</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>protector</s:tag>
+    <s:tag>protek</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>stain</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3619888627792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>CC-PROTEK4</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/103715602443</id>
+    <published>2017-11-08T18:37:41-06:00</published>
+    <updated>2017-11-08T18:37:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-carpet-cleaner-4l"/>
+    <title>Carpet Cleaner (4L)</title>
+    <s:type>Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-11-05at2.40.05PM.png?v=1604605219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Cleaner<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A special blend of carpet cleaning chemicals. This rich concentrate contains detergents, cleaning agents, and extremely effective odour counteractants. Use 20/20 with hot water extractors to safely clean all types of carpet fibres.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 36.2976%;">Container Size</td>
+<td style="width: 60.7985%;"> 4L</td>
+</tr>
+<tr>
+<td style="width: 36.2976%;">Container Type</td>
+<td style="width: 60.7985%;">Jug</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20/20</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>4l</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>carpet</s:tag>
+    <s:tag>CC-20204</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>detergent</s:tag>
+    <s:tag>tapis</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/103715602443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>CC-20204</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

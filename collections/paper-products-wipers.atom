@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/paper-products-wipers.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-08-19T06:52:10-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6908560965792</id>
+    <published>2021-08-19T06:52:10-05:00</published>
+    <updated>2021-08-19T06:52:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/shop-max%C2%AE-wipers-30-x-60s-1"/>
+    <title>Shop Max® Wipers (30 x 60s)</title>
+    <s:type>Shop Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-19at7.52.56AM.png?v=1629373990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Shop Towel<br>
+        <strong>Price: </strong>
+            112.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Tork® Advanced ShopMax Wiper Roll Towels are strong enough to power through oil, grease, and solvents, yet versatile enough to be an ideal everyday solution for general cleanup and spills. Its thick, cloth-like construction is highly absorbent and low linting, making it an effective, convenient towel for shop, auto and home. These multipurpose disposable towels are an excellent replacement for cloth rags. Their durability and high-performance characteristics make them a perfect choice for a wide variety of uses, from detail work in professional shops and garages to cleaning tools in do-it-yourselfers' workshops and garages. This product contains 85% paper content (60% recycled, 40% postindustrial) and 15% synthetic emulsion.</span><br>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Tough on grease, grime and dirt and versatile enough to be an ideal everyday solution for general cleanup and spills</li>
+<li data-mce-fragment="1">Highly absorbent and low linting</li>
+<li data-mce-fragment="1">Excellent replacement for cloth rags</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9677%;">Type</td>
+<td style="width: 57.1285%;">All-Purpose</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Width</td>
+<td style="width: 57.1285%;">11"</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Colour</td>
+<td style="width: 57.1285%;">White</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Description</td>
+<td style="width: 57.1285%;"><span>Tork Advanced - Wipes</span></td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Ply</td>
+<td style="width: 57.1285%;">1</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sheets/roll</td>
+<td style="width: 57.1285%;">60</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sheets/case</td>
+<td style="width: 57.1285%;">30</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sold/priced per</td>
+<td style="width: 57.1285%;">Case</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Manufacture Code</td>
+<td style="width: 57.1285%;">450160</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30</s:tag>
+    <s:tag>450360</s:tag>
+    <s:tag>60</s:tag>
+    <s:tag>absorbent</s:tag>
+    <s:tag>advanced</s:tag>
+    <s:tag>all</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>lint</s:tag>
+    <s:tag>low</s:tag>
+    <s:tag>max</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>shop</s:tag>
+    <s:tag>ST-4503601</s:tag>
+    <s:tag>tork</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>W-450160</s:tag>
+    <s:tag>W-450360</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wiper</s:tag>
+    <s:tag>wipers</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6908560965792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">112.79</s:price>
+      <s:sku>W-450160</s:sku>
+      <s:grams>10965</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6908483272864</id>
+    <published>2021-08-19T06:40:47-05:00</published>
+    <updated>2021-08-19T06:40:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/shop-max%C2%AE-wipers-30-x-60s"/>
+    <title>Shop Max® Wipers (30 x 60s)</title>
+    <s:type>Shop Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-19at7.43.22AM.png?v=1629373422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Shop Towel<br>
+        <strong>Price: </strong>
+            112.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Tork® Advanced ShopMax Wiper Roll Towels are strong enough to power through oil, grease, and solvents, yet versatile enough to be an ideal everyday solution for general cleanup and spills. Its thick, cloth-like construction is highly absorbent and low linting, making it an effective, convenient towel for shop, auto and home. These multipurpose disposable towels are an excellent replacement for cloth rags. Their durability and high-performance characteristics make them a perfect choice for a wide variety of uses, from detail work in professional shops and garages to cleaning tools in do-it-yourselfers' workshops and garages. This product contains 85% paper content (60% recycled, 40% postindustrial) and 15% synthetic emulsion.</span><br>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Tough on grease, grime and dirt and versatile enough to be an ideal everyday solution for general cleanup and spills</li>
+<li data-mce-fragment="1">Highly absorbent and low linting</li>
+<li data-mce-fragment="1">Excellent replacement for cloth rags</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9677%;">Type</td>
+<td style="width: 57.1285%;">All-Purpose</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Width</td>
+<td style="width: 57.1285%;">11"</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Colour</td>
+<td style="width: 57.1285%;">blue</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Description</td>
+<td style="width: 57.1285%;"><span>Tork Advanced - Wipes</span></td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Ply</td>
+<td style="width: 57.1285%;">1</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sheets/roll</td>
+<td style="width: 57.1285%;">60</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sheets/case</td>
+<td style="width: 57.1285%;">30</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sold/priced per</td>
+<td style="width: 57.1285%;">Case</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Manufacture Code</td>
+<td style="width: 57.1285%;"><span>450360</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30</s:tag>
+    <s:tag>450360</s:tag>
+    <s:tag>60</s:tag>
+    <s:tag>absorbent</s:tag>
+    <s:tag>advanced</s:tag>
+    <s:tag>all</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>lint</s:tag>
+    <s:tag>low</s:tag>
+    <s:tag>max</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>shop</s:tag>
+    <s:tag>ST-4503601</s:tag>
+    <s:tag>tork</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>W-450360</s:tag>
+    <s:tag>wiper</s:tag>
+    <s:tag>wipers</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6908483272864</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">112.79</s:price>
+      <s:sku>W-450360</s:sku>
+      <s:grams>10965</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6775720050848</id>
+    <published>2021-06-21T15:01:43-05:00</published>
+    <updated>2021-06-21T15:01:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/wypall-l30-wipers-1080s"/>
+    <title>WYPALL* L30 Wipers (1080s)</title>
+    <s:type>Industrial Wiper</s:type>
+    <s:vendor>KIMBERLY-CLARK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-06-21at3.55.03PM.png?v=1624305704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KIMBERLY-CLARK<br>
+        <strong>Type: </strong>Industrial Wiper<br>
+        <strong>Price: </strong>
+            77.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Use for light-duty cleanups, janitorial and maintenance wiping and process line wiping and cleaning</li>
+<li data-mce-fragment="1">Cloth-like feel at a value price</li>
+<li data-mce-fragment="1">Durable construction, yet soft enough for use on skin</li>
+<li data-mce-fragment="1">Reinforced grip provides strength for wet surface wiping and cleaning</li>
+<li data-mce-fragment="1">Features double re-creped (DRC) base sheet technology - an absorbent sponge-like inner layer with a soft, touchable outer layer</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.3604%;">Type</td>
+<td style="width: 53.6396%;"><span data-mce-fragment="1">All-Purpose</span></td>
+</tr>
+<tr>
+<td style="width: 42.3604%;">Length</td>
+<td style="width: 53.6396%;">
+<meta charset="utf-8"> <span>13"</span>
+</td>
+</tr>
+<tr>
+<td style="width: 42.3604%;">Width</td>
+<td style="width: 53.6396%;">
+<meta charset="utf-8"> <span>12-1/2"</span>
+</td>
+</tr>
+<tr>
+<td style="width: 42.3604%;">Colour</td>
+<td style="width: 53.6396%;">White</td>
+</tr>
+<tr>
+<td style="width: 42.3604%;">Sheets/case</td>
+<td style="width: 53.6396%;">
+<meta charset="utf-8"> <span>1080</span>
+</td>
+</tr>
+<tr>
+<td style="width: 42.3604%;">Dispenser Product Code</td>
+<td style="width: 53.6396%;">D-<meta charset="utf-8">
+<span data-mce-fragment="1">09107</span>
+</td>
+</tr>
+<tr>
+<td style="width: 42.3604%;">Units/case</td>
+<td style="width: 53.6396%;">12</td>
+</tr>
+<tr>
+<td style="width: 42.3604%;">Fold Format</td>
+<td style="width: 53.6396%;">
+<meta charset="utf-8"> <span>1/4 Fold</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>05812</s:tag>
+    <s:tag>1080</s:tag>
+    <s:tag>clark</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>D-09107</s:tag>
+    <s:tag>IW-05812</s:tag>
+    <s:tag>kimberly</s:tag>
+    <s:tag>l20</s:tag>
+    <s:tag>l30</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>s</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>sheets</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wypall</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6775720050848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.50</s:price>
+      <s:sku>IW-05812</s:sku>
+      <s:grams>6405</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5723488256160</id>
+    <published>2020-10-02T20:05:28-05:00</published>
+    <updated>2020-10-02T20:05:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/shop-max%C2%AE-wipers"/>
+    <title>Shop Max® Wipers (60s)</title>
+    <s:type>Shop Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-19at7.45.40AM.png?v=1629373561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Shop Towel<br>
+        <strong>Price: </strong>
+            4.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Tork® Advanced ShopMax Wiper Roll Towels are strong enough to power through oil, grease, and solvents, yet versatile enough to be an ideal everyday solution for general cleanup and spills. Its thick, cloth-like construction is highly absorbent and low linting, making it an effective, convenient towel for shop, auto and home. These multipurpose disposable towels are an excellent replacement for cloth rags. Their durability and high-performance characteristics make them a perfect choice for a wide variety of uses, from detail work in professional shops and garages to cleaning tools in do-it-yourselfers' workshops and garages. This product contains 85% paper content (60% recycled, 40% postindustrial) and 15% synthetic emulsion.</span><br>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Tough on grease, grime and dirt and versatile enough to be an ideal everyday solution for general cleanup and spills</li>
+<li data-mce-fragment="1">Highly absorbent and low linting</li>
+<li data-mce-fragment="1">Excellent replacement for cloth rags</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9677%;">Type</td>
+<td style="width: 57.1285%;">All-Purpose</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Width</td>
+<td style="width: 57.1285%;">11"</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Colour</td>
+<td style="width: 57.1285%;">blue</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Description</td>
+<td style="width: 57.1285%;"><span>Tork Advanced - Wipes</span></td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Ply</td>
+<td style="width: 57.1285%;">1</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sheets/roll</td>
+<td style="width: 57.1285%;">60</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sheets/case</td>
+<td style="width: 57.1285%;">30</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Sold/priced per</td>
+<td style="width: 57.1285%;">Roll</td>
+</tr>
+<tr>
+<td style="width: 39.9677%;">Manufacture Code</td>
+<td style="width: 57.1285%;"><span>450360</span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30</s:tag>
+    <s:tag>450360</s:tag>
+    <s:tag>60</s:tag>
+    <s:tag>absorbent</s:tag>
+    <s:tag>advanced</s:tag>
+    <s:tag>all</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>lint</s:tag>
+    <s:tag>low</s:tag>
+    <s:tag>max</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>shop</s:tag>
+    <s:tag>ST-4503601</s:tag>
+    <s:tag>tork</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>wiper</s:tag>
+    <s:tag>wipers</s:tag>
+    <s:tag>wipes</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5723488256160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.33</s:price>
+      <s:sku>ST-4503601</s:sku>
+      <s:grams>331</s:grams>
+    </s:variant>
+  </entry>
+</feed>

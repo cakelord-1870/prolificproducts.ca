@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/regenerating-spray-buff.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2019-08-28T17:34:16-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732858601552</id>
+    <published>2019-08-28T17:34:16-05:00</published>
+    <updated>2019-08-28T17:34:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/safeblend-rejuvenator"/>
+    <title>Safeblend Rejuvenator</title>
+    <s:type>Restorer</s:type>
+    <s:vendor>SAFEBLEND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-28_at_6.36.40_PM.png?v=1567031813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SAFEBLEND<br>
+        <strong>Type: </strong>Restorer<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>-Cleaner, restorer and maintainer -Restores, rebuilds and maintains high gloss -For daily cleaning &amp; repairing -Repairs scratches &amp; scuff marks -Use with mop &amp; bucket or through an auto scrubber -Pleasant fragrance -CFIA accepted</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>SB-REJ4</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blend</s:tag>
+    <s:tag>rejuvinator</s:tag>
+    <s:tag>restorer</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>safeblend</s:tag>
+    <s:tag>Safeblend Rejuvenator</s:tag>
+    <s:tag>SB-REJ4</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732858601552</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>SB-REJ4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732857192528</id>
+    <published>2019-08-28T17:31:18-05:00</published>
+    <updated>2019-08-28T17:31:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/tf385-floor-cleaner-gloss-and-slip-resistance"/>
+    <title>TF385- Floor Cleaner Gloss and Slip Resistance</title>
+    <s:type>Restorer</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-28_at_6.33.35_PM.png?v=1567031628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Restorer<br>
+        <strong>Price: </strong>
+            28.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Revolutionary product increasing the durability of vinyl floor coatings with a finish, while enhancing gloss and slip resistance. Any high-quality finished floor finish treated with TF385 has a glossy appearance that can increase finish life by up to 50%, and slip resistance that exceeds the Occupational Safety and Health Administration (OSHA), National Floor Safety Institute (NFSI) and Americans with Disabilities Act (ADA).</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Enhances luster up to 30-50%</li>
+<li class="d-flex align-items-center main-after">Longevity of finish and slip resistance that exceeds OSHA, NFSI and ADA recommendations</li>
+</ul>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-TF3854</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>and</s:tag>
+    <s:tag>AV-TF3854</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>gloss</s:tag>
+    <s:tag>regenerator</s:tag>
+    <s:tag>resistance</s:tag>
+    <s:tag>slip</s:tag>
+    <s:tag>tf385</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732857192528</id>
+      <title>(3.78L)</title>
+      <s:price currency="CAD">28.95</s:price>
+      <s:sku>AV-TF3854</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

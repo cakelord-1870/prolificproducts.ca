@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/disposable-gowns.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-01-26T15:18:24-06:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6008400576672</id>
+    <published>2021-01-26T15:18:24-06:00</published>
+    <updated>2021-01-26T15:18:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/coverme%E2%84%A2-reusable-gown-yellow-12-pack"/>
+    <title>CoverMe™ Reusable Gown - Yellow (12-Pack)</title>
+    <s:type>Isolation Gown</s:type>
+    <s:vendor>RONCO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-01-26at4.14.48PM.png?v=1611695906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RONCO<br>
+        <strong>Type: </strong>Isolation Gown<br>
+        <strong>Price: </strong>
+            39.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Reusable apron that is abrasion, snag and tear resistant</li>
+<li data-mce-fragment="1">Elasticized sleeve offers full body protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.294%;"> Material</td>
+<td style="width: 58.8022%;">
+<meta charset="utf-8">
+<span>Polyurethane</span>
+</td>
+</tr>
+<tr>
+<td style="width: 38.294%;">Size</td>
+<td style="width: 58.8022%;">One Size</td>
+</tr>
+<tr>
+<td style="width: 38.294%;">Colour</td>
+<td style="width: 58.8022%;">Yellow</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cover</s:tag>
+    <s:tag>coverme</s:tag>
+    <s:tag>gown</s:tag>
+    <s:tag>gowns</s:tag>
+    <s:tag>IG-38-372Y</s:tag>
+    <s:tag>isolation</s:tag>
+    <s:tag>me</s:tag>
+    <s:tag>Polyurethane</s:tag>
+    <s:tag>reusable</s:tag>
+    <s:tag>ronco</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6008400576672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.59</s:price>
+      <s:sku>IG-38-372Y</s:sku>
+      <s:grams>309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5540062429344</id>
+    <published>2020-08-24T17:38:45-05:00</published>
+    <updated>2020-08-24T17:38:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/isolation-gown"/>
+    <title>Isolation Gown</title>
+    <s:type>Isolation Gown</s:type>
+    <s:vendor>OEM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/sgu408_1.jpg?v=1601051293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OEM<br>
+        <strong>Type: </strong>Isolation Gown<br>
+        <strong>Price: </strong>
+            1.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Polypropylene permits breathability and comfort</li>
+<li>Offers protection against non-hazardous and non-toxic liquids, dust and particles</li>
+<li>Elastic wrists for added protection</li>
+<li>Applications include healthcare, laboratories, pharmaceutical, food processing</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.3666%;">Material</td>
+<td style="width: 55.6334%;">
+<div><meta charset="utf-8"></div>
+<span>Polypropylene</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.3666%;"> Size</td>
+<td style="width: 55.6334%;">One Size</td>
+</tr>
+<tr>
+<td style="width: 40.3666%;">Colour</td>
+<td style="width: 55.6334%;">
+<div><meta charset="utf-8"></div>
+<span>White</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.3666%;">Medical Device License</td>
+<td style="width: 55.6334%;">Non-Medical</td>
+</tr>
+<tr>
+<td style="width: 40.3666%;">Qty/case</td>
+<td style="width: 55.6334%;">100</td>
+</tr>
+<tr>
+<td style="width: 40.3666%;">Sold/Price Per</td>
+<td style="width: 55.6334%;">Gown</td>
+</tr>
+<tr>
+<td style="width: 40.3666%;">Fabric Weight</td>
+<td style="width: 55.6334%;">
+<div><meta charset="utf-8"></div>
+<span>0.88oz/m² (30 g/m²)</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>covid-19</s:tag>
+    <s:tag>gown</s:tag>
+    <s:tag>isolation</s:tag>
+    <s:tag>quarantine</s:tag>
+    <s:tag>SG-408</s:tag>
+    <s:tag>surgical</s:tag>
+    <s:tag>virus</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5540062429344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.98</s:price>
+      <s:sku>SG-408</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+</feed>

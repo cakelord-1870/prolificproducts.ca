@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/ready-to-use-liquids.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-03-18T09:14:19-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6597119148192</id>
+    <published>2021-03-18T09:14:19-05:00</published>
+    <updated>2021-03-18T09:14:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/azure-window-glass-cleaners-750ml"/>
+    <title>Azure - Window &amp; Glass Cleaners (750mL)</title>
+    <s:type>Glass Cleaner</s:type>
+    <s:vendor>DUSTBANE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-18at10.14.28AM.png?v=1616076877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DUSTBANE<br>
+        <strong>Type: </strong>Glass Cleaner<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Delivers exceptional performance</li>
+<li data-mce-fragment="1">Leaves surfaces clean and without streaks</li>
+<li data-mce-fragment="1">APE, VOC, and ammonia-free</li>
+<li data-mce-fragment="1">Certified UL ECOLOGO<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>2759</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="97" height="54"></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 45.3721%;">Container Size</td>
+<td style="width: 51.7241%;"> 750mL</td>
+</tr>
+<tr>
+<td style="width: 45.3721%;">Container Type</td>
+<td style="width: 51.7241%;">Trigger Spray Bottle</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>5l</s:tag>
+    <s:tag>750ml</s:tag>
+    <s:tag>azure</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>dustbane</s:tag>
+    <s:tag>ecologo</s:tag>
+    <s:tag>GC-50201</s:tag>
+    <s:tag>GC-50202</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>to</s:tag>
+    <s:tag>use</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6597119148192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>GC-50202</s:sku>
+      <s:grams>4149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6571305959584</id>
+    <published>2021-03-08T13:58:52-06:00</published>
+    <updated>2021-03-08T13:58:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/expo-window-glass-cleaners-5l"/>
+    <title>Expo - Window &amp; Glass Cleaners (5L)</title>
+    <s:type>Glass Cleaner</s:type>
+    <s:vendor>DUSTBANE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-08at2.59.20PM.png?v=1615233571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DUSTBANE<br>
+        <strong>Type: </strong>Glass Cleaner<br>
+        <strong>Price: </strong>
+            14.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li>Eco-friendly liquid glass cleaner leaves glass, windows and mirrors sparkling clean and free of streaks</li>
+<li>Designed to clean windows, mirrors, countertops and any washable hard surfaces</li>
+</ul>
+</div>
+</div>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 45.3721%;">Container Size</td>
+<td style="width: 51.7241%;"> 5L</td>
+</tr>
+<tr>
+<td style="width: 45.3721%;">Container Type</td>
+<td style="width: 51.7241%;">Jug</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>5l</s:tag>
+    <s:tag>azure</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>dustbane</s:tag>
+    <s:tag>ecologo</s:tag>
+    <s:tag>GC-50201</s:tag>
+    <s:tag>GC-53682</s:tag>
+    <s:tag>GC-53709</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>magic</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>to</s:tag>
+    <s:tag>use</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6571305959584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.80</s:price>
+      <s:sku>GC-53709</s:sku>
+      <s:grams>4149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6571302879392</id>
+    <published>2021-03-08T13:53:55-06:00</published>
+    <updated>2021-03-08T13:53:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/magic-window-glass-cleaners-4l"/>
+    <title>Magic - Window &amp; Glass Cleaners (5L)</title>
+    <s:type>Glass Cleaner</s:type>
+    <s:vendor>DUSTBANE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-08at2.54.00PM.png?v=1615233251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DUSTBANE<br>
+        <strong>Type: </strong>Glass Cleaner<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li>Leaves glass and mirrors looking their best without any streaks or residue</li>
+<li>Easy to use, it cuts through dirt, oily film and other deposits while leaving a fresh and clean scent</li>
+<li>Designed to clean windows, mirrors, countertops and any washable hard surfaces</li>
+</ul>
+</div>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 45.3721%;">Container Size</td>
+<td style="width: 51.7241%;"> 5L</td>
+</tr>
+<tr>
+<td style="width: 45.3721%;">Container Type</td>
+<td style="width: 51.7241%;">Jug</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>5l</s:tag>
+    <s:tag>azure</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>dustbane</s:tag>
+    <s:tag>ecologo</s:tag>
+    <s:tag>GC-50201</s:tag>
+    <s:tag>GC-53682</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>magic</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>to</s:tag>
+    <s:tag>use</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6571302879392</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>GC-53682</s:sku>
+      <s:grams>4149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6571299537056</id>
+    <published>2021-03-08T13:49:43-06:00</published>
+    <updated>2021-03-08T13:49:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/windex%C2%AE-origional-glass-cleaner-4l"/>
+    <title>Windex® Origional Glass Cleaner (5L)</title>
+    <s:type>glass cleaner</s:type>
+    <s:vendor>WINDEX®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-08at2.50.30PM.png?v=1615233039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WINDEX®<br>
+        <strong>Type: </strong>glass cleaner<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div><br></div>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.1779%;">Bottle Type</td>
+<td style="width: 52.8221%;">Refill Jug</td>
+</tr>
+<tr>
+<td style="width: 42.1779%;">Format(s)</td>
+<td style="width: 52.8221%;">5L</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12x946</s:tag>
+    <s:tag>946</s:tag>
+    <s:tag>amonia</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>d</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>GC-10059200006722</s:tag>
+    <s:tag>GC-WINPRO12946</s:tag>
+    <s:tag>GC-WINPRO4</s:tag>
+    <s:tag>GC-WINPRO946</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>streak</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:tag>windex</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6571299537056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>GC-10059200006722</s:sku>
+      <s:grams>5498</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6571297505440</id>
+    <published>2021-03-08T13:47:19-06:00</published>
+    <updated>2021-03-08T13:47:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/azure-window-glass-cleaners-4l"/>
+    <title>Azure - Window &amp; Glass Cleaner (4L)</title>
+    <s:type>Glass Cleaner</s:type>
+    <s:vendor>DUSTBANE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-08at2.44.31PM.png?v=1615232840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DUSTBANE<br>
+        <strong>Type: </strong>Glass Cleaner<br>
+        <strong>Price: </strong>
+            11.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Delivers exceptional performance</li>
+<li data-mce-fragment="1">Leaves surfaces clean and without streaks</li>
+<li data-mce-fragment="1">APE, VOC, and ammonia-free</li>
+<li data-mce-fragment="1">Certified UL ECOLOGO<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>2759</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="97" height="54"></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 45.3721%;">Container Size</td>
+<td style="width: 51.7241%;"> 4L</td>
+</tr>
+<tr>
+<td style="width: 45.3721%;">Container Type</td>
+<td style="width: 51.7241%;">Jug</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>5l</s:tag>
+    <s:tag>azure</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>dustbane</s:tag>
+    <s:tag>ecologo</s:tag>
+    <s:tag>GC-50201</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>ready</s:tag>
+    <s:tag>to</s:tag>
+    <s:tag>use</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6571297505440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.70</s:price>
+      <s:sku>GC-50201</s:sku>
+      <s:grams>4149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5649547755680</id>
+    <published>2020-09-17T09:15:56-05:00</published>
+    <updated>2020-09-17T09:15:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/windex%C2%AE-pro-glass-cleaner-with-ammonia-d%C2%AE-4l"/>
+    <title>Windex® Pro Glass Cleaner with Ammonia-D® (4L)</title>
+    <s:type>glass cleaner</s:type>
+    <s:vendor>WINDEX®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-09-17at10.16.51AM.png?v=1600352230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WINDEX®<br>
+        <strong>Type: </strong>glass cleaner<br>
+        <strong>Price: </strong>
+            16.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Perfect for cleaning windows, mirrors, glass shower doors, glass top stoves, and more</li>
+<li data-mce-fragment="1">Ammonia-D<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>starts working on fingerprints, dirt, and other messes before you wipe</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.1779%;">Bottle Type</td>
+<td style="width: 52.8221%;">Refill Jug</td>
+</tr>
+<tr>
+<td style="width: 42.1779%;">Format(s)</td>
+<td style="width: 52.8221%;">4L</td>
+</tr>
+<tr>
+<td style="width: 42.1779%;">Manufacture Code</td>
+<td style="width: 52.8221%;">
+<meta charset="utf-8"> <span>1 00 19800 70765 8</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12x946</s:tag>
+    <s:tag>946</s:tag>
+    <s:tag>amonia</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>d</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>GC-WINPRO12946</s:tag>
+    <s:tag>GC-WINPRO4</s:tag>
+    <s:tag>GC-WINPRO946</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>streak</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:tag>windex</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5649547755680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.40</s:price>
+      <s:sku>GC-WINPRO4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5649527636128</id>
+    <published>2020-09-17T09:08:46-05:00</published>
+    <updated>2020-09-17T09:08:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/windex%C2%AE-pro-glass-cleaner-with-ammonia-d%C2%AE-946ml"/>
+    <title>Windex® Pro Glass Cleaner with Ammonia-D® (946mL)</title>
+    <s:type>glass cleaner</s:type>
+    <s:vendor>WINDEX®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-09-17at10.05.32AM.png?v=1600351727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WINDEX®<br>
+        <strong>Type: </strong>glass cleaner<br>
+        <strong>Price: </strong>
+            6.50 - 66.00
+            <a href="https://prolificproducts.ca/products/windex%C2%AE-pro-glass-cleaner-with-ammonia-d%C2%AE-946ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Perfect for cleaning windows, mirrors, glass shower doors, glass top stoves, and more</li>
+<li data-mce-fragment="1">Ammonia-D<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>starts working on fingerprints, dirt, and other messes before you wipe</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.1779%;">Bottle Size</td>
+<td style="width: 52.8221%;"> 946mL</td>
+</tr>
+<tr>
+<td style="width: 42.1779%;">Bottle Type</td>
+<td style="width: 52.8221%;">Trigger Bottle</td>
+</tr>
+<tr>
+<td style="width: 42.1779%;">Format(s)</td>
+<td style="width: 52.8221%;">Single bottle, 12 x 946mL</td>
+</tr>
+<tr>
+<td style="width: 42.1779%;">Manufacture Code</td>
+<td style="width: 52.8221%;">
+<meta charset="utf-8">
+<span>1 00 19800 70765 8</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12x946</s:tag>
+    <s:tag>946</s:tag>
+    <s:tag>amonia</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>d</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>GC-WINPRO12946</s:tag>
+    <s:tag>GC-WINPRO946</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>streak</s:tag>
+    <s:tag>trigger</s:tag>
+    <s:tag>windex</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5649527636128</id>
+      <title>(946mL)</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>GC-WINPRO946</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5649527636128</id>
+      <title>(12 x 946mL)</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>GC-WINPRO947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3736867733584</id>
+    <published>2019-08-31T11:25:17-05:00</published>
+    <updated>2019-08-31T11:25:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/safeblend-fragrance-free-glass-and-multi-surface-cleaner"/>
+    <title>Fragrance Free Glass &amp; Multi-Surface Cleaner (950mL)</title>
+    <s:type>Glass Cleaner</s:type>
+    <s:vendor>SAFEBLEND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-08at2.26.40PM.png?v=1615231612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SAFEBLEND<br>
+        <strong>Type: </strong>Glass Cleaner<br>
+        <strong>Price: </strong>
+            8.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Safeblend Glass &amp; Multi-Surface Cleaner leaves surfaces bright and clean, dries quickly and leaves no streaks, film or residue. It is perfect for use on windows, glass, mirrors, counters, plastic, vinyl, fibreglass, plexiglass, chrome, aluminum, stainless steel, and kitchen appliances.</span></p>
+<ul>
+<li>Accepted for use in Canadian food processing facilities</li>
+<li>Certified UL ECOLOGO(R) 2759</li>
+<li>950 ml</li>
+<li>Ready-to-use for windows, glass, mirrors and all washable hard surfaces</li>
+<li>Fast drying formula, leaves a crystal clear, streak-free shine</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="131" height="73"></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.1089%;">Container Size</td>
+<td style="width: 56.9873%;">950mL</td>
+</tr>
+<tr>
+<td style="width: 40.1089%;">Container Type</td>
+<td style="width: 56.9873%;">Trigger Bottle</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>ecologo</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>GC-WRBXX0D</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>glasses</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>safeblend</s:tag>
+    <s:tag>SB-WRBX4</s:tag>
+    <s:tag>window</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3736867733584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.18</s:price>
+      <s:sku>GC-WRBXX0D</s:sku>
+      <s:grams>973</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3736855445584</id>
+    <published>2019-08-31T10:54:50-05:00</published>
+    <updated>2019-08-31T10:54:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/visex-plus-glass-chrome-cleaner"/>
+    <title>Visex Plus - Glass &amp; Chrome Cleaner (4L)</title>
+    <s:type>Glass Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-31_at_11.56.13_AM.png?v=1567267061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Glass Cleaner<br>
+        <strong>Price: </strong>
+            19.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>An environmentally friendly and ammonia-free, superior glass and chrome cleaner that contains grease cutting agents and emulsifiers. A powerful ready-to-use formula that dries quickly and leaves no residue. Fresh apple fragrance.</span></p>
+<p> </p>
+<ul>
+<li>Environmentally-friendly and ammonia-free</li>
+<li>Contains grease cutting agents and emulsifiers</li>
+<li>Ready-to-use formula that dries quickly and leaves no residue</li>
+<li>Blend of solvents designed specifically for glass and chrome</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.7223%;">Container Size</td>
+<td style="width: 52.2777%;">4L</td>
+</tr>
+<tr>
+<td style="width: 43.7223%;">Container Type</td>
+<td style="width: 52.2777%;"> Jug</td>
+</tr>
+<tr>
+<td style="width: 43.7223%;">Sold/priced per</td>
+<td style="width: 52.2777%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 43.7223%;">Qty/cs</td>
+<td style="width: 52.2777%;">4 jugs</td>
+</tr>
+<tr>
+<td style="width: 43.7223%;">Fragrance</td>
+<td style="width: 52.2777%;">Apple</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1354278001</s:tag>
+    <s:tag>AV-VIS4</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>chrome</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>GC-1354278001</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>plus</s:tag>
+    <s:tag>visex</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3736855445584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.59</s:price>
+      <s:sku>GC-1354278001</s:sku>
+      <s:grams>4152</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/554590044171</id>
+    <published>2018-02-22T18:14:38-06:00</published>
+    <updated>2018-02-22T18:14:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/krystal-blue-glass-cleaner-4x4l"/>
+    <title>Krystal - Glass &amp; Multi-Surface Cleaner (4L)</title>
+    <s:type>Glass Cleaner</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-06-24_at_5.05.47_PM.png?v=1561410382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>Glass Cleaner<br>
+        <strong>Price: </strong>
+            5.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Krystal is a cleaner designed to clean glass and plexiglass, stainless steel, chrome, porcelain and ceramic tiles. Economical, does not leave any residue on surfaces after cleaning.</span></p>
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Leaves surfaces sparkling clean and streak free.</li>
+<li class="d-flex align-items-center main-after">Works instantly to cut through grease, smoke film, fingerprints and grime.</li>
+</ul>
+<p> </p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.1779%;">Appearance</td>
+<td style="width: 57.8221%;"> Liquid</td>
+</tr>
+<tr>
+<td style="width: 38.1779%;">Colour</td>
+<td style="width: 57.8221%;">Light Blue</td>
+</tr>
+<tr>
+<td style="width: 38.1779%;">Format(s)</td>
+<td style="width: 57.8221%;">4L</td>
+</tr>
+<tr>
+<td style="width: 38.1779%;">Odour</td>
+<td style="width: 57.8221%;">Fruits</td>
+</tr>
+<tr>
+<td style="width: 38.1779%;">pH</td>
+<td style="width: 57.8221%;">11.2</td>
+</tr>
+<tr>
+<td style="width: 38.1779%;">Dilution</td>
+<td style="width: 57.8221%;">Ready to use</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12012-KRYSTA-4</s:tag>
+    <s:tag>4</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>chrome</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cleaning</s:tag>
+    <s:tag>economical</s:tag>
+    <s:tag>economy</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>GC-KRYST4</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>krystal</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>plexiglass</s:tag>
+    <s:tag>porcelain</s:tag>
+    <s:tag>stainless steel</s:tag>
+    <s:tag>streak</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/554590044171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.42</s:price>
+      <s:sku>GC-KRYST4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

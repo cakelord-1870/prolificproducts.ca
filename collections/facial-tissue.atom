@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/facial-tissue.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-08-16T14:32:02-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899670941856</id>
+    <published>2021-08-16T14:32:02-05:00</published>
+    <updated>2021-08-16T14:32:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/surpass%C2%AE-21340-facial-tissue-30-x-100"/>
+    <title>Surpass® 21340 - Facial Tissue (30 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>KIMBERLY-CLARK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at3.31.07PM.png?v=1629142408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KIMBERLY-CLARK<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            27.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Kimberly-Clark Professional™ Surpass® Facial Tissue is a practical, economical tissue. This flat box of tissues features 2ply utility for strength and absorbency at a price that’s good for your bottom line. Your staff and guests will appreciate these hygienic commercial white tissues for the nose, face and other skin surfaces, which help prevent the spread of germs. The tissues are folded and interlocked to dispense one at a time. They are EcoLogo Certified and are folded and interlocked to dispense one at a time. The product has dimensions of 7.8"x8.3" and comes in a case of 30 boxes with 100 tissues per box.</span><br></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Delivers premium quality, preferred for superior softness, strength and absorbency</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="110" height="61"></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.5316%;">Dimensions<br>
+</td>
+<td style="width: 53.3831%;"> <meta charset="utf-8"> <span data-mce-fragment="1">7.8" L x 8.3" W x 10.5 H</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Ply</td>
+<td style="width: 53.3831%;">2</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Sheets/box</td>
+<td style="width: 53.3831%;">100</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Boxes/case</td>
+<td style="width: 53.3831%;">30</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Sold/priced per</td>
+<td style="width: 53.3831%;">Case</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Colour</td>
+<td style="width: 53.3831%;">White</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>125</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>2-ply</s:tag>
+    <s:tag>2-ply36</s:tag>
+    <s:tag>21400</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>3600</s:tag>
+    <s:tag>48</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>boxes</s:tag>
+    <s:tag>case</s:tag>
+    <s:tag>clark</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>flat box</s:tag>
+    <s:tag>FT-21340</s:tag>
+    <s:tag>FT-21400</s:tag>
+    <s:tag>FT-21606</s:tag>
+    <s:tag>kimberly</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>surpass</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899670941856</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.39</s:price>
+      <s:sku>FT-21340</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899667796128</id>
+    <published>2021-08-16T14:27:01-05:00</published>
+    <updated>2021-08-16T14:27:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/kleenex%C2%AE-21400-facial-tissue-36-x-101"/>
+    <title>Kleenex® 21400 - Facial Tissue (36 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>KIMBERLY-CLARK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at3.12.22PM_55e83cd8-88cf-47c0-9c25-3a494c917fb6.png?v=1629142064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KIMBERLY-CLARK<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            40.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Kimberly-Clark Professional™ Kleenex® Facial Tissue Flat Box is a 2ply tissue that offers superior performance, a premium feels and essential softness. When your employees, patients and guests see the respected Kleenex® brand in your business and restrooms, they'll know that you select quality products, putting forth the best image for your business. It's a popular choice in healthcare and medical offices, hotels and lodging and businesses in general. For more than 80 years, Kleenex® has delivered the highest quality among facial tissues, providing consumers with smart innovations like an ultra-soft feel and Signal Sheets (the last 10 tissues are cream-coloured instead of white, so you know it's almost time for a new box). You'll want to buy them in bulk. Choosing Kleenex® lets everyone know that you care enough to provide the very best. The product has dimensions of 2"x4.75"x8.875" and comes in a case of 36 boxes with 100 tissues per box.</span><br>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Delivers premium quality, preferred for superior softness, strength and absorbency</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.5316%;">Sheet Width</td>
+<td style="width: 53.3831%;"> 8.3"</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Ply</td>
+<td style="width: 53.3831%;">2</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Sheets/box</td>
+<td style="width: 53.3831%;">100</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Sheet Length</td>
+<td style="width: 53.3831%;">7.8"</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Boxes/case</td>
+<td style="width: 53.3831%;">36</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Sold/priced per</td>
+<td style="width: 53.3831%;">Case</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Colour</td>
+<td style="width: 53.3831%;">White</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>125</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>2-ply</s:tag>
+    <s:tag>2-ply36</s:tag>
+    <s:tag>21400</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>3600</s:tag>
+    <s:tag>48</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>boxes</s:tag>
+    <s:tag>case</s:tag>
+    <s:tag>clark</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>flat box</s:tag>
+    <s:tag>FT-21400</s:tag>
+    <s:tag>FT-21606</s:tag>
+    <s:tag>kimberly</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899667796128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.48</s:price>
+      <s:sku>FT-21400</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899660849312</id>
+    <published>2021-08-16T14:20:25-05:00</published>
+    <updated>2021-08-16T14:20:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/kleenex%C2%AE-21400-facial-tissue-36-x-100"/>
+    <title>Kleenex® 21606 - Facial Tissue (48 x 125)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>KIMBERLY-CLARK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at3.38.29PM.png?v=1629142749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KIMBERLY-CLARK<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            62.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Kimberly-Clark Professional™ Kleenex® Facial Tissue Flat Box is a 2ply tissue that offers superior performance, a premium feels and essential softness. When your employees, patients and guests see the respected Kleenex® brand in your business and restrooms, they'll know that you select quality products, putting forth the best image for your business. It's a popular choice in healthcare and medical offices, hotels and lodging and businesses in general. For more than 80 years, Kleenex® has delivered the highest quality among facial tissues, providing consumers with smart innovations like an ultra-soft feel and Signal Sheets (the last 10 tissues are cream-coloured instead of white, so you know it's almost time for a new box). You'll want to buy them in bulk. Choosing Kleenex® lets everyone know that you care enough to provide the very best. The product has dimensions of 2"x4.75"x8.875" and comes in a case of 48 boxes with 125 tissues per box.</span><br>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Delivers premium quality, preferred for superior softness, strength and absorbency</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.5316%;">Sheet Width</td>
+<td style="width: 53.3831%;"> 8.3"</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Ply</td>
+<td style="width: 53.3831%;">2</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Sheets/box</td>
+<td style="width: 53.3831%;">125</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Sheet Length</td>
+<td style="width: 53.3831%;">7.8"</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Boxes/case</td>
+<td style="width: 53.3831%;">48</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Sold/priced per</td>
+<td style="width: 53.3831%;">Case</td>
+</tr>
+<tr>
+<td style="width: 43.5316%;">Colour</td>
+<td style="width: 53.3831%;">White</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>125</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>2-ply</s:tag>
+    <s:tag>2-ply36</s:tag>
+    <s:tag>21400</s:tag>
+    <s:tag>3600</s:tag>
+    <s:tag>48</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>boxes</s:tag>
+    <s:tag>case</s:tag>
+    <s:tag>clark</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>flat box</s:tag>
+    <s:tag>FT-21400</s:tag>
+    <s:tag>FT-21606</s:tag>
+    <s:tag>kimberly</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899660849312</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.68</s:price>
+      <s:sku>FT-21606</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899649282208</id>
+    <published>2021-08-16T14:07:24-05:00</published>
+    <updated>2021-08-16T14:07:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/pro-perform%E2%84%A2-facial-tissues-30-x-100"/>
+    <title>Pro Perform™ F300 - Facial Tissues (30 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>CASCADES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at3.07.32PM.png?v=1629140866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CASCADES<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            33.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li>Made from 100% unbleached recycled fibre of which 80% is from post-consumer material</li>
+<li>The most environmentally responsible choice on the market, by adding 20% corrugated box fibre into its pulp mix and eliminating bleaching chemicals</li>
+<li>Reduces the environmental impact of its raw material by 25%</li>
+<li>A revolutionary facial tissue, without compromising softness</li>
+<li>Contains 0% bleaching chemicals</li>
+<li>Third party certifications include Green Seal<sup>®</sup>, UL ECOLOGO<sup>®</sup><span> </span>175, and offset with 100% green-e<sup>®</sup><span> </span>certified wind electricity</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/Screen_Shot_2020-10-23_at_10.29.07_AM_480x480.png?v=1603463363"></p>
+</div>
+</div>
+<table width="100%">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 41.5608%; height: 17px;">Ply</td>
+<td style="width: 55.5354%; height: 17px;"> 2</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 41.5608%; height: 19px;">Sheets/box</td>
+<td style="width: 55.5354%; height: 19px;">100</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 41.5608%; height: 17px;">Colour</td>
+<td style="width: 55.5354%; height: 17px;">White</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 41.5608%; height: 17px;">Sold/priced per</td>
+<td style="width: 55.5354%; height: 17px;">Case</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 41.5608%; height: 17px;">Qty/case</td>
+<td style="width: 55.5354%; height: 17px;">30 boxes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>cascades</s:tag>
+    <s:tag>core</s:tag>
+    <s:tag>f300</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-F300</s:tag>
+    <s:tag>home</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>perform</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>septic</s:tag>
+    <s:tag>signature</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>softest</s:tag>
+    <s:tag>standard</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>tissues</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899649282208</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.20</s:price>
+      <s:sku>FT-F300</s:sku>
+      <s:grams>7199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899645612192</id>
+    <published>2021-08-16T14:03:20-05:00</published>
+    <updated>2021-08-16T14:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/pro-signature%E2%84%A2-facial-tissues-36-x-100"/>
+    <title>Pro Signature™ F710 - Facial Tissues (36 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>CASCADES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at3.02.24PM.png?v=1629140666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CASCADES<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            57.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li>Offers quality, durability and softness</li>
+<li>Adds a touch of luxury to restrooms and offices in commercial buildings, retail stores and foodservice establishments</li>
+</ul>
+</div>
+<table width="100%">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 41.5608%; height: 17px;">Ply</td>
+<td style="width: 55.5354%; height: 17px;"> 2</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 41.5608%; height: 19px;">Sheets/box</td>
+<td style="width: 55.5354%; height: 19px;">100</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 41.5608%; height: 17px;">Colour</td>
+<td style="width: 55.5354%; height: 17px;">White</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 41.5608%; height: 17px;">Sold/priced per</td>
+<td style="width: 55.5354%; height: 17px;">Case</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 41.5608%; height: 17px;">Qty/case</td>
+<td style="width: 55.5354%; height: 17px;">36 boxes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>cascades</s:tag>
+    <s:tag>core</s:tag>
+    <s:tag>f710</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-F710</s:tag>
+    <s:tag>home</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>septic</s:tag>
+    <s:tag>signature</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>softest</s:tag>
+    <s:tag>standard</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>tissues</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899645612192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.14</s:price>
+      <s:sku>FT-F710</s:sku>
+      <s:grams>7199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899643547808</id>
+    <published>2021-08-16T14:01:47-05:00</published>
+    <updated>2021-08-16T14:01:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/scotties-to-go-3-ply-facial-tissues-10ct-12-x-8-cs"/>
+    <title>Scotties-to-go - 3-Ply Facial Tissues 10ct (12 x 8/cs)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>KRUGER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at2.58.52PM.png?v=1629140508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRUGER<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">8 thin packets of 10 tissues. 12 bags of 8 packets per case.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">The Scotties you know and love, now available when away from home.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Premium quality 3-ply, full-size facial tissues in a thin, self-sealing package</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Plastic slim packs offer hygienic format, keeping tissues clean and dry.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Low sheet count per slim pack offers convenience and a “personalized tissue" experience.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Ideal for use in: hotel guest rooms, acute and long term health care, cash &amp; carry, convenience/gas, online catalogue retailers.</span></li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 41.3538%;">Ply</td>
+<td style="width: 55.5609%;"> 3</td>
+</tr>
+<tr>
+<td style="width: 41.3538%;">Colour</td>
+<td style="width: 55.5609%;">White</td>
+</tr>
+<tr>
+<td style="width: 41.3538%;">Size</td>
+<td style="width: 55.5609%;">Full sized</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10ct</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-86910</s:tag>
+    <s:tag>go</s:tag>
+    <s:tag>gopack</s:tag>
+    <s:tag>kruger</s:tag>
+    <s:tag>on</s:tag>
+    <s:tag>packs</s:tag>
+    <s:tag>scott</s:tag>
+    <s:tag>scotties</s:tag>
+    <s:tag>the</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>to</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899643547808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>FT-86910</s:sku>
+      <s:grams>2050</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899636043936</id>
+    <published>2021-08-16T13:54:22-05:00</published>
+    <updated>2021-08-16T13:54:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/embassy%C2%AE-supreme-facial-tissue-36-x-100"/>
+    <title>Embassy® Supreme - Facial Tissue (36 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>KRUGER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at2.52.58PM.png?v=1629140091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRUGER<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            58.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Same quality as Scotties. Contains a minimum of 88% post-consumer recycled material.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Two-ply.</li>
+<li data-mce-fragment="1">100 sheets per box.</li>
+<li data-mce-fragment="1">36 boxes/ctn.</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.4427%;">Ply</td>
+<td style="width: 54.472%;"> 2</td>
+</tr>
+<tr>
+<td style="width: 42.4427%;">Quantity/box</td>
+<td style="width: 54.472%;">100 sheets</td>
+</tr>
+<tr>
+<td style="width: 42.4427%;">Quantity per case</td>
+<td style="width: 54.472%;">36 boxes</td>
+</tr>
+<tr>
+<td style="width: 42.4427%;">Sold/priced</td>
+<td style="width: 54.472%;">Case</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>embassy</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-08906</s:tag>
+    <s:tag>FT-08921</s:tag>
+    <s:tag>kruger</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>scotties</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>sheets</s:tag>
+    <s:tag>supreme</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>tissues</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899636043936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.95</s:price>
+      <s:sku>FT-08906</s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899632341152</id>
+    <published>2021-08-16T13:51:41-05:00</published>
+    <updated>2021-08-16T13:51:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/facial-tissue-quick-wipes-135-cs"/>
+    <title>Facial Tissue Quick-Wipes (135/cs)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>KRUGER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at2.45.24PM.png?v=1629139902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRUGER<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            102.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Small tissue dimensions are ideal for healthcare patient needs. Compact carton dimensions take up minimal space. Made with 100% recycled fibre and at least 88% post-consumer content.</span></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/Black_Recycling_Symbol_U_267B_480x480.jpg?v=1560263262" width="68" height="66"></span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.3632%;">Ply</td>
+<td style="width: 53.6368%;"> 2</td>
+</tr>
+<tr>
+<td style="width: 42.3632%;">Dimensions</td>
+<td style="width: 53.6368%;">
+<meta charset="utf-8">8.3" x 4.5" (21.1 cm x 11.4 cm)</td>
+</tr>
+<tr>
+<td style="width: 42.3632%;">Sheet Quantity</td>
+<td style="width: 53.6368%;">80</td>
+</tr>
+<tr>
+<td style="width: 42.3632%;">Colour</td>
+<td style="width: 53.6368%;">White</td>
+</tr>
+</tbody>
+</table>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>135</s:tag>
+    <s:tag>80</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>care</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-08500</s:tag>
+    <s:tag>health</s:tag>
+    <s:tag>hospital</s:tag>
+    <s:tag>kruger</s:tag>
+    <s:tag>quick</s:tag>
+    <s:tag>recycled</s:tag>
+    <s:tag>swan</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899632341152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">102.98</s:price>
+      <s:sku>FT-08500</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899624312992</id>
+    <published>2021-08-16T13:44:09-05:00</published>
+    <updated>2021-08-16T13:44:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/embassy%C2%AE-supreme-facial-tissue-30-x-100"/>
+    <title>Embassy® Supreme - Facial Tissue (30 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>KRUGER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at2.39.52PM.png?v=1629139449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRUGER<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            48.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Same quality as Scotties. Contains a minimum of 88% post-consumer recycled material.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Two-ply.</li>
+<li data-mce-fragment="1">100 sheets per box.</li>
+<li data-mce-fragment="1">30 boxes/ctn.</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.4427%;">Ply</td>
+<td style="width: 54.472%;"> 2</td>
+</tr>
+<tr>
+<td style="width: 42.4427%;">Quantity/box</td>
+<td style="width: 54.472%;">100 sheets</td>
+</tr>
+<tr>
+<td style="width: 42.4427%;">Quantity per case</td>
+<td style="width: 54.472%;">30 boxes</td>
+</tr>
+<tr>
+<td style="width: 42.4427%;">Sold/priced</td>
+<td style="width: 54.472%;">Case</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>embassy</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-08921</s:tag>
+    <s:tag>kruger</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>scotties</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>sheets</s:tag>
+    <s:tag>supreme</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>tissues</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899624312992</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.95</s:price>
+      <s:sku>FT-08921</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899614122144</id>
+    <published>2021-08-16T13:34:47-05:00</published>
+    <updated>2021-08-16T13:34:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/premium-facial-tissue-36-x-94"/>
+    <title>Premium Facial Tissue (36 x 94)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at2.34.17PM.png?v=1629138965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            81.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Tork Premium Facial Tissue is an ultra-soft premium 2-ply facial tissue which tells the user that you care about their comfort by delivering maximum softness, thickness and absorbency. Cube box style is ideal for the vanity or in-wall dispensers.</span><br></p>
+<p><span data-mce-fragment="1"><img height="61" width="110" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" alt=""></span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.9201%;">Colours</td>
+<td style="width: 53.176%;"> White</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Dimensions</td>
+<td style="width: 53.176%;">
+<meta charset="utf-8"> <span>4.3701" L x 4.3701" W x 5.315" H</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Format(s)</td>
+<td style="width: 53.176%;">
+<meta charset="utf-8"> <span>30 x 100 Sheet per box</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Strength</td>
+<td style="width: 53.176%;">2 Ply</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Manufacture</td>
+<td style="width: 53.176%;">Essity North America</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Brand</td>
+<td style="width: 53.176%;">Tork Advanced</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Manufacture Code</td>
+<td style="width: 53.176%;">TF6910</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>advanced</s:tag>
+    <s:tag>bathroom</s:tag>
+    <s:tag>FT-TF6810</s:tag>
+    <s:tag>FT-TF6910</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>TF6810</s:tag>
+    <s:tag>TF6910</s:tag>
+    <s:tag>tf6920A</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>tork</s:tag>
+    <s:tag>ultra</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899614122144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.85</s:price>
+      <s:sku>FT-TF6910</s:sku>
+      <s:grams>5670</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6899609206944</id>
+    <published>2021-08-16T13:29:33-05:00</published>
+    <updated>2021-08-16T13:29:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/advanced-facial-tissue-30-x-100"/>
+    <title>Advanced Facial Tissue (30 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-16at2.31.32PM.png?v=1629138725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            49.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Tork® Advanced extra soft and absorbent 2-ply facial tissue offers the right combination of performance and value. The soft protective poly shield opening protects the tissues and provides easy, one-at-a-time dispensing. The flat box style is ideal for the vanity or in-wall dispensers. Made from 100% recycled fibres, helps conserve natural resources. Dispenser box is manufactured from 100% recycled materials with a minimum of 15% post-consumer materials, lends a positive image builder. </span><br></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="110" height="61"></span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.9201%;">Colours</td>
+<td style="width: 53.176%;"> White</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Dimensions</td>
+<td style="width: 53.176%;">
+<meta charset="utf-8"> <span>8 x 8 in (unfold)</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Format(s)</td>
+<td style="width: 53.176%;">
+<meta charset="utf-8"> <span>30 x 100 Sheet per box</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Strength</td>
+<td style="width: 53.176%;">2 Ply</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Manufacture</td>
+<td style="width: 53.176%;">Essity North America</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Brand</td>
+<td style="width: 53.176%;">Tork Advanced</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Manufacture Code</td>
+<td style="width: 53.176%;">TF6810</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>advanced</s:tag>
+    <s:tag>bathroom</s:tag>
+    <s:tag>FT-TF6810</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>TF6810</s:tag>
+    <s:tag>tf6920A</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>tork</s:tag>
+    <s:tag>ultra</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6899609206944</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.34</s:price>
+      <s:sku>FT-TF6810</s:sku>
+      <s:grams>5216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5641571532960</id>
+    <published>2020-09-15T16:39:18-05:00</published>
+    <updated>2020-09-15T16:39:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/standard-facial-tissue-30-x-100"/>
+    <title>Pro Select™ F950 - Standard Facial Tissue (30 x 100)</title>
+    <s:type></s:type>
+    <s:vendor>CASCADES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-09-15at5.37.53PM.png?v=1600205957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CASCADES<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ideal for use in classrooms, facilities, office areas and restrooms</li>
+<li data-mce-fragment="1">Flat box style is ideal for vanity or in-wall dispensers</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.1089%;">Colour</td>
+<td style="width: 56.9873%;">White</td>
+</tr>
+<tr>
+<td style="width: 40.1089%;">Strength</td>
+<td style="width: 56.9873%;">2 Ply</td>
+</tr>
+<tr>
+<td style="width: 40.1089%;">Sheet Width</td>
+<td style="width: 56.9873%;">
+<meta charset="utf-8">
+<span>8.1"</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.1089%;">Sheet Length</td>
+<td style="width: 56.9873%;">
+<meta charset="utf-8">
+<span>7.3"</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.1089%;">Sheets/box</td>
+<td style="width: 56.9873%;">100</td>
+</tr>
+<tr>
+<td style="width: 40.1089%;">Boxes/case</td>
+<td style="width: 56.9873%;">30</td>
+</tr>
+<tr>
+<td style="width: 40.1089%;">Brand</td>
+<td style="width: 56.9873%;">PRO Select</td>
+</tr>
+<tr>
+<td style="width: 40.1089%;">Manufacture Code</td>
+<td style="width: 56.9873%;">F950</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>2ply</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>cascadespro</s:tag>
+    <s:tag>f950</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-F950</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>select</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5641571532960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.50</s:price>
+      <s:sku>FT-F950</s:sku>
+      <s:grams>5069</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5641531850912</id>
+    <published>2020-09-15T16:31:24-05:00</published>
+    <updated>2020-09-15T16:31:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/white-swan-facial-tissue-30-x-100"/>
+    <title>White Swan Facial Tissue (30 x 100)</title>
+    <s:type>facial Tissue</s:type>
+    <s:vendor>KRUGER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-09-15at5.28.24PM.png?v=1600205485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRUGER<br>
+        <strong>Type: </strong>facial Tissue<br>
+        <strong>Price: </strong>
+            30.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The right combination of softness and strength. Two-ply. 100 sheets/box. Also available in a carton of 30 boxes.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.4719%;">Colour</td>
+<td style="width: 56.6243%;">White</td>
+</tr>
+<tr>
+<td style="width: 40.4719%;">Strength</td>
+<td style="width: 56.6243%;"> 2-Ply</td>
+</tr>
+<tr>
+<td style="width: 40.4719%;">Recycled Content</td>
+<td style="width: 56.6243%;">100%</td>
+</tr>
+<tr>
+<td style="width: 40.4719%;">Brand</td>
+<td style="width: 56.6243%;">White Swan</td>
+</tr>
+<tr>
+<td style="width: 40.4719%;">Manufacture Code</td>
+<td style="width: 56.6243%;">08301</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>08301</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-08301</s:tag>
+    <s:tag>kruger</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>swan</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5641531850912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.40</s:price>
+      <s:sku>FT-08301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5636984832160</id>
+    <published>2020-09-14T18:33:44-05:00</published>
+    <updated>2020-09-14T18:33:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/premium-facial-tissue-30-x-100"/>
+    <title>Premium Facial Tissue (30 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-09-14at7.28.27PM.png?v=1600126424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Tork Premium Facial Tissue is an ultra-soft premium 2-ply facial tissue which tells the user that you care about their comfort by delivering maximum softness, thickness and absorbency. The flat box style is ideal for the vanity or in-wall dispensers.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.9201%;">Colours</td>
+<td style="width: 53.176%;"> White</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Dimensions</td>
+<td style="width: 53.176%;">
+<meta charset="utf-8">
+<span>8 x 8 in (unfold)</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Format(s)</td>
+<td style="width: 53.176%;">
+<meta charset="utf-8">
+<span>30 x 100 Sheet per box</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Strength</td>
+<td style="width: 53.176%;">2 Ply</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Manufacture</td>
+<td style="width: 53.176%;">Essity North America</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Brand</td>
+<td style="width: 53.176%;">Tork Premium</td>
+</tr>
+<tr>
+<td style="width: 43.9201%;">Manufacture Code</td>
+<td style="width: 53.176%;">TF6920A</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>bathroom</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>papier</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>soft</s:tag>
+    <s:tag>tf6920A</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>tork</s:tag>
+    <s:tag>ultra</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5636984832160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>FT-TF6920A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/557851803659</id>
+    <published>2018-02-25T17:40:00-06:00</published>
+    <updated>2018-02-25T17:40:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/instinct-facial-tissue-2-ply-30-x-100-sheet"/>
+    <title>Biodegradable Facial Tissue (30 x 100)</title>
+    <s:type>Facial Tissue</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/g20080618181901_FT100.jpg?v=1523977386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>Facial Tissue<br>
+        <strong>Price: </strong>
+            34.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<blockquote>
+<p>This Facial Tissue is a biodegradable product. This Improved Formula product is offered in cases of 30 x 100 facial tissue boxes. 2-Ply.</p>
+</blockquote>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Biodegradable</li>
+<li class="d-flex align-items-center main-after">Economic Choice</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 44.2831%;">Colour</td>
+<td style="width: 52.8131%;">White</td>
+</tr>
+<tr>
+<td style="width: 44.2831%;">Format</td>
+<td style="width: 52.8131%;"> <meta charset="utf-8"> <span data-mce-fragment="1">14L x 13,5 x 10,5</span>
+</td>
+</tr>
+<tr>
+<td style="width: 44.2831%;">Format</td>
+<td style="width: 52.8131%;">
+<meta charset="utf-8"> <span>8.188'' x 7.375''</span>
+</td>
+</tr>
+<tr>
+<td style="width: 44.2831%;">Quantity</td>
+<td style="width: 52.8131%;">
+<meta charset="utf-8"> <span>30 bxs x 100shts</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<br>
+<p><img src="//cdn.shopify.com/s/files/1/2457/1675/files/20150723150141_recyclage_large.jpg?v=1519502059" alt="" width="81" height="79"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>2 ply</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>ekological</s:tag>
+    <s:tag>facial</s:tag>
+    <s:tag>FT-10030</s:tag>
+    <s:tag>FT-INS30100</s:tag>
+    <s:tag>ft100</s:tag>
+    <s:tag>INS-10030</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>kleenex</s:tag>
+    <s:tag>mouchoir</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/557851803659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.20</s:price>
+      <s:sku>FT-INS30100</s:sku>
+      <s:grams>4540</s:grams>
+    </s:variant>
+  </entry>
+</feed>

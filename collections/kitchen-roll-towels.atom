@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/kitchen-roll-towels.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-04-26T07:51:53-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6666601431200</id>
+    <published>2021-04-26T07:51:53-05:00</published>
+    <updated>2021-04-26T07:51:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/premium-520-multipurpose-cloth-centerfeed-1-x-520s"/>
+    <title>Premium 510 - Multipurpose Cloth - Centerfeed (1 x 500s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-04-26at8.51.55AM.png?v=1619441537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            83.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Tork Premium multipurpose cloth 520 is made of cellulose and synthetic fibers. It won't break down with water, solvents or detergent based chemicals. This wiper is very absorbent. You'll use fewer wipes, with faster results. High solvent release will let you use less solvent for faster more effective wiping. The self dispensing box is compact and offers easy dispensing with consistent wiper quality and performance. This product contains 100% synthetic and virgin fibers.</span><br></p>
+<ul>
+<li>Tork<sup>®</sup><span> </span>Premium 520 multipurpose cloth wipers are made of cellulose and synthetic fibres</li>
+<li>It will not break down with water, solvents or detergent-based chemicals</li>
+<li>Self-dispensing box is compact and offers easy dispensing with consistent wiper quality and performance</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.5572%;">Colour</td>
+<td style="width: 53.539%;">White</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Ply</td>
+<td style="width: 53.539%;">1</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Quantity</td>
+<td style="width: 53.539%;">500 sheet roll</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500</s:tag>
+    <s:tag>520</s:tag>
+    <s:tag>520s</s:tag>
+    <s:tag>america</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>case</s:tag>
+    <s:tag>center</s:tag>
+    <s:tag>centerfeed</s:tag>
+    <s:tag>centrefeed</s:tag>
+    <s:tag>essity</s:tag>
+    <s:tag>feed</s:tag>
+    <s:tag>fibers</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>industrial</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-510137</s:tag>
+    <s:tag>KT-520337</s:tag>
+    <s:tag>north</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>specialty</s:tag>
+    <s:tag>synthetic</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>virgin</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:tag>wiper</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6666601431200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.06</s:price>
+      <s:sku>KT-510137</s:sku>
+      <s:grams>3402</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6666597204128</id>
+    <published>2021-04-26T07:46:34-05:00</published>
+    <updated>2021-04-26T07:46:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/premium-570-multipurpose-cloth-centerfeed-1-x-160s-1"/>
+    <title>Premium 520 - Multipurpose Cloth - Centerfeed (1 x 520s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-04-26at8.55.02AM.png?v=1619441716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            90.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Tork Premium multipurpose cloth 520 is made of cellulose and synthetic fibers. It won't break down with water, solvents or detergent based chemicals. This wiper is very absorbent. You'll use fewer wipes, with faster results. High solvent release will let you use less solvent for faster more effective wiping. The self dispensing box is compact and offers easy dispensing with consistent wiper quality and performance. This product contains 100% synthetic and virgin fibers.</span><br></p>
+<ul>
+<li>Tork<sup>®</sup><span> </span>Premium 520 multipurpose cloth wipers are made of cellulose and synthetic fibres</li>
+<li>It will not break down with water, solvents or detergent-based chemicals</li>
+<li>Self-dispensing box is compact and offers easy dispensing with consistent wiper quality and performance</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.5572%;">Colour</td>
+<td style="width: 53.539%;">Grey</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Ply</td>
+<td style="width: 53.539%;">1</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Quantity</td>
+<td style="width: 53.539%;">520 sheet roll</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>500</s:tag>
+    <s:tag>520</s:tag>
+    <s:tag>520s</s:tag>
+    <s:tag>america</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>case</s:tag>
+    <s:tag>center</s:tag>
+    <s:tag>centerfeed</s:tag>
+    <s:tag>centrefeed</s:tag>
+    <s:tag>essity</s:tag>
+    <s:tag>feed</s:tag>
+    <s:tag>fibers</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>industrial</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-520337</s:tag>
+    <s:tag>north</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>specialty</s:tag>
+    <s:tag>synthetic</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>virgin</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:tag>wiper</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6666597204128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.80</s:price>
+      <s:sku>KT-520337</s:sku>
+      <s:grams>3552</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6666593730720</id>
+    <published>2021-04-26T07:39:52-05:00</published>
+    <updated>2021-04-26T07:39:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/premium-530-multipurpose-cloth-centerfeed-1-x-160s"/>
+    <title>Premium 530 - Multipurpose Cloth - Centerfeed (1 x 400s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-04-26at8.31.33AM_8cf80d75-504a-48a8-aeef-ee609519c6d2.png?v=1619440793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">No matter what the task at hand - from heavy-duty cleaning to small wiping jobs - these top-of-the-line wipers deliver. And not only are they versatile, they're also convenient; the center pull, makes it as easy to access as they are to use with the Tork Performance W2 dispensing system. Tork Premium 530 multipurpose cloth are the cloths of choice for cleaning surfaces, tools and other heavy-duty maintenance wiping. Their high-absorbency makes cleaning up oil, grime, and solvents quick and easy, and their low-lint design makes them the perfect wipers for most jobs. Because they're so versatile and long-wearing, you'll save both money and the time you previously spent on rags or rentals. With Tork Premium 530 multipurpose cloth, you'll get great results in less time with fewer wipers. This product contains 100% synthetic and virgin fibers.</span><br></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.5572%;">Colour</td>
+<td style="width: 53.539%;">White</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Ply</td>
+<td style="width: 53.539%;">1</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Dimensions</td>
+<td style="width: 53.539%;">101.6m</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Quantity</td>
+<td style="width: 53.539%;"> 400 sheet roll</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>400</s:tag>
+    <s:tag>400s</s:tag>
+    <s:tag>530</s:tag>
+    <s:tag>america</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>case</s:tag>
+    <s:tag>center</s:tag>
+    <s:tag>centerfeed</s:tag>
+    <s:tag>centrefeed</s:tag>
+    <s:tag>essity</s:tag>
+    <s:tag>feed</s:tag>
+    <s:tag>fibers</s:tag>
+    <s:tag>industrial</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-530137</s:tag>
+    <s:tag>north</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>synthetic</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>virgin</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:tag>wiper</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6666593730720</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>KT-530137</s:sku>
+      <s:grams>3143</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6666593337504</id>
+    <published>2021-04-26T07:38:44-05:00</published>
+    <updated>2021-04-26T07:38:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/premium-570-multipurpose-cloth-centerfeed-1-x-160s"/>
+    <title>Premium 570 - Multipurpose Cloth - Centerfeed (1 x 160s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-04-26at8.31.33AM.png?v=1619440725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            43.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The Tork Premium 570 is well suited for use with solvents, absorbing large amounts of water, oil and grease. The thick design of the Premium 570 makes it perfect for wiping machines and metal parts. These wipers will also protect your hands from heat, when carrying hot plates and cleaning ovens for example. Tork Premium 570 wipers provide superior quality and are the best in their class. Try these wipers and observe how the quality improves productivity, regardless of your industry or the products you use for wiping tasks today. This product contains 100% synthetic and virgin fibers.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.5572%;">Colour</td>
+<td style="width: 53.539%;">White</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Ply</td>
+<td style="width: 53.539%;">1</td>
+</tr>
+<tr>
+<td style="width: 43.5572%;">Quantity</td>
+<td style="width: 53.539%;"> 160 sheet roll</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>260</s:tag>
+    <s:tag>570</s:tag>
+    <s:tag>america</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>case</s:tag>
+    <s:tag>center</s:tag>
+    <s:tag>centerfeed</s:tag>
+    <s:tag>centrefeed</s:tag>
+    <s:tag>essity</s:tag>
+    <s:tag>feed</s:tag>
+    <s:tag>fibers</s:tag>
+    <s:tag>industrial</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-570137</s:tag>
+    <s:tag>north</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolls</s:tag>
+    <s:tag>synthetic</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>virgin</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:tag>wiper</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6666593337504</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.94</s:price>
+      <s:sku>KT-570137</s:sku>
+      <s:grams>2236</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6537111994528</id>
+    <published>2021-02-24T11:52:53-06:00</published>
+    <updated>2021-02-24T11:52:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/kitchen-roll-towels-12-x-250s"/>
+    <title>Kitchen Roll Towels (12 x 250s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>CASCADES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-02-24at12.53.33PM.png?v=1614189224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CASCADES<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            59.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Cascades PRO Select® kitchen roll towels are the economical and sustainable option for classrooms, cafeterias, kitchens, break-rooms and facilities.</span></p>
+<meta charset="utf-8">
+<p><span>There's no reason to cry over spilled milk when you have Cascades PRO Select™ kitchen roll towels. The 2-ply individual perforated roll towels are durable and quick-absorbing for life's everyday messes. Made from 100% recycled fiber, these towels are a sustainable and practical choice. Ideal for cleaning use across foodservice, retail locations and schools.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.9107%;">Colour</td>
+<td style="width: 53.0893%;">White</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Size</td>
+<td style="width: 53.0893%;">
+<div><meta charset="utf-8"></div>
+<span>11" x 8"</span><br>
+</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Strength</td>
+<td style="width: 53.0893%;">2-Ply</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Sheets/roll</td>
+<td style="width: 53.0893%;">250</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Case Quantity</td>
+<td style="width: 53.0893%;">12</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Manufacture</td>
+<td style="width: 53.0893%;">Cascades Tissue Group</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Manufacture Code</td>
+<td style="width: 53.0893%;">K250</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/2457/1675/files/Screen_Shot_2019-06-29_at_10.22.23_AM_480x480.png?v=1561818158" alt="" width="207" height="81"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11&quot;</s:tag>
+    <s:tag>11X8</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12x250s</s:tag>
+    <s:tag>250</s:tag>
+    <s:tag>250s</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30 x70</s:tag>
+    <s:tag>70</s:tag>
+    <s:tag>8&quot;</s:tag>
+    <s:tag>cascades</s:tag>
+    <s:tag>essuie</s:tag>
+    <s:tag>k070</s:tag>
+    <s:tag>k250</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-CAS-K070</s:tag>
+    <s:tag>KT-CAS-K0701</s:tag>
+    <s:tag>KT-K070</s:tag>
+    <s:tag>KT-K250</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>SCOTT</s:tag>
+    <s:tag>select</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>tout</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6537111994528</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.19</s:price>
+      <s:sku>KT-K250</s:sku>
+      <s:grams>6759</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6537079521440</id>
+    <published>2021-02-24T11:39:38-06:00</published>
+    <updated>2021-02-24T11:39:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/kitchen-roll-towels-12-x-84s"/>
+    <title>Kitchen Roll Towels (12 x 84s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-02-24at12.40.07PM.png?v=1614188418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            39.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Tork Perforated Roll Towels - When you want to wipe up water and other spills, Tork Perforated Roll Towels offer a soft and high bulk solution. Thanks to its high absorbency, the spill holding is superb, which reduces the number of towels you need to use.</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/2457/1675/files/Screen_Shot_2019-06-29_at_10.22.23_AM_large.png?v=1561818158" alt="" data-mce-fragment="1" data-mce-src="//cdn.shopify.com/s/files/1/2457/1675/files/Screen_Shot_2019-06-29_at_10.22.23_AM_large.png?v=1561818158"></span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.8385%;">Sheet Width </td>
+<td style="width: 58.2577%;"> 11''</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Ply</td>
+<td style="width: 58.2577%;">2</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Sheets/Roll</td>
+<td style="width: 58.2577%;">84</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Colour</td>
+<td style="width: 58.2577%;">White</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Towel Width</td>
+<td style="width: 58.2577%;">9''</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Rolls/Case</td>
+<td style="width: 58.2577%;">12</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Towel Size Length</td>
+<td style="width: 58.2577%;">11''</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Towels/Roll</td>
+<td style="width: 58.2577%;">84</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Sheet Length</td>
+<td style="width: 58.2577%;">9''</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><br></p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12</s:tag>
+    <s:tag>1990A</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>210</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>84</s:tag>
+    <s:tag>HB1990A</s:tag>
+    <s:tag>HB1995A</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-1990A</s:tag>
+    <s:tag>KT-HB1995A</s:tag>
+    <s:tag>KT-T-HB1990A</s:tag>
+    <s:tag>KT-T-HB1995A</s:tag>
+    <s:tag>perforated</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>sheets</s:tag>
+    <s:tag>tork</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6537079521440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.77</s:price>
+      <s:sku>KT-1990A</s:sku>
+      <s:grams>6963</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6022242631840</id>
+    <published>2021-02-01T16:16:43-06:00</published>
+    <updated>2021-02-01T16:16:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/professional-kitchen-towel-rolls-30-x-80"/>
+    <title>Professional Kitchen Towel Rolls (30 x 80s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>KRUGER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-02-01at5.09.54PM.png?v=1612217793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRUGER<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            44.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">White Swan® Professional Towels work beyond the kitchen and are suitable for use as a light duty wiper</li>
+<li data-mce-fragment="1">Individually wrapped rolls with poly film help prevent contamination</li>
+<li data-mce-fragment="1">Common applications include windows, table wiping, paint preparation, and spill clean-up</li>
+<li data-mce-fragment="1">White Swan® - dependability and softness - without compromise</li>
+<li data-mce-fragment="1">Made with 100% recycled fibre and at least 88% post-consumer content</li>
+<li data-mce-fragment="1">Biodegradable</li>
+</ul>
+<br>
+<table width="100%">
+<tbody>
+<tr>
+<td>Colour</td>
+<td> White</td>
+</tr>
+<tr>
+<td>Embossing</td>
+<td>Honeycomb</td>
+</tr>
+<tr>
+<td>Strength</td>
+<td>2-Ply</td>
+</tr>
+<tr>
+<td>Unit Dimensions</td>
+<td>
+<div><br></div>
+<meta charset="utf-8">
+<span data-mce-fragment="1">10.9" x 8.6" ( 27.69 cm x 21.84 cm )</span><br>
+</td>
+</tr>
+<tr>
+<td>Core Diameter</td>
+<td>
+<div><br></div>
+<meta charset="utf-8">
+<span data-mce-fragment="1">1.7" ( 4.32 cm )</span><br>
+</td>
+</tr>
+<tr>
+<td>Units per Case</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Brand</td>
+<td>White Swan</td>
+</tr>
+<tr>
+<td>Manufacture</td>
+<td>Kruger</td>
+</tr>
+<tr>
+<td>Manufacture Code</td>
+<td>01656</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>01656</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>80</s:tag>
+    <s:tag>embossed</s:tag>
+    <s:tag>essuie</s:tag>
+    <s:tag>kruger</s:tag>
+    <s:tag>KT-01656</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>professional</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>rolll</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>swan</s:tag>
+    <s:tag>tout</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>towels</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6022242631840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.70</s:price>
+      <s:sku>KT-01656</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4737757413515</id>
+    <published>2020-04-01T15:03:00-05:00</published>
+    <updated>2020-04-01T15:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/kitchen-roll-towels-30-x-70-sheets"/>
+    <title>Kitchen Roll Towels (30 x 70s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>CASCADES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-04-26at8.57.27AM.png?v=1619441866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CASCADES<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            26.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Cascades PRO Select® kitchen roll towels are the economical and sustainable option for classrooms, cafeterias, kitchens, break-rooms and facilities.</span></p>
+<meta charset="utf-8">
+<p><span>There's no reason to cry over spilled milk when you have Cascades PRO Select™ kitchen roll towels. The 2-ply individual perforated roll towels are durable and quick-absorbing for life's everyday messes. Made from 100% recycled fiber, these towels are a sustainable and practical choice. Ideal for cleaning use across foodservice, retail locations and schools.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.9107%;">Colour</td>
+<td style="width: 53.0893%;">White</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Size</td>
+<td style="width: 53.0893%;">
+<div><meta charset="utf-8"></div>
+<span>11" x 8"</span><br>
+</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Strength</td>
+<td style="width: 53.0893%;">2-Ply</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Sheets/roll</td>
+<td style="width: 53.0893%;">70</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Case Quantity</td>
+<td style="width: 53.0893%;">30</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Manufacture</td>
+<td style="width: 53.0893%;">Cascades Tissue Group</td>
+</tr>
+<tr>
+<td style="width: 42.9107%;">Manufacture Code</td>
+<td style="width: 53.0893%;">K070</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/2457/1675/files/Screen_Shot_2019-06-29_at_10.22.23_AM_480x480.png?v=1561818158" alt="" width="207" height="81"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11&quot;</s:tag>
+    <s:tag>11X8</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30 x70</s:tag>
+    <s:tag>70</s:tag>
+    <s:tag>8&quot;</s:tag>
+    <s:tag>cascades</s:tag>
+    <s:tag>essuie</s:tag>
+    <s:tag>k070</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-CAS-K070</s:tag>
+    <s:tag>KT-CAS-K0701</s:tag>
+    <s:tag>KT-K070</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>pro</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>SCOTT</s:tag>
+    <s:tag>select</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>tout</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4737757413515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.50</s:price>
+      <s:sku>KT-K070</s:sku>
+      <s:grams>6866</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3642741948496</id>
+    <published>2019-06-29T09:19:14-05:00</published>
+    <updated>2019-06-29T09:19:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/tork-kitchen-roll-towels"/>
+    <title>Kitchen Roll Towels (12 x 210s)</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>TORK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/61uCRhqkxcL._SX425.jpg?v=1601316048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TORK<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            41.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Tork Perforated Roll Towels - When you want to wipe up water and other spills, Tork Perforated Roll Towels offer a soft and high bulk solution. Thanks to its high absorbency, the spill holding is superb, which reduces the number of towels you need to use.</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/2457/1675/files/Screen_Shot_2019-06-29_at_10.22.23_AM_large.png?v=1561818158" alt="" data-mce-fragment="1" data-mce-src="//cdn.shopify.com/s/files/1/2457/1675/files/Screen_Shot_2019-06-29_at_10.22.23_AM_large.png?v=1561818158"></span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.8385%;">Sheet Width </td>
+<td style="width: 58.2577%;"> 11''</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Ply</td>
+<td style="width: 58.2577%;">2</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Sheets/Roll</td>
+<td style="width: 58.2577%;">210</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Colour</td>
+<td style="width: 58.2577%;">White</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Towel Width</td>
+<td style="width: 58.2577%;">9''</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Rolls/Case</td>
+<td style="width: 58.2577%;">12</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Towel Size Length</td>
+<td style="width: 58.2577%;">11''</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Towels/Roll</td>
+<td style="width: 58.2577%;">210</td>
+</tr>
+<tr>
+<td style="width: 38.8385%;">Sheet Length</td>
+<td style="width: 58.2577%;">9''</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><br></p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>210</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>84</s:tag>
+    <s:tag>HB1990A</s:tag>
+    <s:tag>HB1995A</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-HB1995A</s:tag>
+    <s:tag>KT-T-HB1990A</s:tag>
+    <s:tag>KT-T-HB1995A</s:tag>
+    <s:tag>perforated</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>sheets</s:tag>
+    <s:tag>tork</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3642741948496</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.40</s:price>
+      <s:sku>KT-HB1995A</s:sku>
+      <s:grams>7870</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/12956380043</id>
+    <published>2017-10-17T14:51:33-05:00</published>
+    <updated>2017-10-17T14:51:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/white-swan-kitchen-towel-2-ply-80-sheet-24-cs"/>
+    <title>Professional Kitchen Towel Rolls (24 x 80s)</title>
+    <s:type>Wipes</s:type>
+    <s:vendor>KRUGER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/10102_White_Swan_Household_Towel_80-Sheet_24_rls..jpg?v=1586624159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRUGER<br>
+        <strong>Type: </strong>Wipes<br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><br>Good absorbency and utility in a Professional/Kitchen Towel. White Swan® Professional Towels work beyond the kitchen and are suitable for use as a light duty wiper. Two rolls wrapped with poly film, help prevent contamination. Typical applications include windows, table wiping, paint preparation, and spill clean-up.  White Swan® Towels are the right blend of quality, performance, and economy. Made with 100% recycled fibre and over 88% post-consumer content.<br>
+<blockquote>
+<table width="100%">
+<tbody>
+<tr style="height: 17px;">
+<td style="width: 42.7058%; height: 17px;">Colour</td>
+<td style="width: 51.2942%; height: 17px;"> White</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.7058%; height: 17px;">Embossing</td>
+<td style="width: 51.2942%; height: 17px;">Pin to Pin</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.7058%; height: 17px;">Strength</td>
+<td style="width: 51.2942%; height: 17px;">2-Ply</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.7058%; height: 17px;">Unit Dimensions</td>
+<td style="width: 51.2942%; height: 17px;">
+<div><meta charset="utf-8"></div>
+10.9" x 8.6" (27.69 cm x 21.84 cm)</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.7058%; height: 17px;">Core Diameter</td>
+<td style="width: 51.2942%; height: 17px;">
+<div><meta charset="utf-8"></div>
+1.7" ( 4.32 cm )</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 42.7058%; height: 18px;">Units per Case</td>
+<td style="width: 51.2942%; height: 18px;">24</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.7058%; height: 17px;">Brand</td>
+<td style="width: 51.2942%; height: 17px;">White Swan</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.7058%; height: 17px;">Manufacture</td>
+<td style="width: 51.2942%; height: 17px;">Kruger</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.7058%; height: 17px;">Manufacture Code</td>
+<td style="width: 51.2942%; height: 17px;">01870</td>
+</tr>
+</tbody>
+</table>
+  <img src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480.png?v=1560263241" alt="" width="106" height="59"><img src="https://cdn.shopify.com/s/files/1/2457/1675/files/FSC_C014155_Promotional_with_text_Portrait_WhiteOnGreen_r_LP0Vqe_480x480.jpg?v=1586624114" alt="" width="56" height="84">  <img src="https://cdn.shopify.com/s/files/1/2457/1675/files/Black_Recycling_Symbol_U_267B_480x480.jpg?v=1560263262" alt="" width="72" height="69">
+</blockquote>
+<blockquote><strong></strong></blockquote>
+<meta charset="utf-8">
+<blockquote><span></span></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>01870</s:tag>
+    <s:tag>150 sheet</s:tag>
+    <s:tag>80 sheet</s:tag>
+    <s:tag>essuie tout</s:tag>
+    <s:tag>kitchen</s:tag>
+    <s:tag>KT-01870</s:tag>
+    <s:tag>KT-WS-01870</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>scott</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white swan</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/12956380043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.98</s:price>
+      <s:sku>KT-01870</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+</feed>

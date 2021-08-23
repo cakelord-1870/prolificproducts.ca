@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/microfiber-cloths-rags.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-08-19T13:00:17-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6909748215968</id>
+    <published>2021-08-19T13:00:17-05:00</published>
+    <updated>2021-08-19T13:00:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/pva-all-purpose-microfibre-cloths-5-pack"/>
+    <title>PVA- All-Purpose Microfibre Cloths (5-Pack)</title>
+    <s:type>Wiper</s:type>
+    <s:vendor>Vileda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-19at1.56.37PM.png?v=1629396019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vileda<br>
+        <strong>Type: </strong>Wiper<br>
+        <strong>Price: </strong>
+            4.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">PVAmicro is an innovative all-purpose cloth made from microfibre fabric impregnated with PVA. The PVA treatment makes the cloths inner structure smooth, revealing superior cleaning performance. PVA is well-known in professional cleaning and is used for synthetic chamois, which is appreciated for streak free cleaning and absorbency.</span></p>
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Microfibres ensures perfect cleaning performance on almost all surfaces</li>
+<li class="d-flex align-items-center main-after">Good water absorbency for streak-free wiping without after-drying</li>
+<li class="d-flex align-items-center main-after">Holds 40 times less particle residue after rinsing, compared to ordinary knitted microfibre cloth. Non-woven microfibre cloth</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.8057%;">Dimensions</td>
+<td style="width: 54.109%;"> 15" x 14"</td>
+</tr>
+<tr>
+<td style="width: 42.8057%;">Colour(s)</td>
+<td style="width: 54.109%;">Red, Yellow, Green,Blue(Window)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5</s:tag>
+    <s:tag>all-purpose</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>cloths</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>MF-143591</s:tag>
+    <s:tag>micro</s:tag>
+    <s:tag>microfiber</s:tag>
+    <s:tag>microfibre</s:tag>
+    <s:tag>pack</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>vileda</s:tag>
+    <s:tag>wipe</s:tag>
+    <s:tag>wiper</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6909748215968</id>
+      <title>Red</title>
+      <s:price currency="CAD">4.55</s:price>
+      <s:sku>MF-143591</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6909748215968</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">4.55</s:price>
+      <s:sku>MF-143592</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6909748215968</id>
+      <title>Green</title>
+      <s:price currency="CAD">4.55</s:price>
+      <s:sku>MF-82143593</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6909748215968</id>
+      <title>Blue (For Windows)</title>
+      <s:price currency="CAD">4.55</s:price>
+      <s:sku>MF-143590</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5808631283872</id>
+    <published>2020-10-28T07:51:07-05:00</published>
+    <updated>2020-10-28T07:51:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/hygen%E2%84%A2-sanitizer-safe-cleaning-cloth-16-x-20"/>
+    <title>Hygen™ - Sanitizer Safe Cleaning Cloth 16&quot; x 19&quot;</title>
+    <s:type>Cloth</s:type>
+    <s:vendor>RUBBERMAID</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-28at8.51.18AM.png?v=1603889501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUBBERMAID<br>
+        <strong>Type: </strong>Cloth<br>
+        <strong>Price: </strong>
+            2.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Removes stains 30% more effectively than cotton cloths</li>
+<li data-mce-fragment="1">Proven to remove 99.9% of microbes</li>
+<li data-mce-fragment="1">Quat- and bleach-safe to help maintain sanitizer effectiveness</li>
+<li data-mce-fragment="1">Cleans effectively with less chemical replenishment</li>
+<li data-mce-fragment="1">Durable for up to 40 launderings</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.8294%;">Material</td>
+<td style="width: 55.1706%;">
+<meta charset="utf-8"> <span>Microfibre</span>
+</td>
+</tr>
+<tr>
+<td style="width: 38.8294%;">Colour</td>
+<td style="width: 55.1706%;">Red/White</td>
+</tr>
+<tr>
+<td style="width: 38.8294%;">Size</td>
+<td style="width: 55.1706%;"> 16" x 19"</td>
+</tr>
+<tr>
+<td style="width: 38.8294%;">Manufacture Code</td>
+<td style="width: 55.1706%;">
+<meta charset="utf-8"> <span> <meta charset="utf-8">1805730</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16&quot;</s:tag>
+    <s:tag>1805730</s:tag>
+    <s:tag>19&quot;</s:tag>
+    <s:tag>C- 1805727</s:tag>
+    <s:tag>C-1805730</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>corona</s:tag>
+    <s:tag>covid-19</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>hygen</s:tag>
+    <s:tag>Microfibre</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>rubbermaid</s:tag>
+    <s:tag>sanitation</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>sanitizersafe</s:tag>
+    <s:tag>station</s:tag>
+    <s:tag>virus</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5808631283872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.39</s:price>
+      <s:sku>C-1805730</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5808620077216</id>
+    <published>2020-10-28T07:48:18-05:00</published>
+    <updated>2020-10-28T07:48:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/hygen%E2%84%A2-sanitizer-safe-cleaning-cloth-16-x-19"/>
+    <title>Hygen™ - Sanitizer Safe Cleaning Cloth 16&quot; x 19&quot;</title>
+    <s:type>Cloth</s:type>
+    <s:vendor>RUBBERMAID</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-28at8.40.36AM.png?v=1603889299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RUBBERMAID<br>
+        <strong>Type: </strong>Cloth<br>
+        <strong>Price: </strong>
+            2.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Removes stains 30% more effectively than cotton cloths</li>
+<li data-mce-fragment="1">Proven to remove 99.9% of microbes</li>
+<li data-mce-fragment="1">Quat- and bleach-safe to help maintain sanitizer effectiveness</li>
+<li data-mce-fragment="1">Cleans effectively with less chemical replenishment</li>
+<li data-mce-fragment="1">Durable for up to 40 launderings</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.8294%;">Material</td>
+<td style="width: 55.1706%;">
+<meta charset="utf-8">
+<span>Microfibre</span>
+</td>
+</tr>
+<tr>
+<td style="width: 38.8294%;">Colour</td>
+<td style="width: 55.1706%;">Red/White</td>
+</tr>
+<tr>
+<td style="width: 38.8294%;">Size</td>
+<td style="width: 55.1706%;"> 16" x 19"</td>
+</tr>
+<tr>
+<td style="width: 38.8294%;">Manufacture Code</td>
+<td style="width: 55.1706%;">
+<meta charset="utf-8">
+<span> 1805727</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16&quot;</s:tag>
+    <s:tag>19&quot;</s:tag>
+    <s:tag>C- 1805727</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>corona</s:tag>
+    <s:tag>covid-19</s:tag>
+    <s:tag>hygen</s:tag>
+    <s:tag>Microfibre</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>rubbermaid</s:tag>
+    <s:tag>sanitation</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>sanitizersafe</s:tag>
+    <s:tag>station</s:tag>
+    <s:tag>virus</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5808620077216</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.39</s:price>
+      <s:sku>C- 1805727</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4795042365579</id>
+    <published>2020-04-15T20:25:18-05:00</published>
+    <updated>2020-04-15T20:25:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ultrafibre%E2%84%A2-microfibre-cloths-blue-5-pack"/>
+    <title>Ultrafibre™ Microfibre Cloths Blue (5-Pack)</title>
+    <s:type>microfiber cloth</s:type>
+    <s:vendor>ATLAS GRAHAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/jd229.jpg?v=1587000363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATLAS GRAHAM<br>
+        <strong>Type: </strong>microfiber cloth<br>
+        <strong>Price: </strong>
+            18.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>AG Ultrafiber hand cloths are heads and shoulders above the average microfibre cloths sold in retail outlets. They are made of Pola Millentex, a microfibre warp-knitted fabric that is soft and durable with an excellent consistency of weave. Cloths will retain their shape and ability to pick up microscopic particles of dirt and bacteria even after repeated washings. With proper care, these cloths can be laundered hundreds of times and remain useful. Offered in 5 distinct colours to aid in HACCP programs or area segregation (especially important in health care facilities).<br></span></p>
+<meta charset="utf-8">
+<ul>
+<li>Picks up more dirt and bacteria than traditional wiping cloths</li>
+<li>Better results with less cleaning solution and less work</li>
+<li>Green for multipurpose and blue for glass and other polished smooth surfaces</li>
+<li>Caution: Do not use on optical grade glass</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.3443%;"> Material</td>
+<td style="width: 58.1056%;">Microfibre</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Application</td>
+<td style="width: 58.1056%;">General Purpose</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Dimensions</td>
+<td style="width: 58.1056%;">16" x 16"</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Colour</td>
+<td style="width: 58.1056%;">Blue<br>
+</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Quantity/Package</td>
+<td style="width: 58.1056%;">5</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Sales Format</td>
+<td style="width: 58.1056%;">Package</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Manufacture</td>
+<td style="width: 58.1056%;">Atlas Graham</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Manufacture Code</td>
+<td style="width: 58.1056%;">645</td>
+</tr>
+</tbody>
+</table>
+<p><br> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>atlas</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cloths</s:tag>
+    <s:tag>fiber</s:tag>
+    <s:tag>graham</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>MF-643</s:tag>
+    <s:tag>MF-645</s:tag>
+    <s:tag>MF-ATL-1212B</s:tag>
+    <s:tag>MF-ATL-1212GR</s:tag>
+    <s:tag>MF-ATL-1212GY</s:tag>
+    <s:tag>MF-ATL-1212P</s:tag>
+    <s:tag>MF-ATL-1212Y</s:tag>
+    <s:tag>MF-ATL-1616B</s:tag>
+    <s:tag>MF-ATL-1616GR</s:tag>
+    <s:tag>MF-ATL-1616P</s:tag>
+    <s:tag>microfiber</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>ultra</s:tag>
+    <s:tag>ultrafiber</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4795042365579</id>
+      <title>5/pkg</title>
+      <s:price currency="CAD">18.05</s:price>
+      <s:sku>MF-645</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4794937180299</id>
+    <published>2020-04-15T19:48:50-05:00</published>
+    <updated>2020-04-15T19:48:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/economic-all-purpose-microfiber-cloths-16-x-16-blue"/>
+    <title>Economic All Purpose Microfibre Cloths 16&quot; x 16&quot; (Blue)</title>
+    <s:type>microfiber cloth</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-04-15at8.37.22PM_7b87729d-ba35-4867-b603-07e81c296781.png?v=1586998741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>microfiber cloth<br>
+        <strong>Price: </strong>
+            1.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Microfibre cloth 16 x 16 all purpose. Available in: yellow, red, green, pink, orange and blue.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9927%;">Colour</td>
+<td style="width: 55.0073%;"> Blue</td>
+</tr>
+<tr>
+<td style="width: 39.9927%;">Dimensions</td>
+<td style="width: 55.0073%;">16" x 16"</td>
+</tr>
+<tr>
+<td style="width: 39.9927%;">Material</td>
+<td style="width: 55.0073%;">Microfiber</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16</s:tag>
+    <s:tag>1600&apos;</s:tag>
+    <s:tag>16x16</s:tag>
+    <s:tag>all</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>cloths</s:tag>
+    <s:tag>colour</s:tag>
+    <s:tag>fiber</s:tag>
+    <s:tag>fibre</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>MF-1616B</s:tag>
+    <s:tag>MF-1616G</s:tag>
+    <s:tag>MF-1616O</s:tag>
+    <s:tag>MF-1616Y</s:tag>
+    <s:tag>MF-INS-1616B</s:tag>
+    <s:tag>MF-INS-1616O</s:tag>
+    <s:tag>MF-INS-1616P</s:tag>
+    <s:tag>MF-INS-1616R</s:tag>
+    <s:tag>MF-INS-1616W</s:tag>
+    <s:tag>MF-INS-1616Y</s:tag>
+    <s:tag>micro</s:tag>
+    <s:tag>microfiber</s:tag>
+    <s:tag>microfibre</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>rags</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>x</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4794937180299</id>
+      <title>Blue</title>
+      <s:price currency="CAD">1.33</s:price>
+      <s:sku>MF-1616B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4794905821323</id>
+    <published>2020-04-15T19:45:50-05:00</published>
+    <updated>2020-04-15T19:45:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/copy-of-economic-all-purpose-microfiber-cloths-16-x-16-orange"/>
+    <title>Economic All Purpose Microfibre Cloths 16&quot; x 16&quot; (Green)</title>
+    <s:type>microfiber cloth</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-04-15at8.37.22PM_6e9156e9-eafb-4435-aa4c-393dc47a743d.png?v=1586998780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>microfiber cloth<br>
+        <strong>Price: </strong>
+            1.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Microfibre cloth 16 x 16 all purpose. Available in: yellow, red, green, pink, orange and blue.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9927%;">Colour</td>
+<td style="width: 55.0073%;"> Green</td>
+</tr>
+<tr>
+<td style="width: 39.9927%;">Dimensions</td>
+<td style="width: 55.0073%;">16" x 16"</td>
+</tr>
+<tr>
+<td style="width: 39.9927%;">Material</td>
+<td style="width: 55.0073%;">Microfiber</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16</s:tag>
+    <s:tag>1600&apos;</s:tag>
+    <s:tag>16x16</s:tag>
+    <s:tag>all</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>cloths</s:tag>
+    <s:tag>colour</s:tag>
+    <s:tag>fiber</s:tag>
+    <s:tag>fibre</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>MF-1616B</s:tag>
+    <s:tag>MF-1616G</s:tag>
+    <s:tag>MF-1616O</s:tag>
+    <s:tag>MF-1616Y</s:tag>
+    <s:tag>MF-INS-1616B</s:tag>
+    <s:tag>MF-INS-1616O</s:tag>
+    <s:tag>MF-INS-1616P</s:tag>
+    <s:tag>MF-INS-1616R</s:tag>
+    <s:tag>MF-INS-1616W</s:tag>
+    <s:tag>MF-INS-1616Y</s:tag>
+    <s:tag>micro</s:tag>
+    <s:tag>microfiber</s:tag>
+    <s:tag>microfibre</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>rags</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>x</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4794905821323</id>
+      <title>Green</title>
+      <s:price currency="CAD">1.33</s:price>
+      <s:sku>MF-1616G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4794903822475</id>
+    <published>2020-04-15T19:44:40-05:00</published>
+    <updated>2020-04-15T19:44:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/economic-all-purpose-microfiber-cloths-16-x-16-orange"/>
+    <title>Economic All Purpose Microfibre Cloths 16&quot; x 16&quot; (Orange)</title>
+    <s:type>microfiber cloth</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-04-15at8.37.22PM_aebbf4cc-561d-4e14-8570-f6e87c4664ee.png?v=1586998814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>microfiber cloth<br>
+        <strong>Price: </strong>
+            1.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Microfibre cloth 16 x 16 all purpose. Available in: yellow, red, green, pink, orange, blue and green.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9927%;">Colour</td>
+<td style="width: 55.0073%;"> Orange</td>
+</tr>
+<tr>
+<td style="width: 39.9927%;">Dimensions</td>
+<td style="width: 55.0073%;">16" x 16"</td>
+</tr>
+<tr>
+<td style="width: 39.9927%;">Material</td>
+<td style="width: 55.0073%;">Microfiber</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16</s:tag>
+    <s:tag>1600&apos;</s:tag>
+    <s:tag>16x16</s:tag>
+    <s:tag>all</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>cloths</s:tag>
+    <s:tag>colour</s:tag>
+    <s:tag>fiber</s:tag>
+    <s:tag>fibre</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>MF-1616O</s:tag>
+    <s:tag>MF-1616Y</s:tag>
+    <s:tag>MF-INS-1616B</s:tag>
+    <s:tag>MF-INS-1616O</s:tag>
+    <s:tag>MF-INS-1616P</s:tag>
+    <s:tag>MF-INS-1616R</s:tag>
+    <s:tag>MF-INS-1616W</s:tag>
+    <s:tag>MF-INS-1616Y</s:tag>
+    <s:tag>micro</s:tag>
+    <s:tag>microfiber</s:tag>
+    <s:tag>microfibre</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>rags</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>x</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4794903822475</id>
+      <title>Orange</title>
+      <s:price currency="CAD">1.34</s:price>
+      <s:sku>MF-1616O</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4225219297419</id>
+    <published>2019-10-12T08:40:26-05:00</published>
+    <updated>2019-10-12T08:40:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/wypall-microfibre-glass-cloths"/>
+    <title>Wypall Microfibre Glass Cloths</title>
+    <s:type>microfibre</s:type>
+    <s:vendor>KIMBERLY-CLARK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-10-12_at_9.42.06_AM.png?v=1570887984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KIMBERLY-CLARK<br>
+        <strong>Type: </strong>microfibre<br>
+        <strong>Price: </strong>
+            71.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Microfiber cloths with Microban® protection are durable, remarkably absorbent, and environmentally friendly. No chemicals needed. Cleans virtually any surface; wet, dry, or damp. Absorbs eight times its weight in liquid. Can be laundered 300 times. Color-coding helps reduce cross-contamination.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>KC-83630</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clark</s:tag>
+    <s:tag>cloths</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>kc-83630</s:tag>
+    <s:tag>kimberly</s:tag>
+    <s:tag>microfibre</s:tag>
+    <s:tag>wypall</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4225219297419</id>
+      <title>Green 15-3/4&apos;&apos; x 15-3/4&apos;&apos;</title>
+      <s:price currency="CAD">71.50</s:price>
+      <s:sku>KC-83630</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3651992649808</id>
+    <published>2019-07-04T18:17:33-05:00</published>
+    <updated>2019-07-04T18:17:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/atlas-graham-ultra-fiber-microfiber-cloths"/>
+    <title>Ultrafibre™ Microfibre Cloths Green (5-Pack)</title>
+    <s:type>microfiber cloth</s:type>
+    <s:vendor>ATLAS GRAHAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-04-15at9.15.35PM.png?v=1587000082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ATLAS GRAHAM<br>
+        <strong>Type: </strong>microfiber cloth<br>
+        <strong>Price: </strong>
+            18.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>AG Ultrafiber hand cloths are heads and shoulders above the average microfibre cloths sold in retail outlets. They are made of Pola Millentex, a microfibre warp-knitted fabric that is soft and durable with an excellent consistency of weave. Cloths will retain their shape and ability to pick up microscopic particles of dirt and bacteria even after repeated washings. With proper care, these cloths can be laundered hundreds of times and remain useful. Offered in 5 distinct colours to aid in HACCP programs or area segregation (especially important in health care facilities).<br></span></p>
+<meta charset="utf-8">
+<ul>
+<li>Picks up more dirt and bacteria than traditional wiping cloths</li>
+<li>Better results with less cleaning solution and less work</li>
+<li>Green for multipurpose and blue for glass and other polished smooth surfaces</li>
+<li>Caution: Do not use on optical grade glass</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.3443%;"> Material</td>
+<td style="width: 58.1056%;">Microfibre</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Application</td>
+<td style="width: 58.1056%;">General Purpose</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Dimensions</td>
+<td style="width: 58.1056%;">16" x 16"</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Colour</td>
+<td style="width: 58.1056%;">Green</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Quantity/Package</td>
+<td style="width: 58.1056%;">5</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Sales Format</td>
+<td style="width: 58.1056%;">Package</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Manufacture</td>
+<td style="width: 58.1056%;">Atlas Graham</td>
+</tr>
+<tr>
+<td style="width: 39.3443%;">Manufacture Code</td>
+<td style="width: 58.1056%;">643</td>
+</tr>
+</tbody>
+</table>
+<p><br> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>atlas</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cloths</s:tag>
+    <s:tag>fiber</s:tag>
+    <s:tag>graham</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>MF-643</s:tag>
+    <s:tag>MF-ATL-1212B</s:tag>
+    <s:tag>MF-ATL-1212GR</s:tag>
+    <s:tag>MF-ATL-1212GY</s:tag>
+    <s:tag>MF-ATL-1212P</s:tag>
+    <s:tag>MF-ATL-1212Y</s:tag>
+    <s:tag>MF-ATL-1616B</s:tag>
+    <s:tag>MF-ATL-1616GR</s:tag>
+    <s:tag>MF-ATL-1616P</s:tag>
+    <s:tag>microfiber</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>ultra</s:tag>
+    <s:tag>ultrafiber</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3651992649808</id>
+      <title>5/pkg</title>
+      <s:price currency="CAD">18.05</s:price>
+      <s:sku>MF-643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3651971547216</id>
+    <published>2019-07-04T17:54:36-05:00</published>
+    <updated>2019-07-04T17:54:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/instinct-economic-all-purpose-microfiber-cloths"/>
+    <title>Economic All Purpose Microfibre Cloths 16&quot; x 16&quot; (Yellow)</title>
+    <s:type>microfiber cloth</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-04-15at8.37.22PM.png?v=1586998835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>microfiber cloth<br>
+        <strong>Price: </strong>
+            1.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Microfibre cloth 16 x 16 all purpose. Available in: yellow, red, green, pink, orange, blue.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.9927%;">Colour</td>
+<td style="width: 55.0073%;"> Yellow</td>
+</tr>
+<tr>
+<td style="width: 39.9927%;">Dimensions</td>
+<td style="width: 55.0073%;">16" x 16"</td>
+</tr>
+<tr>
+<td style="width: 39.9927%;">Material</td>
+<td style="width: 55.0073%;">Microfiber</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16</s:tag>
+    <s:tag>1600&apos;</s:tag>
+    <s:tag>16x16</s:tag>
+    <s:tag>all</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>cloths</s:tag>
+    <s:tag>colour</s:tag>
+    <s:tag>fiber</s:tag>
+    <s:tag>fibre</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>MF-1616Y</s:tag>
+    <s:tag>MF-INS-1616B</s:tag>
+    <s:tag>MF-INS-1616O</s:tag>
+    <s:tag>MF-INS-1616P</s:tag>
+    <s:tag>MF-INS-1616R</s:tag>
+    <s:tag>MF-INS-1616W</s:tag>
+    <s:tag>MF-INS-1616Y</s:tag>
+    <s:tag>micro</s:tag>
+    <s:tag>microfiber</s:tag>
+    <s:tag>microfibre</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>rags</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>x</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3651971547216</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">1.33</s:price>
+      <s:sku>MF-1616Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3619863199824</id>
+    <published>2019-06-12T14:34:23-05:00</published>
+    <updated>2019-06-12T14:34:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/terry-and-shop-towel-16-x-19-in-8lbs"/>
+    <title>Terry/Shop Rags 16&quot; x 19&quot; (8lbs)</title>
+    <s:type>Towel</s:type>
+    <s:vendor>WIPECO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-04-15at9.03.56PM.png?v=1586999193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WIPECO<br>
+        <strong>Type: </strong>Towel<br>
+        <strong>Price: </strong>
+            41.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Bleached white 32 oz, 16" x 19" 8lbs terry towels. A great product for laundries, car enthusiasts, and general cleaning.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.1694%;">Colour</td>
+<td style="width: 54.2805%;"> White</td>
+</tr>
+<tr>
+<td style="width: 43.1694%;">Dimesnions</td>
+<td style="width: 54.2805%;">16" x 19"</td>
+</tr>
+<tr>
+<td style="width: 43.1694%;">Manufacture</td>
+<td style="width: 54.2805%;">Wipeco</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p> </p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16</s:tag>
+    <s:tag>16x9</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8lbs</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>blanche</s:tag>
+    <s:tag>cloth</s:tag>
+    <s:tag>HT16198</s:tag>
+    <s:tag>lbs</s:tag>
+    <s:tag>pound</s:tag>
+    <s:tag>rag</s:tag>
+    <s:tag>ratine</s:tag>
+    <s:tag>serviette</s:tag>
+    <s:tag>terry</s:tag>
+    <s:tag>towel</s:tag>
+    <s:tag>TR-TT16198C</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3619863199824</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.30</s:price>
+      <s:sku>TR-TT16198C</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

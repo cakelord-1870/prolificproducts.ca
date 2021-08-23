@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/folded-bathroom-tissue.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2018-05-16T20:21:25-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/1344228163664</id>
+    <published>2018-05-16T20:21:25-05:00</published>
+    <updated>2018-05-16T20:21:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/48180-scott-folded-bathroom-tissue-1-ply-500-sheets-36-cs"/>
+    <title>Kleenex® Folded Bathroom Tissue (36/cs)</title>
+    <s:type>Bathroom Tissue</s:type>
+    <s:vendor>KIMBERLY-CLARK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-05at11.11.51AM.png?v=1601910731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KIMBERLY-CLARK<br>
+        <strong>Type: </strong>Bathroom Tissue<br>
+        <strong>Price: </strong>
+            59.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.2777%;">Ply</td>
+<td style="width: 57.7223%;">2</td>
+</tr>
+<tr>
+<td style="width: 38.2777%;">Type</td>
+<td style="width: 57.7223%;">Folded</td>
+</tr>
+<tr>
+<td style="width: 38.2777%;">Colour</td>
+<td style="width: 57.7223%;">White</td>
+</tr>
+<tr>
+<td style="width: 38.2777%;">Qty/cs</td>
+<td style="width: 57.7223%;"> 36</td>
+</tr>
+<tr>
+<td style="width: 38.2777%;">Manufacture Code</td>
+<td style="width: 57.7223%;">
+<meta charset="utf-8">
+<span>48280</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>/cs</s:tag>
+    <s:tag>1</s:tag>
+    <s:tag>1-ply</s:tag>
+    <s:tag>2 ply</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>48180</s:tag>
+    <s:tag>500</s:tag>
+    <s:tag>bathroom</s:tag>
+    <s:tag>case</s:tag>
+    <s:tag>clark</s:tag>
+    <s:tag>folded</s:tag>
+    <s:tag>kimberly</s:tag>
+    <s:tag>one</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>scott</s:tag>
+    <s:tag>sheet</s:tag>
+    <s:tag>sheets</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>toilet</s:tag>
+    <s:tag>TP-48280</s:tag>
+    <s:tag>TP-KC-48180</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/1344228163664</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.71</s:price>
+      <s:sku>TP-48180</s:sku>
+      <s:grams>7508</s:grams>
+    </s:variant>
+  </entry>
+</feed>

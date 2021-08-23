@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/ice-control-spreaders-tools.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2020-10-04T09:27:07-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/5731147841696</id>
+    <published>2020-10-04T09:27:07-05:00</published>
+    <updated>2020-10-04T09:27:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/chapin-salt-spreader-80lbs"/>
+    <title>Chapin Salt Spreader (80lbs)</title>
+    <s:type>salt spreader</s:type>
+    <s:vendor>CHAPIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at10.27.38AM.png?v=1601821669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHAPIN<br>
+        <strong>Type: </strong>salt spreader<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>All season design compatible with salt, halite/ice melt, fertilizer, seeds and more</li>
+<li>Poly conical auger to help move salt, and includes a protective rain/snow cover</li>
+<li>Front and side baffle system provides precise control of the spread pattern</li>
+<li>14-inch pneumatic tires for stability over uneven terrain</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 41.8834%;">Load Capacity</td>
+<td style="width: 55.3942%;">80 lbs</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Gate Control</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8"> <span>Lever</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Gate Opening</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8"> <span>Adjustable slide</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Agitator Type</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8"> <span>Auger</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Manufacture Code</td>
+<td style="width: 55.3942%;">8201A</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100lbs</s:tag>
+    <s:tag>12&quot;</s:tag>
+    <s:tag>80lbs</s:tag>
+    <s:tag>8201A</s:tag>
+    <s:tag>CH-1280</s:tag>
+    <s:tag>chapin</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>salt</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>spreader</s:tag>
+    <s:tag>SS-8201A</s:tag>
+    <s:tag>SS-82108B</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5731147841696</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.00</s:price>
+      <s:sku>SS-8201A</s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4163076620427</id>
+    <published>2019-09-25T08:51:08-05:00</published>
+    <updated>2019-09-25T08:51:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/chapin-salt-spreader"/>
+    <title>Chapin Salt Spreader (100lbs)</title>
+    <s:type>salt spreader</s:type>
+    <s:vendor>CHAPIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-25_at_9.52.21_AM.png?v=1569419643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHAPIN<br>
+        <strong>Type: </strong>salt spreader<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>All season design compatible with salt, halite/ice melt, fertilizer, seeds and more</li>
+<li>Poly conical auger to help move salt, and includes a protective rain/snow cover</li>
+<li>Front and side baffle system provides precise control of the spread pattern</li>
+<li>14-inch pneumatic tires for stability over uneven terrain</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 41.8834%;">Load Capacity</td>
+<td style="width: 55.3942%;"> 100 lbs</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Coverage</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8">
+<span>16000 sq. ft.</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Frame Construction</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8">
+<span>Stainless Steel</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Gate Control</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8">
+<span>Lever</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Gate Opening</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8">
+<span>Adjustable slide</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Agitator Type</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8">
+<span>Auger</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Overall Dimensions</td>
+<td style="width: 55.3942%;">
+<meta charset="utf-8">
+<span>38" L x 24" W x 36" H</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.8834%;">Manufacture Code</td>
+<td style="width: 55.3942%;"><span>82108B</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100lbs</s:tag>
+    <s:tag>12&quot;</s:tag>
+    <s:tag>80lbs</s:tag>
+    <s:tag>CH-1280</s:tag>
+    <s:tag>chapin</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>salt</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>spreader</s:tag>
+    <s:tag>SS-82108B</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4163076620427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">499.00</s:price>
+      <s:sku>SS-82108B</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4163075309707</id>
+    <published>2019-09-25T08:44:47-05:00</published>
+    <updated>2019-09-25T08:44:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/chapin-hand-crank-salt-spreader"/>
+    <title>Hand Crank Salt Spreader (3L)</title>
+    <s:type>Salt Spreader</s:type>
+    <s:vendor>CHAPIN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-25_at_9.47.25_AM.png?v=1569419398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHAPIN<br>
+        <strong>Type: </strong>Salt Spreader<br>
+        <strong>Price: </strong>
+            18.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Take a bite out of winter with the Chapin Hand Salt and Ice Melt Spreader. It features a rugged poly scoop with a toothed edge for cutting through salt making scooping easy. The thumb controlled gate adjustment and trigger gate control are designed to handle the various sizes of salt and ice-melt smoothly, enclosed gears keep debris out. The impeller is designed to provide an even spread pattern. Durable enough to tackle the ice all season long.</span></p>
+<p> </p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.7056%;">Capacity</td>
+<td style="width: 57.5721%;"> 3L</td>
+</tr>
+<tr>
+<td style="width: 39.7056%;">Function</td>
+<td style="width: 57.5721%;">Hand held (Manual)</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH-083</s:tag>
+    <s:tag>chapin</s:tag>
+    <s:tag>crank</s:tag>
+    <s:tag>crystal ice</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>melt</s:tag>
+    <s:tag>salt</s:tag>
+    <s:tag>sand</s:tag>
+    <s:tag>spreader</s:tag>
+    <s:tag>SS-CHAP083</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4163075309707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.57</s:price>
+      <s:sku>SS-CHAP083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/dust-control.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2019-06-20T15:29:52-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/3631697723472</id>
+    <published>2019-06-20T15:29:52-05:00</published>
+    <updated>2019-06-20T15:29:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/sweeping-compound"/>
+    <title>Sweeping Compound</title>
+    <s:type>Sweeping Compound</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-06-20_at_4.50.14_PM.png?v=1561063860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>Sweeping Compound<br>
+        <strong>Price: </strong>
+            19.98 - 98.95
+            <a href="https://prolificproducts.ca/products/sweeping-compound">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Green Sweeping Compound glycerol based. Approved by CFIA.</span></p>
+<blockquote>
+<p><strong>Product Codes:</strong></p>
+<p><span>SC-50</span></p>
+<p><span>SC-300</span></p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>300lbs</s:tag>
+    <s:tag>50lbs</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>compound</s:tag>
+    <s:tag>glycerol</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>powder</s:tag>
+    <s:tag>sweeping</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3631697723472</id>
+      <title>50lbs</title>
+      <s:price currency="CAD">19.98</s:price>
+      <s:sku>SC-50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3631697723472</id>
+      <title>300lbs</title>
+      <s:price currency="CAD">98.95</s:price>
+      <s:sku>SC-300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/585986179083</id>
+    <published>2018-03-21T21:17:31-05:00</published>
+    <updated>2018-03-21T21:17:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/du5251-dustbane-compound-sweeping-dust-control-135kg"/>
+    <title>DU5251 Dustbane Compound Sweeping/Dust Control 135kg</title>
+    <s:type>Dust Control</s:type>
+    <s:vendor>DUSTBANE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/dustbane-22kg-52509.png?v=1521685398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DUSTBANE<br>
+        <strong>Type: </strong>Dust Control<br>
+        <strong>Price: </strong>
+            96.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Use to reduce airborne dust during sweeping and ease the removal of dust and dirt from sealed and unsealed wood, concrete and metal floors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>135</s:tag>
+    <s:tag>compaund</s:tag>
+    <s:tag>control</s:tag>
+    <s:tag>du5251</s:tag>
+    <s:tag>dust</s:tag>
+    <s:tag>dustbane</s:tag>
+    <s:tag>kg</s:tag>
+    <s:tag>powder</s:tag>
+    <s:tag>sweep</s:tag>
+    <s:tag>sweeping</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/585986179083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">96.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+  </entry>
+</feed>

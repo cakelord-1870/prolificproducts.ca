@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/avmor-limited.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2021-08-18T06:32:23-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/6903752753312</id>
+    <published>2021-08-18T06:32:23-05:00</published>
+    <updated>2021-08-18T06:32:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/hcl-23-professional-bowl-cleaner-1l"/>
+    <title>HCL 23 - Professional Bowl Cleaner (1L)</title>
+    <s:type>Toilet Bowl Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-08-18at7.30.08AM.png?v=1629286344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Toilet Bowl Cleaner<br>
+        <strong>Price: </strong>
+            6.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 41.3538%;" data-mce-fragment="1">Format</td>
+<td style="width: 55.5609%;" data-mce-fragment="1">1L</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TBC-1695210001</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6903752753312</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.69</s:price>
+      <s:sku>TBC-1695210001</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6790148325536</id>
+    <published>2021-06-28T14:57:39-05:00</published>
+    <updated>2021-06-28T14:57:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ep72-foam-hand-unscented-soap-4l"/>
+    <title>EP72 - Unscented Foam Hand Soap (4L)</title>
+    <s:type>hand soap</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-06-28at3.54.52PM.png?v=1624910248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>hand soap<br>
+        <strong>Price: </strong>
+            21.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Mild liquid hand soap moisturizes as it cleans leaving your hands soft, smooth and hydrated</li>
+<li data-mce-fragment="1">Formulated with plant derived emulsifiers, foaming agents and emollients</li>
+<li data-mce-fragment="1">No added fragrance, colour or Methylisothiazolinone or Methylchloroisothiazolinone</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="131" height="73"></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.9908%;">Type</td>
+<td style="width: 55.9239%;">Liquid</td>
+</tr>
+<tr>
+<td style="width: 40.9908%;">Container Type</td>
+<td style="width: 55.9239%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 40.9908%;">Net Volume</td>
+<td style="width: 55.9239%;">4L</td>
+</tr>
+<tr>
+<td style="width: 40.9908%;">Fragrance</td>
+<td style="width: 55.9239%;">Unscented</td>
+</tr>
+<tr>
+<td style="width: 40.9908%;">Colour</td>
+<td style="width: 55.9239%;">Clear</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>avmor</s:tag>
+    <s:tag>based</s:tag>
+    <s:tag>ecologo</s:tag>
+    <s:tag>ecopure</s:tag>
+    <s:tag>ep71</s:tag>
+    <s:tag>ep72</s:tag>
+    <s:tag>foam</s:tag>
+    <s:tag>foaming</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>hydrated</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:tag>mmild</s:tag>
+    <s:tag>moisturizing</s:tag>
+    <s:tag>plant</s:tag>
+    <s:tag>smooth</s:tag>
+    <s:tag>soap</s:tag>
+    <s:tag>soft</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6790148325536</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6660863164576</id>
+    <published>2021-04-22T13:50:42-05:00</published>
+    <updated>2021-04-22T13:50:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/beau-cream-bathroom-cleanser-946ml"/>
+    <title>Beau - Cream Bathroom Cleanser (946mL)</title>
+    <s:type>Bathroom Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-04-22at2.48.27PM.png?v=1619117442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Bathroom Cleaner<br>
+        <strong>Price: </strong>
+            7.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 38.657%;" data-mce-fragment="1">Container Size</td>
+<td style="width: 58.4392%;" data-mce-fragment="1"> 946mL</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 38.657%;" data-mce-fragment="1">Container Type</td>
+<td style="width: 58.4392%;" data-mce-fragment="1">Bottle</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>946</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>BC-2127210001</s:tag>
+    <s:tag>beau</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>bowl</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cleanser</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>majik</s:tag>
+    <s:tag>ml</s:tag>
+    <s:tag>tile</s:tag>
+    <s:tag>toilet</s:tag>
+    <s:tag>vim</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6660863164576</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.63</s:price>
+      <s:sku>BC-2127210001</s:sku>
+      <s:grams>1273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6660856217760</id>
+    <published>2021-04-22T13:46:13-05:00</published>
+    <updated>2021-04-22T13:46:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/zeo-all-purpose-foaming-bathroom-cleaner-deodorizer-4l"/>
+    <title>ZEO - All-Purpose Foaming Bathroom Cleaner &amp; Deodorizer (4L)</title>
+    <s:type>bathroom cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-04-22at2.43.09PM.png?v=1619117174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>bathroom cleaner<br>
+        <strong>Price: </strong>
+            34.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Concentrated, all-purpose scrub-free washroom cleaner with strong foaming action</li>
+<li data-mce-fragment="1">Fast and efficient removal of soils, such as hard water deposits and soap scum</li>
+<li data-mce-fragment="1">Formulated to clean and deodorize all porcelain, tiles and acrylic surfaces</li>
+<li data-mce-fragment="1">Pleasant cherry fragrance</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 42.8149%;">Container Size</td>
+<td style="width: 53.1851%;"> 4L</td>
+</tr>
+<tr>
+<td style="width: 42.8149%;">Container Type</td>
+<td style="width: 53.1851%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 42.8149%;">Qty/cs</td>
+<td style="width: 53.1851%;">4 Jugs</td>
+</tr>
+<tr>
+<td style="width: 42.8149%;">Sold/priced per</td>
+<td style="width: 53.1851%;">Jug</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>All-Purpose</s:tag>
+    <s:tag>ap</s:tag>
+    <s:tag>bathroom</s:tag>
+    <s:tag>BC-2124278001</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>cleanser</s:tag>
+    <s:tag>counter</s:tag>
+    <s:tag>deoderizer</s:tag>
+    <s:tag>foam</s:tag>
+    <s:tag>foaming</s:tag>
+    <s:tag>mirror</s:tag>
+    <s:tag>multi</s:tag>
+    <s:tag>multi-use</s:tag>
+    <s:tag>porcelain</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>restroom</s:tag>
+    <s:tag>tile</s:tag>
+    <s:tag>toilet</s:tag>
+    <s:tag>use</s:tag>
+    <s:tag>wash</s:tag>
+    <s:tag>washer</s:tag>
+    <s:tag>washing</s:tag>
+    <s:tag>washroom</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6660856217760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.10</s:price>
+      <s:sku>BC-2124278001</s:sku>
+      <s:grams>4255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6590891163808</id>
+    <published>2021-03-15T08:20:53-05:00</published>
+    <updated>2021-03-15T08:20:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/enviromor-multi-purpose-cleaner-descaler-946ml"/>
+    <title>Enviromor - Multi-Purpose Cleaner &amp; Descaler (946mL)</title>
+    <s:type>descaler</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-15at9.21.06AM.png?v=1615814481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>descaler<br>
+        <strong>Price: </strong>
+            8.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Safe product, acid and biodegradable, without steam harmful and non-corrosive on the skin. Cleans deposits limestones. Removes effectively: rust, tarnish, calcium, soap residue, mold, grease, milkstone, etc. Safe for most metal surfaces. It is recommended to test the product on an inconspicuous area before using.</span></p>
+<p><meta charset="utf-8"><span>Safe and biodegradable product Without harmful vapor Non-corrosive on the skin Removes effectively: rust, tarnish, calcium, soap scum, mildew, grease, milkstone, etc.</span></p>
+<ul>
+<li>Safety acidic product that is biodegradable, non-fuming and non-corrosive on mild steel and skin</li>
+<li>Cleans and revitalize washable surfaces including plastic, laminated, copper, steel, ceramic, tile, porcelain, painted surfaces, brass and grout</li>
+<li>Does not pit, streak or blacken metals</li>
+<li>For use in a variety of facilities including restaurants, commercial buildings, restrooms, manufacturing plants, sports and recreational areas, as well as educational institutions</li>
+<li>Removes surface &amp; heavy rust, tarnish, calcium, lime, soap scum, mold and mildew, grease, beer stone, milk stone, scuff marks and other heavy soils</li>
+<li>Accepted for use in Canadian food processing facilities</li>
+<li>Certified UL Ecologo<sup>®</sup><span> </span>2759</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="95" height="53"></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.0127%;">Container Type</td>
+<td style="width: 54.0835%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 43.0127%;">Container Size</td>
+<td style="width: 54.0835%;">4L</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>946ml</s:tag>
+    <s:tag>acid</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>D-2074210001</s:tag>
+    <s:tag>descaler</s:tag>
+    <s:tag>ecologo</s:tag>
+    <s:tag>enviromor</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>multi</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>rust</s:tag>
+    <s:tag>stain</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6590891163808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.53</s:price>
+      <s:sku>D-2074210001</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6590889492640</id>
+    <published>2021-03-15T08:20:25-05:00</published>
+    <updated>2021-03-15T08:20:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/enviromor-multi-purpose-cleaner-descaler-4l"/>
+    <title>Enviromor - Multi-Purpose Cleaner &amp; Descaler (4L)</title>
+    <s:type>descaler</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-15at9.16.08AM.png?v=1615814426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>descaler<br>
+        <strong>Price: </strong>
+            31.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Safe product, acid and biodegradable, without steam harmful and non-corrosive on the skin. Cleans deposits limestones. Removes effectively: rust, tarnish, calcium, soap residue, mold, grease, milkstone, etc. Safe for most metal surfaces. It is recommended to test the product on an inconspicuous area before using.</span></p>
+<p><meta charset="utf-8"><span>Safe and biodegradable product Without harmful vapor Non-corrosive on the skin Removes effectively: rust, tarnish, calcium, soap scum, mildew, grease, milkstone, etc.</span></p>
+<ul>
+<li>Safety acidic product that is biodegradable, non-fuming and non-corrosive on mild steel and skin</li>
+<li>Cleans and revitalize washable surfaces including plastic, laminated, copper, steel, ceramic, tile, porcelain, painted surfaces, brass and grout</li>
+<li>Does not pit, streak or blacken metals</li>
+<li>For use in a variety of facilities including restaurants, commercial buildings, restrooms, manufacturing plants, sports and recreational areas, as well as educational institutions</li>
+<li>Removes surface &amp; heavy rust, tarnish, calcium, lime, soap scum, mold and mildew, grease, beer stone, milk stone, scuff marks and other heavy soils</li>
+<li>Accepted for use in Canadian food processing facilities</li>
+<li>Certified UL Ecologo<sup>®</sup><span> </span>2759</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="95" height="53"></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.0127%;">Container Type</td>
+<td style="width: 54.0835%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 43.0127%;">Container Size</td>
+<td style="width: 54.0835%;">4L</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acid</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>biodegradable</s:tag>
+    <s:tag>calcium</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>descaler</s:tag>
+    <s:tag>ecologo</s:tag>
+    <s:tag>enviromor</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>multi</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>rust</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>scum</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6590889492640</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.10</s:price>
+      <s:sku>D-2074278001</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6579356008608</id>
+    <published>2021-03-10T12:17:44-06:00</published>
+    <updated>2021-03-10T12:17:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/norchem%C2%AE-m-31-pine-cleaner-4l"/>
+    <title>Norchem® M-31 Pine Cleaner (4L)</title>
+    <s:type>All Purpose Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-10at1.11.23PM.png?v=1615400263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>All Purpose Cleaner<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>General Purpose Pine Cleaner.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.02%;">Container Type</td>
+<td style="width: 58.0762%;"> Jug</td>
+</tr>
+<tr>
+<td style="width: 39.02%;">Container Quantity</td>
+<td style="width: 58.0762%;">4L</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>general</s:tag>
+    <s:tag>GPC-210278020</s:tag>
+    <s:tag>m-31</s:tag>
+    <s:tag>multipurpose</s:tag>
+    <s:tag>norchem</s:tag>
+    <s:tag>pine</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6579356008608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.95</s:price>
+      <s:sku>GPC-210278020</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6567917551776</id>
+    <published>2021-03-06T12:50:36-06:00</published>
+    <updated>2021-03-06T12:50:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/biomor-odour-eliminator-3-78l"/>
+    <title>Biomor - Odour Eliminator (3.78L)</title>
+    <s:type>deoderizer</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-06at1.50.45PM.png?v=1615056656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>deoderizer<br>
+        <strong>Price: </strong>
+            95.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<blockquote><span>Biomor Odour Eliminator is a fast acting and effective biological product that neutralizes odour causing molecules upon contact. To be used on carpets, upholstery, textiles, curtains and other types of fabrics and hard surfaces, and in areas such as compost bins, garbage collection areas and gym lockers. It attacks odours such as urine, smoke, vomit, perspiration, food waste, and other unpleasant smells.</span></blockquote>
+<blockquote><span><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="126" height="70"></span></blockquote>
+<blockquote>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.0955%;">Dilution</td>
+<td style="width: 51.9045%;"> <meta charset="utf-8"> <span data-mce-fragment="1">1:10 and 1:32</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.0955%;">Format</td>
+<td style="width: 51.9045%;">1.89L</td>
+</tr>
+<tr>
+<td style="width: 43.0955%;">Trigger</td>
+<td style="width: 51.9045%;">Included</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+<blockquote><span></span></blockquote>
+<blockquote><strong></strong></blockquote>
+<blockquote><span></span></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.89</s:tag>
+    <s:tag>3.78L</s:tag>
+    <s:tag>4L</s:tag>
+    <s:tag>946ml</s:tag>
+    <s:tag>anti</s:tag>
+    <s:tag>AV-BIOMOR189</s:tag>
+    <s:tag>AV-BIOMOR378</s:tag>
+    <s:tag>AV-BIOMOR946</s:tag>
+    <s:tag>biomor</s:tag>
+    <s:tag>deoderizer</s:tag>
+    <s:tag>eliminator</s:tag>
+    <s:tag>odour</s:tag>
+    <s:tag>OE-2268277001</s:tag>
+    <s:tag>OE-2269257001</s:tag>
+    <s:tag>OE-2283210001</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6567917551776</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.96</s:price>
+      <s:sku>OE-2268277001</s:sku>
+      <s:grams>4309</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6567915094176</id>
+    <published>2021-03-06T12:48:55-06:00</published>
+    <updated>2021-03-06T12:48:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/biomor-odour-eliminator-1-89l"/>
+    <title>Biomor - Odour Eliminator (1.89L)</title>
+    <s:type>deoderizer</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-06at1.49.11PM.png?v=1615056561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>deoderizer<br>
+        <strong>Price: </strong>
+            42.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<blockquote><span>Biomor Odour Eliminator is a fast acting and effective biological product that neutralizes odour causing molecules upon contact. To be used on carpets, upholstery, textiles, curtains and other types of fabrics and hard surfaces, and in areas such as compost bins, garbage collection areas and gym lockers. It attacks odours such as urine, smoke, vomit, perspiration, food waste, and other unpleasant smells.</span></blockquote>
+<blockquote><span><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480_2dccc756-aa5e-49bc-807c-e5d3ad141d8d_480x480.png?v=1615057374" width="111" height="62"></span></blockquote>
+<blockquote>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.0955%;">Dilution</td>
+<td style="width: 51.9045%;"> <meta charset="utf-8"> <span data-mce-fragment="1">1:10 and 1:32</span>
+</td>
+</tr>
+<tr>
+<td style="width: 43.0955%;">Format</td>
+<td style="width: 51.9045%;">1.89L</td>
+</tr>
+<tr>
+<td style="width: 43.0955%;">Trigger</td>
+<td style="width: 51.9045%;">Included</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+<blockquote><span></span></blockquote>
+<blockquote><strong></strong></blockquote>
+<blockquote><span></span></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1.89</s:tag>
+    <s:tag>946ml</s:tag>
+    <s:tag>anti</s:tag>
+    <s:tag>AV-BIOMOR189</s:tag>
+    <s:tag>AV-BIOMOR378</s:tag>
+    <s:tag>AV-BIOMOR946</s:tag>
+    <s:tag>biomor</s:tag>
+    <s:tag>deoderizer</s:tag>
+    <s:tag>eliminator</s:tag>
+    <s:tag>odour</s:tag>
+    <s:tag>OE-2269257001</s:tag>
+    <s:tag>OE-2283210001</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6567915094176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.90</s:price>
+      <s:sku>OE-2269257001</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/6567833534624</id>
+    <published>2021-03-06T11:56:34-06:00</published>
+    <updated>2021-03-06T11:56:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/solnet-floor-cleaner-20l"/>
+    <title>Solnet Floor Cleaner (20L)</title>
+    <s:type>Floor Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-06at12.56.52PM.png?v=1615053424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Floor Cleaner<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<blockquote>
+<meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Optimized blend of low-foam surfactants and sequestrants, with a pleasant citrus fragrance for maximum cleaning and deodorizing action</li>
+<li data-mce-fragment="1">Designed to leave floors clean and bright</li>
+<li data-mce-fragment="1">Accepted for use in Canadian food processing facilities</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">Container Size</td>
+<td style="width: 63.2696%;"> 20L</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Container Type</td>
+<td style="width: 63.2696%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Fragrance</td>
+<td style="width: 63.2696%;">Citrus</td>
+</tr>
+</tbody>
+</table>
+<p> <br></p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12053s</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>citris</s:tag>
+    <s:tag>citruis</s:tag>
+    <s:tag>citrus</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>deoderizing</s:tag>
+    <s:tag>FC-2003334001</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>foam</s:tag>
+    <s:tag>low</s:tag>
+    <s:tag>solnet</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/6567833534624</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>FC-2003334001</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5829388927136</id>
+    <published>2020-11-05T14:37:32-06:00</published>
+    <updated>2020-11-05T14:37:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/sanimor%E2%84%A2-alcohol-free-hand-sanitizer-unscented-1250ml"/>
+    <title>Sanimor™ Alcohol Free Hand Sanitizer - Unscented (1250mL)</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-11-05at3.35.09PM.png?v=1604608644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Alcohol-free</li>
+<li data-mce-fragment="1">Non-flammable</li>
+<li data-mce-fragment="1">Absorbs quickly and is non-drying to the skin, which leaves the skin feeling soft and refreshed</li>
+<li data-mce-fragment="1">Kills harmful germs and bacteria</li>
+<li data-mce-fragment="1">Prevents the spread of certain bacteria</li>
+<li data-mce-fragment="1">Keeps working after it is applied</li>
+<li data-mce-fragment="1">Active ingredient benalkonium chloride has germicidal efficacy</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.2904%;">Alcohol Content</td>
+<td style="width: 56.8058%;"> 0%</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Container Type</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>Cartridge Refill</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Net Volume</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>1250 ml</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Fragrance</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>Unscented</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">
+<meta charset="utf-8">
+<span>Benzalkonium Chloride</span>
+</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>0.13%</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">DIN</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>02432749</span>
+</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Manufacture Code</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>2364225001</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1250ml</s:tag>
+    <s:tag>2364225001</s:tag>
+    <s:tag>alcohol</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>cartridge</s:tag>
+    <s:tag>din</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>HS-2364225001</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>non</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>sanimor</s:tag>
+    <s:tag>sanimore</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>unscented</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5829388927136</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>HS-2364225001</s:sku>
+      <s:grams>1073</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5829336400032</id>
+    <published>2020-11-05T13:42:37-06:00</published>
+    <updated>2020-11-05T13:42:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/fiesta-concentrated-fabric-stain-remover-4l"/>
+    <title>Fiesta - Concentrated Fabric Stain Remover (4L)</title>
+    <s:type>Stain Remover</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-11-05at2.43.04PM.png?v=1604605398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Stain Remover<br>
+        <strong>Price: </strong>
+            32.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A concentrated blend of penetrating wetting agents and detergents, working synergistically to remove the toughest stains including blood, fruit, grass stains, chocolate, make-up, oil, and grease.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 35.3902%;">Container Type</td>
+<td style="width: 61.706%;"> jug</td>
+</tr>
+<tr>
+<td style="width: 35.3902%;">Net Volume</td>
+<td style="width: 61.706%;">4L</td>
+</tr>
+<tr>
+<td style="width: 35.3902%;">Manufacture Code</td>
+<td style="width: 61.706%;">
+<meta charset="utf-8">
+<span>2147278001</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4l</s:tag>
+    <s:tag>946ml</s:tag>
+    <s:tag>av-fi946</s:tag>
+    <s:tag>av-fif14</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>blood</s:tag>
+    <s:tag>carpet</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>concentrated</s:tag>
+    <s:tag>detergent</s:tag>
+    <s:tag>fabric</s:tag>
+    <s:tag>fiesta</s:tag>
+    <s:tag>grass</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>SR-2147210001</s:tag>
+    <s:tag>stain</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5829336400032</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.69</s:price>
+      <s:sku>SR-2147210004</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5583827337376</id>
+    <published>2020-09-03T11:54:45-05:00</published>
+    <updated>2020-09-03T11:54:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ep66-disinfectant-sanitizer-4l"/>
+    <title>EP66 Disinfectant &amp; Sanitizer (4L)</title>
+    <s:type>disinfectant</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-09-03at12.50.24PM.png?v=1599152086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>disinfectant<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Kills Adenovirus type 5 and is likely to kill the SARS-COV-2 (the virus that causes COVID-19)</li>
+<li data-mce-fragment="1">Excellent for industrial, institutional, hospital and food establishment</li>
+<li data-mce-fragment="1">Will not harm hard non-porous surfaces, including metal and stainless steel</li>
+<li data-mce-fragment="1">Will not dull floor finish</li>
+<li data-mce-fragment="1">Deodorises surfaces which are prone to odours caused by micro-organism</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>avmor</s:tag>
+    <s:tag>clear</s:tag>
+    <s:tag>covid-19</s:tag>
+    <s:tag>din</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>ecopure</s:tag>
+    <s:tag>ep66</s:tag>
+    <s:tag>santizer</s:tag>
+    <s:tag>virucide</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5583827337376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>SD-1997278001</s:sku>
+      <s:grams>4196</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3754549674064</id>
+    <published>2019-09-11T09:15:16-05:00</published>
+    <updated>2019-09-11T09:15:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ep71-foaming-hand-soap-refill"/>
+    <title>EP71 Foaming Hand Soap</title>
+    <s:type>foam hand soap</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-11_at_10.19.11_AM.png?v=1568211562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>foam hand soap<br>
+        <strong>Price: </strong>
+            58.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>EP71 foaming hand soap is made from the finest ingredients available. It moisturizes as it cleans leaving your hands soft, smooth and hydrated. It is formulated with vegetable derived emulsifiers, foaming agents and emollients. These ingredients are biodegradable as per OECD 301. No fragrance and no color.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-EP71</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-EP71</s:tag>
+    <s:tag>ep71</s:tag>
+    <s:tag>foam</s:tag>
+    <s:tag>foaming</s:tag>
+    <s:tag>hand</s:tag>
+    <s:tag>no fragrance</s:tag>
+    <s:tag>no odour</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3754549674064</id>
+      <title>4 x 1L</title>
+      <s:price currency="CAD">58.54</s:price>
+      <s:sku>AV-EP71</s:sku>
+      <s:grams>4489</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3752173305936</id>
+    <published>2019-09-10T10:28:42-05:00</published>
+    <updated>2019-09-10T10:28:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/odour-master-deodorizing-pellets"/>
+    <title>OdorMaster - Pine Fragrance Deodorizing Pellets (11.34kg)</title>
+    <s:type>Odour Controle</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2021-03-09at4.04.39PM.png?v=1615324060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Odour Controle<br>
+        <strong>Price: </strong>
+            155.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>ODOR MASTER deodorizing pellets eliminates offensive odours on contact caused by vomit, fecal matter, food putrefaction and garbage.</span></p>
+<table width="100%" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 40.0853%;" data-mce-fragment="1">Container Type</td>
+<td style="width: 55.9147%;" data-mce-fragment="1"> Pail</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 40.0853%;" data-mce-fragment="1">Format</td>
+<td style="width: 55.9147%;" data-mce-fragment="1">11.43kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 40.0853%;" data-mce-fragment="1">Scent</td>
+<td style="width: 55.9147%;" data-mce-fragment="1">Pine</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-OM28</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>bucket</s:tag>
+    <s:tag>control</s:tag>
+    <s:tag>deoderant</s:tag>
+    <s:tag>deoderizor</s:tag>
+    <s:tag>DP-1974541001</s:tag>
+    <s:tag>master</s:tag>
+    <s:tag>odormaster</s:tag>
+    <s:tag>odour</s:tag>
+    <s:tag>pellets</s:tag>
+    <s:tag>pelletstabs</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3752173305936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">155.76</s:price>
+      <s:sku>DP-1974541001</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3747710238800</id>
+    <published>2019-09-07T09:51:27-05:00</published>
+    <updated>2019-09-07T09:51:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-ep67-heavy-duty-industrial-degreaser"/>
+    <title>Avmor EP67 Heavy Duty Industrial Degreaser</title>
+    <s:type>degreaser</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-07_at_10.53.55_AM.png?v=1567868060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>degreaser<br>
+        <strong>Price: </strong>
+            112.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Quickly and effectively removes grease, oily residue, carbon ink, petroleum and soot from washable surfaces. EP67 can be used on floors, walls, ceramic, plastic, copper, brass, metal ,concrete and other surfaces not harmed by water. No Phosphates, no Nonyl Phenol Ethoxylates, no VOCs. Fragrance and color free.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-EP674</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>avmor</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>degreaser</s:tag>
+    <s:tag>ep67</s:tag>
+    <s:tag>industrial</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3747710238800</id>
+      <title>(4 x 4L)</title>
+      <s:price currency="CAD">112.33</s:price>
+      <s:sku>AV-EP674</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3747705421904</id>
+    <published>2019-09-07T09:46:03-05:00</published>
+    <updated>2019-09-07T09:46:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-germalin-disinfectant-degreaser"/>
+    <title>Germalin Cleaner Degreaser Disinfectant (4L)</title>
+    <s:type>Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-07_at_10.47.35_AM.png?v=1567867720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Cleaner<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A cleaner, degreaser and disinfectant for use in health care facilities and food processing plants. A quality product that gives you everything you would ever want in an all-purpose, one-step cleaner. Pleasant lemon scent.</span></p>
+<ul>
+<li><span>Germalin kills Canine Parvovirus and is likely to kill the SARS-COV-2 (the virus that causes COVID-19</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-GERM4</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>degreaser</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>germalin</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3747705421904</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>AV-GERM4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3747679993936</id>
+    <published>2019-09-07T09:15:29-05:00</published>
+    <updated>2019-09-07T09:15:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-natura-extra-strong-natural-degreaser"/>
+    <title>Avmor NATURA Extra Strong Natural Degreaser</title>
+    <s:type>degreaser</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-07_at_10.20.14_AM.png?v=1567866048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>degreaser<br>
+        <strong>Price: </strong>
+            19.99 - 902.99
+            <a href="https://prolificproducts.ca/products/avmor-natura-extra-strong-natural-degreaser">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A powerful multi-purpose natural degreaser containing a citrus solvent. Use NATURA to remove grease, oil, and ink stains from floors, equipment, hard surfaces and fabrics. Pleasant citrus fragrance.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-NAT4</span></p>
+<p><span>AV-NAT20</span></p>
+<p><span>AV-NAT210</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-NAT20</s:tag>
+    <s:tag>AV-NAT210</s:tag>
+    <s:tag>AV-NAT4</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>degreaser</s:tag>
+    <s:tag>degreasers</s:tag>
+    <s:tag>extra</s:tag>
+    <s:tag>natura</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>strong</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3747679993936</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>AV-NAT4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3747679993936</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">88.90</s:price>
+      <s:sku>AV-NAT20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3747679993936</id>
+      <title>(210L)</title>
+      <s:price currency="CAD">902.99</s:price>
+      <s:sku>AV-NAT210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3747666526288</id>
+    <published>2019-09-07T09:08:45-05:00</published>
+    <updated>2019-09-07T09:08:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-extra-strong-degreaser"/>
+    <title>Avmor EXTRA Strong Degreaser</title>
+    <s:type>degreaser</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-07_at_10.12.38_AM.png?v=1567865686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>degreaser<br>
+        <strong>Price: </strong>
+            17.99 - 81.60
+            <a href="https://prolificproducts.ca/products/avmor-extra-strong-degreaser">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A butyl and NPE free, power packed with penetrating cleaning agents in order to give maximum product performance. EXTRA goes to work immediately by suspending, emulsifying, and floating away ink, carbon, lipstick, grease, wax, gum, dirt and oil. Ideal for pressure washing.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-EX20</span></p>
+<p><span>AV-EX4</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20L</s:tag>
+    <s:tag>AV-EX20</s:tag>
+    <s:tag>AV-EX4</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>degreasers</s:tag>
+    <s:tag>extra</s:tag>
+    <s:tag>strong</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3747666526288</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">81.60</s:price>
+      <s:sku>AV-EX20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3747666526288</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>AV-EX4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3747660103760</id>
+    <published>2019-09-07T08:55:23-05:00</published>
+    <updated>2019-09-07T08:55:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-a-707-general-degreaser"/>
+    <title>A707 - Cleaner Degreaser (4L)</title>
+    <s:type>degreaser</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-07_at_10.04.07_AM.png?v=1602108067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>degreaser<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A special blend of detergents and water soluble ingredients designed for low foam cleaning and degreasing. A707LF removes oily residues, grease, protein soils, soot and carbon from washable surfaces. A707LF is the ideal cleaner degreaser for use in autoscrubbers and pressure washers.</span></p>
+<ul>
+<li>Powerful multi-purpose cleaner for removing soil from water washable surfaces</li>
+<li>It is designed to remove quickly and effectively oily residue, grease, soot and carbon</li>
+<li>This product contains an inhibitor to control flash rusting</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.2904%;"> Container Size</td>
+<td style="width: 56.8058%;">4L</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Container Type</td>
+<td style="width: 56.8058%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 40.2904%;">Manufacture Code</td>
+<td style="width: 56.8058%;">
+<meta charset="utf-8">
+<span>2122278001</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>707</s:tag>
+    <s:tag>a</s:tag>
+    <s:tag>a-707</s:tag>
+    <s:tag>a707</s:tag>
+    <s:tag>a707lf</s:tag>
+    <s:tag>AV-A70720</s:tag>
+    <s:tag>AV-A7074</s:tag>
+    <s:tag>AV-A707LF20</s:tag>
+    <s:tag>AV-A707LF4</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>degreaser</s:tag>
+    <s:tag>DG-A7074</s:tag>
+    <s:tag>foam</s:tag>
+    <s:tag>low</s:tag>
+    <s:tag>scrub</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3747660103760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>DG-A7074</s:sku>
+      <s:grams>9888</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3746607398992</id>
+    <published>2019-09-06T17:05:11-05:00</published>
+    <updated>2019-09-06T17:05:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-trox-plus-laundry-detergent"/>
+    <title>Avmor Trox Plus Laundry Detergent</title>
+    <s:type>laundry detergent</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-06_at_6.06.10_PM.png?v=1567807634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>laundry detergent<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A heavy duty, concentrated liquid laundry detergent, that cleans and freshens all washable fabrics. TROX PLUS is pH neutral and contains water additives for hard water performance.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-TROX20</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-TROX20</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>detergent</s:tag>
+    <s:tag>duty</s:tag>
+    <s:tag>heavy</s:tag>
+    <s:tag>laundry</s:tag>
+    <s:tag>plus</s:tag>
+    <s:tag>trox</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3746607398992</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>AV-TROX20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3744601374800</id>
+    <published>2019-09-05T16:43:21-05:00</published>
+    <updated>2019-09-05T16:43:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/express-cleaner-for-cars"/>
+    <title>Express Cleaner for Cars</title>
+    <s:type>Car Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-05_at_5.46.03_PM.png?v=1567719993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Car Cleaner<br>
+        <strong>Price: </strong>
+            87.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>EXPRESS rinses freely without leaving spots or streaks. Stable foam adheres well to vertical surfaces keeping surfaces wet until ready for rinsing. Leaves clean, streak-free surfaces with a poly shield protection. Cleans thoroughly and rinses freely.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-EXPRS20</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto</s:tag>
+    <s:tag>AV-EXPRS20</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>car</s:tag>
+    <s:tag>clenaer</s:tag>
+    <s:tag>express</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3744601374800</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">87.51</s:price>
+      <s:sku>AV-EXPRS20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3737031770192</id>
+    <published>2019-08-31T13:55:10-05:00</published>
+    <updated>2019-08-31T13:55:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/famousse-high-foam-liquid-concentrate-for-general-purpose-auto-cleaning"/>
+    <title>Famousse high foam liquid concentrate for general purpose auto cleaning</title>
+    <s:type>auto cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-31_at_2.58.34_PM.png?v=1567278277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>auto cleaner<br>
+        <strong>Price: </strong>
+            17.27 - 71.57
+            <a href="https://prolificproducts.ca/products/famousse-high-foam-liquid-concentrate-for-general-purpose-auto-cleaning">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A high foam liquid concentrate for general purpose cleaning of vehicle. Removes soil on painted surfaces without damaging the gloss. This product permeates the brushes and give a rich, neutral and easily rinsable foam.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>AV-FAM4</span></p>
+<p><span>AV-FAM20</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-FAM20</s:tag>
+    <s:tag>AV-FAM4</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>car</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>concentrate</s:tag>
+    <s:tag>famousse</s:tag>
+    <s:tag>foam</s:tag>
+    <s:tag>high</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>liquid</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3737031770192</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">17.27</s:price>
+      <s:sku>AV-FAM4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3737031770192</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">71.57</s:price>
+      <s:sku>AV-FAM20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3736855445584</id>
+    <published>2019-08-31T10:54:50-05:00</published>
+    <updated>2019-08-31T10:54:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/visex-plus-glass-chrome-cleaner"/>
+    <title>Visex Plus - Glass &amp; Chrome Cleaner (4L)</title>
+    <s:type>Glass Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-31_at_11.56.13_AM.png?v=1567267061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>Glass Cleaner<br>
+        <strong>Price: </strong>
+            19.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>An environmentally friendly and ammonia-free, superior glass and chrome cleaner that contains grease cutting agents and emulsifiers. A powerful ready-to-use formula that dries quickly and leaves no residue. Fresh apple fragrance.</span></p>
+<p> </p>
+<ul>
+<li>Environmentally-friendly and ammonia-free</li>
+<li>Contains grease cutting agents and emulsifiers</li>
+<li>Ready-to-use formula that dries quickly and leaves no residue</li>
+<li>Blend of solvents designed specifically for glass and chrome</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 43.7223%;">Container Size</td>
+<td style="width: 52.2777%;">4L</td>
+</tr>
+<tr>
+<td style="width: 43.7223%;">Container Type</td>
+<td style="width: 52.2777%;"> Jug</td>
+</tr>
+<tr>
+<td style="width: 43.7223%;">Sold/priced per</td>
+<td style="width: 52.2777%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 43.7223%;">Qty/cs</td>
+<td style="width: 52.2777%;">4 jugs</td>
+</tr>
+<tr>
+<td style="width: 43.7223%;">Fragrance</td>
+<td style="width: 52.2777%;">Apple</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1354278001</s:tag>
+    <s:tag>AV-VIS4</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>chrome</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>GC-1354278001</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>plus</s:tag>
+    <s:tag>visex</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3736855445584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.59</s:price>
+      <s:sku>GC-1354278001</s:sku>
+      <s:grams>4152</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3736799543376</id>
+    <published>2019-08-31T10:15:15-05:00</published>
+    <updated>2019-08-31T10:15:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/numero-uno-cleaner-degreaser-solvent-free"/>
+    <title>NUMERO UNO - Cleaner Degreaser &amp; Deoderant (4L)</title>
+    <s:type>All Purpose Cleaner</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-31_at_11.17.03_AM.png?v=1615396647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>All Purpose Cleaner<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>NUMERO UNO is a powerful, solvent-free degreaser formulated to remove all hydrocarbon, animal, and vegetable-based oil and greases. It also contains a proven odour counteractant designed to attack odour causing residues.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 37.0236%;">Container Type</td>
+<td style="width: 60.0726%;"> Jug</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Container Size</td>
+<td style="width: 60.0726%;">4L</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>all purpose</s:tag>
+    <s:tag>AV-NUNO20</s:tag>
+    <s:tag>AV-NUNO210</s:tag>
+    <s:tag>AV-NUNO4</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>degreaser</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>numero</s:tag>
+    <s:tag>purpose</s:tag>
+    <s:tag>solvent</s:tag>
+    <s:tag>uno</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3736799543376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku>GPC-2005278001</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/snow-maintenance.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2020-10-09T16:26:19-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/5750339469472</id>
+    <published>2020-10-09T16:26:19-05:00</published>
+    <updated>2020-10-09T16:26:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/windshield-washer-3-78l-1"/>
+    <title>Laurentide Windshield Washer &amp; De-Icer (3.78L)</title>
+    <s:type>Windshield Washer</s:type>
+    <s:vendor>RECOCHEM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-09at5.24.47PM.png?v=1602278700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RECOCHEM<br>
+        <strong>Type: </strong>Windshield Washer<br>
+        <strong>Price: </strong>
+            5.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Made for extreme temperatures</li>
+<li data-mce-fragment="1">Eliminates frost more efficiently</li>
+<li data-mce-fragment="1">Better cleaning performance</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 41.1978%;">Format</td>
+<td style="width: 55.8984%;">3.78L</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Container Type</td>
+<td style="width: 55.8984%;"> Jug</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Temperature Rating</td>
+<td style="width: 55.8984%;">
+<meta charset="utf-8"> <span>-45°C</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Active Ingredients</td>
+<td style="width: 55.8984%;">
+<meta charset="utf-8">
+<span>Methyl hydrate (methanol) and isopropyl alcohol</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Colour</td>
+<td style="width: 55.8984%;">Green</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Manufacture Code</td>
+<td style="width: 55.8984%;">
+<meta charset="utf-8">
+<span>15-208LAUX52</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15-208LAUX52</s:tag>
+    <s:tag>3.78</s:tag>
+    <s:tag>45</s:tag>
+    <s:tag>4l</s:tag>
+    <s:tag>996-140-L19</s:tag>
+    <s:tag>de-icer</s:tag>
+    <s:tag>degrees</s:tag>
+    <s:tag>fluid</s:tag>
+    <s:tag>gallon</s:tag>
+    <s:tag>glace</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>laurantide</s:tag>
+    <s:tag>laurentide</s:tag>
+    <s:tag>lave</s:tag>
+    <s:tag>reccochem</s:tag>
+    <s:tag>washer</s:tag>
+    <s:tag>windshield</s:tag>
+    <s:tag>WW-15208LAUX52</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5750339469472</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>WW-15208LAUX52</s:sku>
+      <s:grams>3795</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5750336684192</id>
+    <published>2020-10-09T16:21:10-05:00</published>
+    <updated>2020-10-09T16:21:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/windshield-washer-3-78l"/>
+    <title>Laurentide Windshield Washer &amp; De-Icer (3.78L)</title>
+    <s:type>Windshield Washer</s:type>
+    <s:vendor>RECOCHEM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-09at5.10.51PM.png?v=1602278470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RECOCHEM<br>
+        <strong>Type: </strong>Windshield Washer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Made for extreme temperatures</li>
+<li data-mce-fragment="1">Eliminates frost more efficiently</li>
+<li data-mce-fragment="1">Better cleaning performance</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 41.1978%;">Format</td>
+<td style="width: 55.8984%;">3.78L</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Container Type</td>
+<td style="width: 55.8984%;"> Jug</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Temperature Rating</td>
+<td style="width: 55.8984%;">
+<meta charset="utf-8">
+<span>-40°C</span>
+</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Colour</td>
+<td style="width: 55.8984%;">Blue</td>
+</tr>
+<tr>
+<td style="width: 41.1978%;">Manufacture Code</td>
+<td style="width: 55.8984%;">996-140-L19</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>-40°C</s:tag>
+    <s:tag>3.78</s:tag>
+    <s:tag>4l</s:tag>
+    <s:tag>996-140-L19</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>fluid</s:tag>
+    <s:tag>gallon</s:tag>
+    <s:tag>glace</s:tag>
+    <s:tag>laurantide</s:tag>
+    <s:tag>lave</s:tag>
+    <s:tag>washer</s:tag>
+    <s:tag>windshield</s:tag>
+    <s:tag>WW-996140L19</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5750336684192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>WW-996140L19</s:sku>
+      <s:grams>3795</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5731289989280</id>
+    <published>2020-10-04T10:21:10-05:00</published>
+    <updated>2020-10-04T10:21:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/copy-of-cable-ties-11-1000-pkg"/>
+    <title>Cable Ties 11&quot; (1000/pkg)</title>
+    <s:type>cable ties</s:type>
+    <s:vendor>AURORA TOOLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at11.10.20AM_a8d3547d-6f90-424f-9169-e8413eacb545.png?v=1601824872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AURORA TOOLS<br>
+        <strong>Type: </strong>cable ties<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li>Manufactured from Dupont ™ Zytel<sup>®</sup><span> </span>101F and Ascend ™ Vydyne<sup>®</sup><span> </span>21SPF</li>
+<li>Ideal use in temperatures ranging from -20° C to 80°C</li>
+</ul>
+</div>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 37.9111%;">Length</td>
+<td style="width: 57.0889%;"> 11"</td>
+</tr>
+<tr>
+<td style="width: 37.9111%;">Tensile Strength</td>
+<td style="width: 57.0889%;">50lbs.</td>
+</tr>
+<tr>
+<td style="width: 37.9111%;">Colour</td>
+<td style="width: 57.0889%;">Natural</td>
+</tr>
+<tr>
+<td style="width: 37.9111%;">
+<meta charset="utf-8"> <span>Bundle Dia. Min"-Max"</span>
+</td>
+<td style="width: 57.0889%;">
+<meta charset="utf-8">
+<span>1/16 - 3</span>
+</td>
+</tr>
+<tr>
+<td style="width: 37.9111%;"><span>Qty/bag</span></td>
+<td style="width: 57.0889%;">1000</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11&quot;</s:tag>
+    <s:tag>50lbs</s:tag>
+    <s:tag>aurora</s:tag>
+    <s:tag>cable</s:tag>
+    <s:tag>CT-11501000</s:tag>
+    <s:tag>CT-387</s:tag>
+    <s:tag>CT-391</s:tag>
+    <s:tag>dupont</s:tag>
+    <s:tag>fencing</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>ties</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>winter</s:tag>
+    <s:tag>zytel</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5731289989280</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>CT-391</s:sku>
+      <s:grams>1736</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5731276652704</id>
+    <published>2020-10-04T10:17:52-05:00</published>
+    <updated>2020-10-04T10:17:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/quest-brands%C2%AE-safety-fence-50"/>
+    <title>Quest Brands® Safety Fence (50&apos;)</title>
+    <s:type>safety fence</s:type>
+    <s:vendor>QUEST</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at11.19.15AM.png?v=1601824767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QUEST<br>
+        <strong>Type: </strong>safety fence<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li>Lightweight, reusable and durable for easy handling</li>
+<li>Can also be used as a safety warning barrier</li>
+<li>High density polyethylene</li>
+<li>High visible colour</li>
+</ul>
+</div>
+<ul></ul>
+<p> </p>
+<table width="100%" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 35.3902%;" data-mce-fragment="1">Colour</td>
+<td style="width: 61.706%;" data-mce-fragment="1"> Green</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 35.3902%;" data-mce-fragment="1">Roll Length</td>
+<td style="width: 61.706%;" data-mce-fragment="1">50'</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 35.3902%;" data-mce-fragment="1">Roll Width</td>
+<td style="width: 61.706%;" data-mce-fragment="1">4'</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 35.3902%;" data-mce-fragment="1">Weight</td>
+<td style="width: 61.706%;" data-mce-fragment="1">11 lbs.</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11lbs</s:tag>
+    <s:tag>4&apos;</s:tag>
+    <s:tag>50&apos;</s:tag>
+    <s:tag>50&apos;4&apos;</s:tag>
+    <s:tag>brands</s:tag>
+    <s:tag>DLW450G</s:tag>
+    <s:tag>DLW450X</s:tag>
+    <s:tag>fence</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>QSF-50411G</s:tag>
+    <s:tag>QSF-50411O</s:tag>
+    <s:tag>quest</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>SF-DLW450G</s:tag>
+    <s:tag>SF-DLW450X</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>street</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5731276652704</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>SF-DLW450G</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4172467732619</id>
+    <published>2019-10-08T12:40:00-05:00</published>
+    <updated>2019-10-08T12:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/pointed-steel-t-posts"/>
+    <title>Pointed Steel T-Posts</title>
+    <s:type>t-posts</s:type>
+    <s:vendor>QUEST</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-10-08_at_1.41.41_PM.png?v=1570556608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QUEST<br>
+        <strong>Type: </strong>t-posts<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Fence post and tree stake</li>
+<li>Rail steel construction</li>
+<li>Punched and painted green for all applications</li>
+<li>6' Height</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 36.0036%;">Type</td>
+<td style="width: 59.9964%;"> Steel T-Post</td>
+</tr>
+<tr>
+<td style="width: 36.0036%;">Height</td>
+<td style="width: 59.9964%;">6'</td>
+</tr>
+<tr>
+<td style="width: 36.0036%;">Quantity/Package</td>
+<td style="width: 59.9964%;">50</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>fence</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>post</s:tag>
+    <s:tag>PSTP-650</s:tag>
+    <s:tag>rail</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>SP-TPL6</s:tag>
+    <s:tag>stake</s:tag>
+    <s:tag>steel</s:tag>
+    <s:tag>t</s:tag>
+    <s:tag>t-posts</s:tag>
+    <s:tag>tree</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4172467732619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>SP-TPL6</s:sku>
+      <s:grams>2429</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4172466258059</id>
+    <published>2019-10-08T12:34:37-05:00</published>
+    <updated>2019-10-08T12:34:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/cable-ties"/>
+    <title>Cable Ties 6&quot; (1000/pkg)</title>
+    <s:type>cable ties</s:type>
+    <s:vendor>AURORA TOOLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at11.10.20AM.png?v=1601824232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AURORA TOOLS<br>
+        <strong>Type: </strong>cable ties<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Manufactured from Dupont ™ Zytel<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>101F and Ascend ™ Vydyne<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>21SPF</li>
+<li data-mce-fragment="1">Ideal use in temperatures ranging from -20° C to 80°C</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 37.9111%;">Length</td>
+<td style="width: 57.0889%;"> 6"</td>
+</tr>
+<tr>
+<td style="width: 37.9111%;">Tensile Strength</td>
+<td style="width: 57.0889%;">40lbs.</td>
+</tr>
+<tr>
+<td style="width: 37.9111%;">Colour</td>
+<td style="width: 57.0889%;">Natural</td>
+</tr>
+<tr>
+<td style="width: 37.9111%;">
+<meta charset="utf-8">
+<span>Bundle Dia. Min"-Max"</span>
+</td>
+<td style="width: 57.0889%;">
+<meta charset="utf-8">
+<span>1/16 - 1 1/4</span>
+</td>
+</tr>
+<tr>
+<td style="width: 37.9111%;"><span>Qty/bag</span></td>
+<td style="width: 57.0889%;">1000</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11&quot;</s:tag>
+    <s:tag>50lbs</s:tag>
+    <s:tag>aurora</s:tag>
+    <s:tag>cable</s:tag>
+    <s:tag>CT-11501000</s:tag>
+    <s:tag>CT-387</s:tag>
+    <s:tag>dupont</s:tag>
+    <s:tag>fencing</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>ties</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>winter</s:tag>
+    <s:tag>zytel</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4172466258059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>CT-387</s:sku>
+      <s:grams>632</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4172464226443</id>
+    <published>2019-10-08T12:29:22-05:00</published>
+    <updated>2019-10-08T12:29:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/quest-brands-safety-fence"/>
+    <title>Quest Brands® Safety Fence (50&apos;)</title>
+    <s:type>safety fence</s:type>
+    <s:vendor>QUEST</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-10-08_at_1.32.51_PM.png?v=1601824442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QUEST<br>
+        <strong>Type: </strong>safety fence<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li>Lightweight, reusable and durable for easy handling</li>
+<li>Can also be used as a safety warning barrier</li>
+<li>High density polyethylene</li>
+<li>High visible colour</li>
+</ul>
+</div>
+<ul></ul>
+<p> </p>
+<table width="100%" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 35.3902%;" data-mce-fragment="1">Colour</td>
+<td style="width: 61.706%;" data-mce-fragment="1"> Orange</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 35.3902%;" data-mce-fragment="1">Roll Length</td>
+<td style="width: 61.706%;" data-mce-fragment="1">50'</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 35.3902%;" data-mce-fragment="1">Roll Width</td>
+<td style="width: 61.706%;" data-mce-fragment="1">4'</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 35.3902%;" data-mce-fragment="1">Weight</td>
+<td style="width: 61.706%;" data-mce-fragment="1">11 lbs.</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11lbs</s:tag>
+    <s:tag>4&apos;</s:tag>
+    <s:tag>50&apos;</s:tag>
+    <s:tag>50&apos;4&apos;</s:tag>
+    <s:tag>brands</s:tag>
+    <s:tag>DLW450X</s:tag>
+    <s:tag>fence</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>QSF-50411G</s:tag>
+    <s:tag>QSF-50411O</s:tag>
+    <s:tag>quest</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>SF-DLW450X</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>street</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4172464226443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku>SF-DLW450X</s:sku>
+      <s:grams>4245</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4172463505547</id>
+    <published>2019-10-08T12:19:17-05:00</published>
+    <updated>2019-10-08T12:19:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/quest-snow-fence"/>
+    <title>Quest® Snow Fence (50&apos;)</title>
+    <s:type>Snow Fence</s:type>
+    <s:vendor>QUEST</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at11.24.50AM.png?v=1601825120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QUEST<br>
+        <strong>Type: </strong>Snow Fence<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Protects plants from freezing rain and heavy snowfall</li>
+<li>Provides an economical, easy and reliable protection barrier</li>
+<li>Lightweight, reusable and durable for easy handling</li>
+<li>Made of strong high density polyethylene with high tear resistance</li>
+<li>Stronger than competitive non-oriented fence</li>
+<li>High visibility colour</li>
+<li>Can also be used as a safety warning barrier</li>
+<li>Recommended installation requires 7 T-posts</li>
+</ul>
+<p> </p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 37.7495%;">Colour</td>
+<td style="width: 59.3466%;"> Orange</td>
+</tr>
+<tr>
+<td style="width: 37.7495%;">Roll Length</td>
+<td style="width: 59.3466%;">50'</td>
+</tr>
+<tr>
+<td style="width: 37.7495%;">Roll Width</td>
+<td style="width: 59.3466%;">4'</td>
+</tr>
+<tr>
+<td style="width: 37.7495%;">Weight</td>
+<td style="width: 59.3466%;">
+<meta charset="utf-8">
+<span>4 lbs.</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14lbs</s:tag>
+    <s:tag>4&apos;</s:tag>
+    <s:tag>4lbs</s:tag>
+    <s:tag>50&apos;</s:tag>
+    <s:tag>8lbs</s:tag>
+    <s:tag>fence</s:tag>
+    <s:tag>fences</s:tag>
+    <s:tag>fencing</s:tag>
+    <s:tag>or</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>QSF-50414</s:tag>
+    <s:tag>QSF-5044</s:tag>
+    <s:tag>QSF-5048</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>SF-WP450X</s:tag>
+    <s:tag>snow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4172463505547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SF-WP450X</s:sku>
+      <s:grams>2036</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4169429975179</id>
+    <published>2019-10-02T13:30:15-05:00</published>
+    <updated>2019-10-02T13:30:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/scratch-free-snow-brush"/>
+    <title>Long Reach Snow Brush (34&quot;)</title>
+    <s:type>snow brush</s:type>
+    <s:vendor>AURORA TOOLS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at11.29.17AM.png?v=1601825376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AURORA TOOLS<br>
+        <strong>Type: </strong>snow brush<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Aluminum handle with comfortable EVA foam grip</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 34.4828%;">Overall Length</td>
+<td style="width: 62.6134%;"> 34"</td>
+</tr>
+<tr>
+<td style="width: 34.4828%;">
+<meta charset="utf-8">
+<span>Telescopic or Non Telescopic</span>
+</td>
+<td style="width: 62.6134%;">
+<meta charset="utf-8">
+<span>Non Telescopic</span>
+</td>
+</tr>
+<tr>
+<td style="width: 34.4828%;">Colour</td>
+<td style="width: 62.6134%;">Blue</td>
+</tr>
+<tr>
+<td style="width: 34.4828%;">Blade Type</td>
+<td style="width: 62.6134%;">
+<meta charset="utf-8">
+<span>Polypropylene</span>
+</td>
+</tr>
+<tr>
+<td style="width: 34.4828%;">Head Width</td>
+<td style="width: 62.6134%;">
+<meta charset="utf-8">
+<span>8-3/4"</span>
+</td>
+</tr>
+<tr>
+<td style="width: 34.4828%;">Handle Material</td>
+<td style="width: 62.6134%;">
+<meta charset="utf-8">
+<span>Aluminum/Foam</span>
+</td>
+</tr>
+<tr>
+<td style="width: 34.4828%;">Scraper Width</td>
+<td style="width: 62.6134%;">5"</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36&quot;</s:tag>
+    <s:tag>auto</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>car</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>GAR-36S</s:tag>
+    <s:tag>garant</s:tag>
+    <s:tag>SB-NM979</s:tag>
+    <s:tag>scratch</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4169429975179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>SB-NM979</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4169425420427</id>
+    <published>2019-10-02T13:15:26-05:00</published>
+    <updated>2019-10-02T13:15:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ice-off%E2%84%A2-windshield-spray-de-icer"/>
+    <title>Ice-Off™ Windshield Spray De-Icer (16oz)</title>
+    <s:type>de-icer</s:type>
+    <s:vendor>CRC CANADA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-10-02_at_2.16.34_PM.png?v=1570040295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CRC CANADA<br>
+        <strong>Type: </strong>de-icer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Ideal for melting ice, snow and frost on contact</li>
+<li data-mce-fragment="1">Does not harm car finish</li>
+<li data-mce-fragment="1">Thaws frozen locks</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 33.5753%;">Container Type</td>
+<td style="width: 63.5209%;"> Aerosol Can</td>
+</tr>
+<tr>
+<td style="width: 33.5753%;">Format</td>
+<td style="width: 63.5209%;">16 oz</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16oz</s:tag>
+    <s:tag>aerosol</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>crc</s:tag>
+    <s:tag>CRC-IO16</s:tag>
+    <s:tag>DI-75346</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>ice-off</s:tag>
+    <s:tag>off</s:tag>
+    <s:tag>product</s:tag>
+    <s:tag>removal</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>thaw</s:tag>
+    <s:tag>windshield</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4169425420427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>DI-75346</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4163078783115</id>
+    <published>2019-09-25T08:56:57-05:00</published>
+    <updated>2019-09-25T08:56:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ice-chocks"/>
+    <title>Ice Chocks</title>
+    <s:type>ice chock</s:type>
+    <s:vendor>KLETON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-25_at_9.57.08_AM.png?v=1569420013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLETON<br>
+        <strong>Type: </strong>ice chock<br>
+        <strong>Price: </strong>
+            48.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Formed steel</li>
+<li data-mce-fragment="1">"Tooth" like bottom assures reliable grip</li>
+<li data-mce-fragment="1">Lightweight and dependable</li>
+<li data-mce-fragment="1">Maximum holding power for snow and ice</li>
+<li data-mce-fragment="1">Powder-coated safety yellow finish for high visibility</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 37.0236%;">Material</td>
+<td style="width: 60.0726%;"> Steel</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Colour</td>
+<td style="width: 60.0726%;">Yellow</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">
+<meta charset="utf-8">
+<span>Max. Tire Diameter</span>
+</td>
+<td style="width: 60.0726%;">20"</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Width</td>
+<td style="width: 60.0726%;">8"</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Depth</td>
+<td style="width: 60.0726%;">
+<meta charset="utf-8">
+<span>10-1/2"</span>
+</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Height</td>
+<td style="width: 60.0726%;">
+<meta charset="utf-8">
+<span>9-1/4"</span>
+</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Weight</td>
+<td style="width: 60.0726%;">
+<meta charset="utf-8">
+<span>9 lbs.</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chock</s:tag>
+    <s:tag>IC-KH964</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>kh964</s:tag>
+    <s:tag>KL-H964</s:tag>
+    <s:tag>kleton</s:tag>
+    <s:tag>tool</s:tag>
+    <s:tag>truck</s:tag>
+    <s:tag>winter</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4163078783115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.30</s:price>
+      <s:sku>IC-KH964</s:sku>
+      <s:grams>4067</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3736825593936</id>
+    <published>2019-08-31T10:31:54-05:00</published>
+    <updated>2019-08-31T10:31:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/nu-biocal-calcium-remover"/>
+    <title>Concrobium® Calcium, Lime &amp; Rust Remover (946mL)</title>
+    <s:type>calcium remover</s:type>
+    <s:vendor>CONCROBIUM®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at11.57.01AM.png?v=1601827036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CONCROBIUM®<br>
+        <strong>Type: </strong>calcium remover<br>
+        <strong>Price: </strong>
+            6.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Non-corrosive</li>
+<li>No VOCs</li>
+<li>Biodegradable</li>
+<li>Septic safe</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.3557%;">Size</td>
+<td style="width: 55.6443%;"> 946mL</td>
+</tr>
+<tr>
+<td style="width: 40.3557%;">Container Type</td>
+<td style="width: 55.6443%;">Trigger Bottle</td>
+</tr>
+<tr>
+<td style="width: 40.3557%;">Manufacture Code</td>
+<td style="width: 55.6443%;">
+<meta charset="utf-8">
+<span>628257</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>628257</s:tag>
+    <s:tag>946</s:tag>
+    <s:tag>cal</s:tag>
+    <s:tag>calcium</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>concrobium</s:tag>
+    <s:tag>CR-628257</s:tag>
+    <s:tag>general</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>rust</s:tag>
+    <s:tag>salt</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3736825593936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.32</s:price>
+      <s:sku>CR-628257</s:sku>
+      <s:grams>1060</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732845363280</id>
+    <published>2019-08-28T17:06:39-05:00</published>
+    <updated>2019-08-28T17:06:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/grunge-calcium-remover-cleaner"/>
+    <title>Grunge - Calcium Remover &amp; Cleaner (4L)</title>
+    <s:type>Calcium Remover</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-28_at_6.08.45_PM.png?v=1567030139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>Calcium Remover<br>
+        <strong>Price: </strong>
+            11.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Grunge is a cleaner, neutralizer and salt and calcium remover specially formulated for carpets and floors.</span></p>
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Removes effectively salt and calcium deposits.</li>
+<li class="d-flex align-items-center main-after">Neutralizes the residual effects of strippers and cleaners.</li>
+<li class="d-flex align-items-center main-after">Can be used on wood floors, ceramic, entrance carpets and car carpets.</li>
+<li class="d-flex align-items-center main-after">Can be used with an automatic machine or manually with a mop.</li>
+<li class="d-flex align-items-center main-after">Neutralizes high pH cleaning solutions.</li>
+<li class="d-flex align-items-center main-after">Concentrated product.</li>
+</ul>
+<h2>Dilution:</h2>
+<ul>
+<li>Floor Neutralizer: 1:40</li>
+<li>
+<meta charset="utf-8">
+<span>Cleaner-Neutralizer and salt remover: 1:20</span>
+</li>
+<li><span>Neutralizer for high pH carpet cleaning solution: 1:20</span></li>
+<li><span>Carpet <meta charset="utf-8">Calcium and salt remover: 1:4</span></li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 36.3593%;">Colour</td>
+<td style="width: 59.6407%;"> Transparent</td>
+</tr>
+<tr>
+<td style="width: 36.3593%;">Format(s)</td>
+<td style="width: 59.6407%;">4L</td>
+</tr>
+<tr>
+<td style="width: 36.3593%;">Solubility</td>
+<td style="width: 59.6407%;">Yes</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>calc</s:tag>
+    <s:tag>calcium</s:tag>
+    <s:tag>carpet</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>CR-GRUNGE4</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>grunge</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>INS-GR4</s:tag>
+    <s:tag>insinct</s:tag>
+    <s:tag>neutralizer</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>salt</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732845363280</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.59</s:price>
+      <s:sku>CR-GRUNGE4</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3732842545232</id>
+    <published>2019-08-28T16:53:54-05:00</published>
+    <updated>2019-08-28T16:53:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/ino-bio-12-calcium-remover"/>
+    <title>Krud Kutter® Calcium, Lime and Rust Stain Remover (828mL)</title>
+    <s:type>calcium remover</s:type>
+    <s:vendor>KRUD KUTTER®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at12.04.25PM.png?v=1601827479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRUD KUTTER®<br>
+        <strong>Type: </strong>calcium remover<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"> <meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Efficiently dissolves and removes tough calcium and lime deposits as well as rust stains from the surface of showers, sinks, glass, tubs, toilets, coffee machines, and kettles</li>
+<li data-mce-fragment="1">Great to use outdoors on concrete driveways, wooden decks, stone, masonry, siding, brick, and stucco</li>
+<li data-mce-fragment="1">Will not harm lawn or plants when used as directed</li>
+<li data-mce-fragment="1">Do not apply to paint, stains or brick that contain iron oxide pigments</li>
+<li data-mce-fragment="1">Safe for septic systems</li>
+<li data-mce-fragment="1">Biodegradable</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 38.657%;">Size</td>
+<td style="width: 58.4392%;"> 828mL</td>
+</tr>
+<tr>
+<td style="width: 38.657%;">Container Type</td>
+<td style="width: 58.4392%;">Jug</td>
+</tr>
+<tr>
+<td style="width: 38.657%;">Manufacture Code</td>
+<td style="width: 58.4392%;">
+<meta charset="utf-8">
+<span>305108</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>828ml</s:tag>
+    <s:tag>calc</s:tag>
+    <s:tag>calcium</s:tag>
+    <s:tag>CR-305108</s:tag>
+    <s:tag>krud</s:tag>
+    <s:tag>kutter</s:tag>
+    <s:tag>lime</s:tag>
+    <s:tag>remover</s:tag>
+    <s:tag>rust</s:tag>
+    <s:tag>sal</s:tag>
+    <s:tag>salt</s:tag>
+    <s:tag>stain</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3732842545232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>CR-305108</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/66150367243</id>
+    <published>2017-11-01T15:57:29-05:00</published>
+    <updated>2017-11-01T15:57:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/telescopic-snow-broom"/>
+    <title>Economy Snow Brush</title>
+    <s:type>Snow Brush</s:type>
+    <s:vendor>MALLORY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-04at12.23.38PM.png?v=1601828645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MALLORY<br>
+        <strong>Type: </strong>Snow Brush<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%">
+<tbody>
+<tr>
+<td style="width: 39.02%;">Colour</td>
+<td style="width: 58.0762%;"> Beige/black</td>
+</tr>
+<tr>
+<td style="width: 39.02%;">Handle Material</td>
+<td style="width: 58.0762%;">Wood</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>203</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>economic</s:tag>
+    <s:tag>mallory</s:tag>
+    <s:tag>non telescopic</s:tag>
+    <s:tag>SB-203</s:tag>
+    <s:tag>snow</s:tag>
+    <s:tag>wooden</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/66150367243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>SB-203</s:sku>
+      <s:grams>153</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/salt-sand-ice-melts.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2020-10-14T19:21:08-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/5769724231840</id>
+    <published>2020-10-14T19:21:08-05:00</published>
+    <updated>2020-10-14T19:21:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/safety-melt-ice-melter-20kg"/>
+    <title>Safety Melt - Ice Melter (20kg)</title>
+    <s:type>Ice Melt</s:type>
+    <s:vendor>DURA PLUS®</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-14at8.16.05PM.png?v=1602721268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DURA PLUS®<br>
+        <strong>Type: </strong>Ice Melt<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Fast and effective. Easy dispersion and extended shelf-life. Highly visible blue color indicator ensures cost effective spreading. Safer for the environment, concrete, pets, brick and decking. When used as directed.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 36.4791%;">Weight</td>
+<td style="width: 60.6171%;"> 20kg (44lbs)</td>
+</tr>
+<tr>
+<td style="width: 36.4791%;">Colour</td>
+<td style="width: 60.6171%;">Blue</td>
+</tr>
+<tr>
+<td style="width: 36.4791%;">Manufacture Code</td>
+<td style="width: 60.6171%;"> <meta charset="utf-8">
+<span data-mce-fragment="1">57760182</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>dura</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>IM-57760182</s:tag>
+    <s:tag>melt</s:tag>
+    <s:tag>melter</s:tag>
+    <s:tag>plus</s:tag>
+    <s:tag>safety</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5769724231840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>IM-57760182</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/5769712304288</id>
+    <published>2020-10-14T19:14:07-05:00</published>
+    <updated>2020-10-14T19:14:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/polar-ice-melt-4-x-5kg"/>
+    <title>Polar Ice Melt (4 x 5kg)</title>
+    <s:type>ice melt</s:type>
+    <s:vendor>KISSNER MILLING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/ScreenShot2020-10-14at8.08.09PM.png?v=1602720845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KISSNER MILLING<br>
+        <strong>Type: </strong>ice melt<br>
+        <strong>Price: </strong>
+            35.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Premium Blend - Safer to handle without protective clothing and does not dry out or irritate skin - Starts melting quickly upon application - Excellent staying power - Highly visible blue indicator - Less harmful to grass, shrubs and concrete* *When used as directed.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 36.6606%;">Qty/Jug</td>
+<td style="width: 60.4356%;"> 11lbs (5kg)</td>
+</tr>
+<tr>
+<td style="width: 36.6606%;">Qty/case</td>
+<td style="width: 60.4356%;">4 Jugs</td>
+</tr>
+<tr>
+<td style="width: 36.6606%;">Sold/Priced per</td>
+<td style="width: 60.4356%;">Case</td>
+</tr>
+<tr>
+<td style="width: 36.6606%;">Manufacture Code</td>
+<td style="width: 60.4356%;">
+<meta charset="utf-8">
+<span>8347898 POLA</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11lbs</s:tag>
+    <s:tag>5kg</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>IM-8347898</s:tag>
+    <s:tag>jug</s:tag>
+    <s:tag>melt</s:tag>
+    <s:tag>melter</s:tag>
+    <s:tag>polar</s:tag>
+    <s:tag>salt</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/5769712304288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.96</s:price>
+      <s:sku>IM-8347898</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4295507280011</id>
+    <published>2019-10-29T10:20:08-05:00</published>
+    <updated>2019-10-29T10:20:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/natural-choice%E2%84%A2-ice-melters"/>
+    <title>Natural Choice™ Ice Melters (20kg)</title>
+    <s:type>ice melt</s:type>
+    <s:vendor>HLF DIVERSIFIED INC.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-10-29_at_3.33.56_PM.png?v=1572377729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HLF DIVERSIFIED INC.<br>
+        <strong>Type: </strong>ice melt<br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Eco-friendly ice melter</li>
+<li>All-natural ice melter with an organic additive that improves its performance</li>
+<li>Green marker assists in proper application</li>
+<li>This additive also acts as a corrosion inhibitor to reduce metal fatigue</li>
+<li>Melts down to -11º F / -24º C</li>
+<li>44 lbs. or 20 kg</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 42.2777%; height: 18px;">Container type</td>
+<td style="width: 53.7223%; height: 18px;"> 44 lbs. (20kg)</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.2777%; height: 17px;">Container Size</td>
+<td style="width: 53.7223%; height: 17px;">Bag</td>
+</tr>
+<tr style="height: 17px;">
+<td style="width: 42.2777%; height: 17px;">Melting Point</td>
+<td style="width: 53.7223%; height: 17px;">
+<meta charset="utf-8">
+<span>-24°C (-11°F)</span>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20kg</s:tag>
+    <s:tag>40lbs</s:tag>
+    <s:tag>bio</s:tag>
+    <s:tag>choice</s:tag>
+    <s:tag>deglacant</s:tag>
+    <s:tag>eco</s:tag>
+    <s:tag>fondant</s:tag>
+    <s:tag>glace</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>IM-N0051B</s:tag>
+    <s:tag>lbs</s:tag>
+    <s:tag>melt</s:tag>
+    <s:tag>melters</s:tag>
+    <s:tag>natural</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4295507280011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.98</s:price>
+      <s:sku>IM-N0051B</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4163071770763</id>
+    <published>2019-09-25T08:34:01-05:00</published>
+    <updated>2019-09-25T08:34:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/arctic-volcano-ice-melter"/>
+    <title>Arctic Volcano Ice Melter (20kg)</title>
+    <s:type>ice melter</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-09-25_at_9.35.29_AM.png?v=1569418621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>ice melter<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Artic Volcano melts ice and glazed frost at temperatures as low as -29°C. Following a storm, spread Artic Volcano over the affected area. Use approximately 0.14 to 0.28 kg/m2 and spread the ice melter evenly. Allow a few minutes for the salt crystals to melt accumulated snow and ice. Remove slush with a shovel or scraper. Do not pile on vegetation. Reapply as needed.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Safe and easy to use</li>
+<li class="d-flex align-items-center main-after">Effective, fast melting power</li>
+<li class="d-flex align-items-center main-after">Custom blended for maximum salt power</li>
+<li class="d-flex align-items-center main-after">The blue crystals are easy to see and facilitate uniform application of the product at each spreading</li>
+<li class="d-flex align-items-center main-after">Absorbs sunlight</li>
+<li class="d-flex align-items-center main-after">The ideal solution when immediate surroundings are sensitive to corrosion problems</li>
+</ul>
+<p> </p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 40.8348%;"> Colour</td>
+<td style="width: 56.2613%;">Blue</td>
+</tr>
+<tr>
+<td style="width: 40.8348%;">Net Weight</td>
+<td style="width: 56.2613%;">20kg</td>
+</tr>
+<tr>
+<td style="width: 40.8348%;">Brand</td>
+<td style="width: 56.2613%;">Arctic Volcano</td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arctic</s:tag>
+    <s:tag>deglacant</s:tag>
+    <s:tag>fire</s:tag>
+    <s:tag>fondant</s:tag>
+    <s:tag>glace</s:tag>
+    <s:tag>ice</s:tag>
+    <s:tag>icemelt</s:tag>
+    <s:tag>IM-VOLCAN20</s:tag>
+    <s:tag>INS-VOLCAN20</s:tag>
+    <s:tag>INS-VOLCAN50</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>melt</s:tag>
+    <s:tag>melter</s:tag>
+    <s:tag>volcano</s:tag>
+    <s:tag>winter</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4163071770763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>IM-VOLCAN20</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/4159687590027</id>
+    <published>2019-09-24T11:36:05-05:00</published>
+    <updated>2019-09-24T11:36:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/de-icing-salt"/>
+    <title>De-Icing Salt (20kg)</title>
+    <s:type>salt</s:type>
+    <s:vendor>SEL WARWICK INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/de-icing_salt_1_20150224_1315382006.png?v=1569343472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEL WARWICK INC<br>
+        <strong>Type: </strong>salt<br>
+        <strong>Price: </strong>
+            6.50 - 252.00
+            <a href="https://prolificproducts.ca/products/de-icing-salt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Melts ice and snow.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 37.5681%;">Type</td>
+<td style="width: 59.5281%;">De-icing Salt</td>
+</tr>
+<tr>
+<td style="width: 37.5681%;">Quantity</td>
+<td style="width: 59.5281%;">20kg</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100</s:tag>
+    <s:tag>10kg</s:tag>
+    <s:tag>20kg</s:tag>
+    <s:tag>56</s:tag>
+    <s:tag>deglacer</s:tag>
+    <s:tag>glace</s:tag>
+    <s:tag>hiver</s:tag>
+    <s:tag>pallet</s:tag>
+    <s:tag>rock</s:tag>
+    <s:tag>RS-20KG</s:tag>
+    <s:tag>salt</s:tag>
+    <s:tag>sel</s:tag>
+    <s:tag>skid</s:tag>
+    <s:tag>WAR-200-10</s:tag>
+    <s:tag>WAR-200-20</s:tag>
+    <s:tag>WAR-200-201</s:tag>
+    <s:tag>warwick</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4159687590027</id>
+      <title>Single Bag</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>RS-20KG-1</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/4159687590027</id>
+      <title>Complete Pallet (56 Bags)</title>
+      <s:price currency="CAD">252.00</s:price>
+      <s:sku>RS-20KG-2</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

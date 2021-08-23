@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/coreless-bathroom-tissue.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2018-03-10T13:11:07-06:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/570869219339</id>
+    <published>2018-03-10T13:11:07-06:00</published>
+    <updated>2018-03-10T13:11:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/07006-scott-coreless-jrt-junior-bathroom-tissue-2-ply-3-7-8-x-1150-12-rolls-case"/>
+    <title>07006 - Coreless Jumbo Bathroom Tissue (12 x 1150&apos;)</title>
+    <s:type>Toilet Paper</s:type>
+    <s:vendor>KIMBERLY-CLARK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/81Pj0ghYlIL._SL1500.jpg?v=1520709506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KIMBERLY-CLARK<br>
+        <strong>Type: </strong>Toilet Paper<br>
+        <strong>Price: </strong>
+            69.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"> <meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">No core means more wholesale toilet tissue on each roll</li>
+<li data-mce-fragment="1">Each strong industrial roll has 15% more bath tissue than standard industrial jumbo rolls</li>
+<li data-mce-fragment="1">Meets EPA minimum guidelines for post-consumer waste</li>
+<li data-mce-fragment="1">Certified Ecologo<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>and FSC</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2457/1675/files/ul-ecologo-vector-logo_480x480.png?v=1560263241" width="131" height="73"></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 37.0236%;">Ply</td>
+<td style="width: 60.0726%;"> 2</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Roll Type</td>
+<td style="width: 60.0726%;">
+<meta charset="utf-8">
+<span>Coreless/Jumbo</span>
+</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Roll Length</td>
+<td style="width: 60.0726%;">
+<meta charset="utf-8">
+<span>1150'</span>
+</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Colour</td>
+<td style="width: 60.0726%;">White</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Qty/case</td>
+<td style="width: 60.0726%;">12</td>
+</tr>
+<tr>
+<td style="width: 37.0236%;">Sold/priced per</td>
+<td style="width: 60.0726%;">Case</td>
+</tr>
+</tbody>
+</table>
+<br> <br> <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>07006</s:tag>
+    <s:tag>10210c</s:tag>
+    <s:tag>1150</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>2</s:tag>
+    <s:tag>bathroom</s:tag>
+    <s:tag>coreless</s:tag>
+    <s:tag>jr</s:tag>
+    <s:tag>jrt</s:tag>
+    <s:tag>KC-07006</s:tag>
+    <s:tag>paper</s:tag>
+    <s:tag>ply</s:tag>
+    <s:tag>roll</s:tag>
+    <s:tag>scott</s:tag>
+    <s:tag>tissue</s:tag>
+    <s:tag>toilet</s:tag>
+    <s:tag>TP-07006</s:tag>
+    <s:tag>TP-KC-07006</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/570869219339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.29</s:price>
+      <s:sku>TP-07006</s:sku>
+      <s:grams>10539</s:grams>
+    </s:variant>
+  </entry>
+</feed>

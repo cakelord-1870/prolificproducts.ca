@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://prolificproducts.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://prolificproducts.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://prolificproducts.ca/collections/floor-finish.atom"/>
+  <title>Prolific Products Inc.</title>
+  <updated>2019-08-20T15:50:30-05:00</updated>
+  <author>
+    <name>Prolific Products Inc.</name>
+  </author>
+  <entry>
+    <id>https://prolificproducts.ca/products/3722695770192</id>
+    <published>2019-08-20T15:50:30-05:00</published>
+    <updated>2019-08-20T15:50:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/resistol-acrylic-floor-finish-18-solids"/>
+    <title>Resistol Acrylic Floor Finish - 18% Solids</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>SAFEBLEND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-20_at_4.53.59_PM.png?v=1566334550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SAFEBLEND<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Resistol 18 is specially formulated to provide a durable, high-gloss floor finish after every job. It excels in durability and resistance to black heel scuffs, slips and powdering. The natural colours of all floor surfaces are enhanced by RESISTOL floor care products. To obtain a wet-look appearance, use a high-speed buffing machine.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">18% acrylic floor finish</li>
+<li class="d-flex align-items-center main-after">Excellent gloss, durability and reparability</li>
+<li class="d-flex align-items-center main-after">Easy to apply</li>
+<li class="d-flex align-items-center main-after">Suitable for high and low speed maintenance programs</li>
+<li class="d-flex align-items-center main-after">CFIA accepted</li>
+</ul>
+<p><strong>Product Code:</strong></p>
+<p><span>SFBLND-RESTL1820</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18%</s:tag>
+    <s:tag>acrylic</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>resist</s:tag>
+    <s:tag>resistol</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>safeblend</s:tag>
+    <s:tag>SFBLND-RESTL1820</s:tag>
+    <s:tag>solids</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3722695770192</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>SFBLND-RESTL1820</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3722690265168</id>
+    <published>2019-08-20T15:40:53-05:00</published>
+    <updated>2019-08-20T15:40:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-ep82-uhs-floor-finish"/>
+    <title>Avmor EP82 UHS Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-20_at_4.49.25_PM.png?v=1566334176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            128.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<p class="first-uppercase">EP82 UHS Floor Finish is designed with the newest in environmentally preferable polymer technology. EP82 is a premium, low odour floor finish that provides clean looking floors with superior gloss retention resulting in less frequent need for burnishing, recoating and stripping. EP82 has advanced detergent, water, black heel mark and scuff mark, and overall wear resistance. It contains no metals and provides high durability and excellent gloss retention after repeated detergent scrubbing. EP82 exhibits exceptional leveling characteristics with no mop drag, resulting in fast surface coverage and maximum labor savings. High speed dry burnishing is highly recommended for optimal performance. EP82 is the floor finish of choice for high traffic locations. Excellent for vinyl composition, linoleum, sheet vinyl, concrete, terrazzo, quarry, Mexican tile and most resilient type flooring.</p>
+<p class="first-uppercase"><strong>Product Codes:</strong></p>
+<p class="first-uppercase">AV-EP8220</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20L</s:tag>
+    <s:tag>AV-EP8220</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>ep82</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>uhs</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3722690265168</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">128.40</s:price>
+      <s:sku>AV-EP8220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3722680336464</id>
+    <published>2019-08-20T15:34:18-05:00</published>
+    <updated>2019-08-20T15:34:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/discharge-static-dissipative-floor-finish"/>
+    <title>Discharge Static Dissipative Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>DIVERSEY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-20_at_4.39.06_PM.png?v=1566333565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIVERSEY<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            102.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Dissipates electrostatic charges longer than other products. Formulated to be used with ground out cleaner to provide complete static dissipation. Keeps floor looking good. Off-white in color with an ammonia scent.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>DIV-DIS378</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>discharge</s:tag>
+    <s:tag>disscharge</s:tag>
+    <s:tag>dissipative</s:tag>
+    <s:tag>DIV-DIS378</s:tag>
+    <s:tag>diversey</s:tag>
+    <s:tag>static</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3722680336464</id>
+      <title>(3.78L)</title>
+      <s:price currency="CAD">102.82</s:price>
+      <s:sku>DIV-DIS378</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3722673619024</id>
+    <published>2019-08-20T15:19:47-05:00</published>
+    <updated>2019-08-20T15:19:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-protection-plus-floor-finish-23-solids"/>
+    <title>Avmor Protection Plus Floor Finish - 23% Solids</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-20_at_4.32.02_PM.png?v=1566333146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            22.60 - 112.60
+            <a href="https://prolificproducts.ca/products/avmor-protection-plus-floor-finish-23-solids">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A floor finish that provides excellent gloss off the mop, superior durability, dries quickly and it responds quickly to burnishing. Its ease of application is well suited for low, periodic and high maintenance schedules and ensures trouble-free applications. It has excellent resistance to humidity, detergents, scuff, black heel mark and overall wear resistance and provides superior protection and brilliance to your floors.</span></p>
+<p><strong>Product Codes:</strong></p>
+<p>AV-PP234</p>
+<p>AV-PP2320</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AV-PP2320</s:tag>
+    <s:tag>AV-PP234</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>plus</s:tag>
+    <s:tag>protection</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3722673619024</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">22.60</s:price>
+      <s:sku>AV-PP234</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3722673619024</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">112.60</s:price>
+      <s:sku>AV-PP2320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3722659168336</id>
+    <published>2019-08-20T15:15:04-05:00</published>
+    <updated>2019-08-20T15:15:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/carefree-matte-floor-finish"/>
+    <title>Carefree Matte Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>DIVERSEY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-20_at_4.18.45_PM.png?v=1566332343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIVERSEY<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Carefree Matte is a versatile, durable floor finish without the high gloss. Ideal for facilities preferring a low gloss, low-maintenance solution. Works great on stone, linoleum, sheet vinyl and other decorative surfaces. White in color with an ammonia scent</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>DIV-CFM189</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIV-CFM189</s:tag>
+    <s:tag>diversey</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>inc</s:tag>
+    <s:tag>matte</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3722659168336</id>
+      <title>(18.9L)</title>
+      <s:price currency="CAD">145.00</s:price>
+      <s:sku>DIV-CFM189</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3722652647504</id>
+    <published>2019-08-20T15:01:02-05:00</published>
+    <updated>2019-08-20T15:01:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/equinox-floor-finish"/>
+    <title>Equinox Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>PARALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/6d845bdc97bae0df524e7035aeb26b0c.jpg?v=1566332044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PARALL<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>High performance and durable floor finish. Designed for high density traffic. Very nice gloss on application, resistant to wear, black marks and scratches. Easy to maintain: does not require frequent polishing, but is very suitable for servicing with high speed or low speed.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>EQ-20L</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EQ-20L</s:tag>
+    <s:tag>equinox</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>parall ltee</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3722652647504</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>EQ-20L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3722642554960</id>
+    <published>2019-08-20T14:56:52-05:00</published>
+    <updated>2019-08-20T14:56:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/carefree-floor-finish"/>
+    <title>Carefree Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>DIVERSEY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-20_at_4.00.39_PM.png?v=1566331257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIVERSEY<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Ultra compatible finish. This easy-to-use floor finish/sealer is formulated to work with any maintenance method and equipment on all types of floors. Off-white in color with an ammonia scent.</span></p>
+<p><strong>Product Code:</strong></p>
+<p><span>DIV-CF189</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18.9L</s:tag>
+    <s:tag>20</s:tag>
+    <s:tag>20L</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>care</s:tag>
+    <s:tag>carefree</s:tag>
+    <s:tag>DIV-CF189</s:tag>
+    <s:tag>diversy</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>free</s:tag>
+    <s:tag>offwhite</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3722642554960</id>
+      <title>(18.9L)</title>
+      <s:price currency="CAD">170.00</s:price>
+      <s:sku>DIV-CF189</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3719478116432</id>
+    <published>2019-08-17T10:56:20-05:00</published>
+    <updated>2019-08-17T10:56:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/bona-supercourt-optum-premium-1-component-waterbourne-athletic-wood-floor-finish"/>
+    <title>Bona SuperCourt Optum - Premium 1 Component Waterbourne Athletic Wood Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>DIVERSEY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-17_at_12.01.40_PM.png?v=1566057715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIVERSEY<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Bona SuperCourt OPTUM is a premium 1-component waterbourne athletic wood floor finish. Unsurpassed scuff, scratch and chemical resistance at full cure, exceptional build with excellent flow and leveling.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">Premium 1-component resin technology</li>
+<li class="d-flex align-items-center main-after">Superior chemical resistance</li>
+<li class="d-flex align-items-center main-after">Clear and colorless, highlighting the true color of stained or natural wood floors</li>
+<li class="d-flex align-items-center main-after">Very low VOC and low odor</li>
+<li class="d-flex align-items-center main-after">MFMA Approved &amp; GREENGUARD Gold certified for indoor air quality</li>
+</ul>
+<p><strong>Product Codes:</strong></p>
+<p>FF-BSO1189</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1</s:tag>
+    <s:tag>athletic</s:tag>
+    <s:tag>basketball</s:tag>
+    <s:tag>bona</s:tag>
+    <s:tag>component</s:tag>
+    <s:tag>court</s:tag>
+    <s:tag>FF-BSO1189</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>gym</s:tag>
+    <s:tag>optum</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>sealer</s:tag>
+    <s:tag>shine</s:tag>
+    <s:tag>supercourt</s:tag>
+    <s:tag>waterbourne</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3719478116432</id>
+      <title>(18.9L)</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku>FF-BSO1189</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3719477166160</id>
+    <published>2019-08-17T10:52:20-05:00</published>
+    <updated>2019-08-17T10:52:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/mirage-25-floor-finish"/>
+    <title>Mirage 25 Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-17_at_11.54.54_AM.png?v=1566057304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            21.00 - 110.00
+            <a href="https://prolificproducts.ca/products/mirage-25-floor-finish">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Mirage 25 floor finish is easy to apply, highly durable, high gloss floor finish that will not make powder or turn yellow, maintaining its colour and protecting the floor. It can be buffed at low and high speed and is suitable for all burnishing programs. Economic.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">High Gloss Acrylic Floor Finish.</li>
+<li class="d-flex align-items-center main-after">Easy to apply.</li>
+<li class="d-flex align-items-center main-after">Suitable for all burnishing programs.</li>
+<li class="d-flex align-items-center main-after">Extra Durable.</li>
+<li class="d-flex align-items-center main-after">Slip Resistant.</li>
+<li class="d-flex align-items-center main-after">No powdering or yellowing.</li>
+<li class="d-flex align-items-center main-after">Maintains its colour.</li>
+<li class="d-flex align-items-center main-after">Resistant to black scuff marks and detergents. .</li>
+<li class="d-flex align-items-center main-after">Suitable for Food Plant Use in Canada.</li>
+</ul>
+<p><strong>Product Codes:</strong></p>
+<p><span>INS-MIR254</span></p>
+<p><span>INS-MIR2520</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>gloss</s:tag>
+    <s:tag>high</s:tag>
+    <s:tag>INS-MIR2520</s:tag>
+    <s:tag>INS-MIR254</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>mirage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3719477166160</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>INS-MIR254</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3719477166160</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>INS-MIR2520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3719476248656</id>
+    <published>2019-08-17T10:46:15-05:00</published>
+    <updated>2019-08-17T10:46:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/mirage-18-floor-finish"/>
+    <title>Mirage 18 Floor Finish</title>
+    <s:type>floor fionish</s:type>
+    <s:vendor>INSTINCT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/Screen_Shot_2019-08-17_at_11.49.19_AM.png?v=1566056969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>INSTINCT<br>
+        <strong>Type: </strong>floor fionish<br>
+        <strong>Price: </strong>
+            19.00 - 100.00
+            <a href="https://prolificproducts.ca/products/mirage-18-floor-finish">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Mirage 18 floor finish is easy to apply, highly durable, high gloss floor finish that will not make powder or turn yellow, maintaining its colour and protecting the floor. It can be buffed at low and high speed and is suitable for all burnishing programs. A good quality at an unbeatable price. Economic.</span></p>
+<meta charset="utf-8">
+<ul class="items-list">
+<li class="d-flex align-items-center main-after">High Gloss Acrylic Floor Finish.</li>
+<li class="d-flex align-items-center main-after">Easy to apply.</li>
+<li class="d-flex align-items-center main-after">Suitable for all burnishing programs.</li>
+<li class="d-flex align-items-center main-after">Extra Durable.</li>
+<li class="d-flex align-items-center main-after">Slip Resistant.</li>
+<li class="d-flex align-items-center main-after">No powdering or yellowing.</li>
+<li class="d-flex align-items-center main-after">Maintains its colour.</li>
+<li class="d-flex align-items-center main-after">Resistant to black scuff marks and detergents.</li>
+<li class="d-flex align-items-center main-after">Authorized by the Canadian Food Inspection Agency for use in registered establishments.</li>
+</ul>
+<p><strong>Product Codes:</strong></p>
+<p>INS-MIR184</p>
+<p>INS-MIR1820</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>18</s:tag>
+    <s:tag>20L</s:tag>
+    <s:tag>4l</s:tag>
+    <s:tag>economic</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>INS-MIR1820</s:tag>
+    <s:tag>INS-MIR184</s:tag>
+    <s:tag>instinct</s:tag>
+    <s:tag>mirage</s:tag>
+    <s:tag>mirage18</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3719476248656</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>INS-MIR184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3719476248656</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku>INS-MIR1820</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://prolificproducts.ca/products/3717741150288</id>
+    <published>2019-08-15T19:17:34-05:00</published>
+    <updated>2019-08-15T19:17:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://prolificproducts.ca/products/avmor-ep86-lokseal-floor-finish"/>
+    <title>Avmor EP86 Lokseal Floor Finish</title>
+    <s:type>floor finish</s:type>
+    <s:vendor>AVMOR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2457/1675/products/2321278001_ep86_l_web-3.jpg?v=1565914976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVMOR<br>
+        <strong>Type: </strong>floor finish<br>
+        <strong>Price: </strong>
+            21.60 - 98.95
+            <a href="https://prolificproducts.ca/products/avmor-ep86-lokseal-floor-finish">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Designed with the newest in environmentally preferable polymer technology. Compatible with all Avmor floor finishes. It is highly recommended for sealing pores and leveling floor surfaces in preparation of floor finish application. Excellent for vinyl composition, linoleum, sheet vinyl, concrete, terrazzo, quarry, Mexican tile and most resilient type flooring.</span></p>
+<p><span><strong>Product Codes:</strong><br></span></p>
+<p><span>AV-EP864</span></p>
+<p><span>AV-EP8620</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>av</s:tag>
+    <s:tag>AV-EP8620</s:tag>
+    <s:tag>AV-EP864</s:tag>
+    <s:tag>avmor</s:tag>
+    <s:tag>ep86</s:tag>
+    <s:tag>finish</s:tag>
+    <s:tag>floor</s:tag>
+    <s:tag>lokseal</s:tag>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3717741150288</id>
+      <title>(4L)</title>
+      <s:price currency="CAD">21.60</s:price>
+      <s:sku>AV-EP864</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://prolificproducts.ca/products/3717741150288</id>
+      <title>(20L)</title>
+      <s:price currency="CAD">98.95</s:price>
+      <s:sku>AV-EP8620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
